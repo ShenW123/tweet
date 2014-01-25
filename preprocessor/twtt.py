@@ -7,6 +7,7 @@ Created on 2014-01-19
 twtt.py program takes two arguments: the input raw tweet file and the name of the output tokenized and tagged
 tweet file. Use `.twt' as the extension for the output
 '''
+from HTMLParser import HTMLParser
 import re
 
 '''
@@ -42,6 +43,25 @@ Removes all HTML Tags from the raw tweets
 print twt
 twt = re.sub('(<[^<]+?>)', '', twt) # we want to remove ALL of the html tag + everything inside for usually useless
 print twt
+
+#Below method is copied from STACKOVERFLOW
+'''class MLStripper(HTMLParser):
+    def __init__(self):
+        self.reset()
+        self.fed = []
+    def handle_data(self, d):
+        self.fed.append(d)
+    def get_data(self):
+        return ''.join(self.fed)
+
+def strip_tags(html):
+    s = MLStripper()
+    s.feed(html)
+    return s.get_data()
+
+print twt
+twt = strip_tags(twt)
+print twt'''
 
 
 
