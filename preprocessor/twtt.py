@@ -7,8 +7,8 @@ Created on 2014-01-19
 twtt.py program takes two arguments: the input raw tweet file and the name of the output tokenized and tagged
 tweet file. Use `.twt' as the extension for the output
 '''
-from HTMLParser import HTMLParser
-import re
+import HTML_Parser
+import hash_links
 
 '''
 Argument Processing
@@ -22,15 +22,19 @@ To take the 2 arguments required
 File Reading
 Takes the raw tweet file and reads it into a list to process
 '''
-
+alltwt = [] #List with all tweets
+#TODO: Create a Sentence or Tweets Structure
 #Opens a File
-#TODO: Create an iterative file opener that goes through all files in folder
 tweetfile = file("Tweets/tweet_test", "r")
 twt = tweetfile.readline() #Initialize First Line
-"""while twt:
-    print twt
+while twt:
     twt = tweetfile.readline()
-tweetfile.close()"""
+    twt = HTML_Parser.strip_tags(twt) #HTML remover
+    twt = hash_links.strip_hash_links(twt)
+    alltwt.append(twt)
+tweetfile.close()
+for tweet in alltwt:
+    print tweet
 
 
 '''
@@ -38,31 +42,6 @@ HTML remover
 Removes all HTML Tags from the raw tweets
 
 '''
-
-#method using regex developed by self
-print twt
-twt = re.sub('(<[^<]+?>)', '', twt) # we want to remove ALL of the html tag + everything inside for usually useless
-print twt
-
-#Below method is copied from STACKOVERFLOW
-'''class MLStripper(HTMLParser):
-    def __init__(self):
-        self.reset()
-        self.fed = []
-    def handle_data(self, d):
-        self.fed.append(d)
-    def get_data(self):
-        return ''.join(self.fed)
-
-def strip_tags(html):
-    s = MLStripper()
-    s.feed(html)
-    return s.get_data()
-
-print twt
-twt = strip_tags(twt)
-print twt'''
-
 
 
 '''

@@ -7,19 +7,19 @@ import re
 import htmlentitydefs
 
 class HTML_Parser:
-    '''
-    classdocs
-    '''
     def __init__(self):
         self.reset()
-        self.data = []
+        self.d = []
     def handle_data(self, twt):
-        self.data.append(twt)
+        self.d.append(twt)
     def get_data(self):
-        return ''.join(self.data)
+        return ''.join(self.d)
     
 def strip_tags(twt):
-    #Takes anything within the <> brackets and removes it
+    '''
+    Takes string and parses from HTML to plain text
+    '''
+    #Removes anything within <> of HTML
     twt = re.sub('(<[^<]+?>)', '', twt)
     #Takes any x given to the function and gets the unicode string of the first element of the found match
     twt = re.sub('&([^;]+);', lambda x: unichr(htmlentitydefs.name2codepoint[x.group(1)]), twt)
