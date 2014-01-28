@@ -20,7 +20,8 @@ def strip_tags(twt):
     Takes string and parses from HTML to plain text
     '''
     #Removes anything within <> of HTML
-    twt = re.sub('(<[^<]+?>)', '', twt)
+    twt = re.sub('(<.+>)', '', twt)
+    #Use <[^<]+?> (which preserves the text in the links) or <.+> which eliminates them all
     #Takes any x given to the function and gets the unicode string of the first element of the found match
     twt = re.sub('&([^;]+);', lambda x: unichr(htmlentitydefs.name2codepoint[x.group(1)]), twt)
     return twt

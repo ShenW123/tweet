@@ -21,38 +21,33 @@ def strip_hash_links(twt):
     Removes #Name and @Name as well as the links starting with http or www or bbc and etc
     '''
     #Removes only the # with anything that is #SOMETEXT
-    twt = re.sub('(#(?=w))', '', twt)
+    twt = re.sub('(\#(?=\w))', '', twt)
     
     #Removes only the @ with anything that is @SOMETEXT
-    twt = re.sub('(@(?=w))', '', twt)
+    twt = re.sub('(\@(?=\w))', '', twt)
     
     #Removes anything that starts with http://
-    twt = re.sub('((?<=http://)[^/w]+? )', '' , twt)
+    twt = re.sub('(?<=http://)(\S.+[\s])', '' , twt)
     twt = re.sub('(http://)', '' , twt)
     
     #Removes anything that starts with www.
-    twt = re.sub('((?<=www\.)[^/w]+? )', '' , twt)
+    twt = re.sub('(?<=www\.)(\S.+[\s])', '' , twt)
     twt = re.sub('(www\.)', '' , twt)
     
-    #Removes anything that starts with www.
-    twt = re.sub('((?<=reut\.rs\/)[^/w]+? )', '' , twt)
+    twt = re.sub('(?<=reut\.rs\/)(\S.+[\s])', '' , twt)
     twt = re.sub('(reut\.rs\/)', '' , twt)
     
-    #Removes anything that starts with www.
-    twt = re.sub('((?<=bit\.ly\/)[^/w]+? )', '' , twt)
+    twt = re.sub('(?<=bit\.ly\/)(\S.+[\s])', '' , twt)
     twt = re.sub('(bit\.ly\/)', '' , twt)
     
-    #Removes anything that starts with www.
-    twt = re.sub('((?<=on\.cnn\.com\/)[^/w]+? )', '' , twt)
+    twt = re.sub('(?<=on\.cnn\.com\/)(\S.+[\s])', '' , twt)
     twt = re.sub('(on\.cnn\.com\/)', '' , twt)
     
-    #Removes anything that starts with www.
-    twt = re.sub('((?<=nyti\.ms\/)[^\t\n\r\f\v]+? )', '' , twt)
-#     twt = re.sub('(nyti\.ms\/)', '' , twt)
+    twt = re.sub('(?<=nyti\.ms\/)(\S.+[\s])', '' , twt)
+    twt = re.sub('(nyti\.ms\/)', '' , twt)
     
-    #Removes anything that starts with www.
-    twt = re.sub('((?<=onion\.com\/)[^/w]+? )', '' , twt)
-#     twt = re.sub('(onion\.com\/)', '' , twt)
-
+    twt = re.sub('(?<=onion\.com\/)(\S.+[\s])', '' , twt)
+    twt = re.sub('(onion\.com\/)', '' , twt)
+    
     return twt
         
