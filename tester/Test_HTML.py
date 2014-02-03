@@ -14,14 +14,11 @@ class Test_HTML(unittest.TestCase):
     Output: Pass/Fail
     '''
     def test_match(self): 
-        #TODO: Implement test to run across all the tweets not just one
-        #TODO: Get file from elsewhere
         tweetfile = file("Tweets/tweet_test", "r")
         twt = tweetfile.readline()
         
-        #TODO: Implement better error codes?
         base = MLStripper.strip_tags(twt)
-        mytweet = HTML_Parser.strip_tags(twt) #I think the HTML parser is incorrect... it doesn't change &amp; into ampersands
+        mytweet = HTML_Parser.strip_tags(twt)
         print twt
         print base
         print mytweet
