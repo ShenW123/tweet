@@ -1,5 +1,5 @@
 '''
-Created on 2014-02-02
+Created on 2014-01-22
 
 @author: Shen Wang
 '''
@@ -7,81 +7,94 @@ import attributes
 import sys
 
 
-sys_argv = ["-500", "class:tweet_test.twt", "tweet_test"] #sample argv. Replace sys_argv with sys.argv in real situation
+sys_argv = ["-5", "tweet_test.twt+cnn.twt", "beat2:justinbieber.twt+ladygaga.twt", "tweet_test"] #sample argv. Replace sys_argv with sys.argv in real situation
 
+def find_class(feature_class, feature_files, fileName):
+    for a in range(len(feature_class)):
+        if fileName in feature_class[a]:
+            return fileName
+        elif fileName in feature_files[a]:
+            return "".join(feature_class[a])
+        
 if len(sys_argv) > 2: #Must have at least 3 arguments 1st: Determines # of tweets, 2nd - n-1th: Determines classes and readfiles, Last: Determine writefile
     if ((sys_argv[0][0] == '-') & (len(sys_argv[0]) > 1)): #if it begins with - and has more than just that
         tweet_number = int(sys_argv[0].split('-')[1])
-        if (tweet_number < 0 | tweet_number > 1000):
-            tweet_number = 1000
+        if (tweet_number < 0):
+            tweet_number = 9999
     else:
-        tweet_number = 1000 #Default? how do you make it ALL THE TWEETS
+        tweet_number = 9999 #Default? how do you make it ALL THE TWEETS just loop it all the time?
     
+    feature_class = []
+    feature_files = []
     for index in range(len(sys_argv) - 2): #So can handle the + 1 to index by reducing length by 1 and skips last argument
         n = sys_argv[index + 1] #So skips the first index 0
         n = n.split(':')
         if len(n) > 1:
-            feature_class = n[0]
-            feature_files = n[1].split('+')
+            for i in range(0, len(n), 2):
+                feature_class.append([n[i]])
+                feature_files.append(n[i+1].split('+'))
         else:
-            feature_files = n[0].split('+')
+            feature_class.append(n[0].split('+'))
+            feature_files.append(n[0].split('+'))
             
     write_fileName = sys_argv[-1]
 
 #next n arguments are in format of class:tweetfile+tweetfile+... each
 #last argument is output arff
 
-
-
-#TODO: need a way of giving it a feature of which tweet it came from after figuring out how to separate the tweets by which tweet they came from
-    
 writefile = file("ARFF/" + write_fileName + ".arff", "w")
 
-writefile.write('@relation twit_classification\n\n') #Initialize first line #TODO: What is this relation? is it the class?
+writefile.write('@relation twit_classification\n\n') #Initialize first line
 
-attribute_list = {"first_person_pronouns":"numeric", "second_person_pronouns": "numeric", "thrid_person_pronouns": "numeric",
-              "coordinating_conjunctions": "numeric", "past_tense_verbs": "numeric", "commas": "numeric", "colons_semicolons": "numeric",
-              "dashes": "numeric", "parentheses": "numeric", "common_singular_nouns": "numeric", "common_plural_nouns": "numeric", "proper_singular_nouns": "numeric"
-              , "proper_plural_nouns": "numeric", "adverb": "numeric", "adverb_comparative": "numeric",
-              "adverb_superlative": "numeric", "wh_words": "numeric", "particle": "numeric"
-               }
-for key in attribute_list:
-    line = "@attribute " + key +" "+ attribute_list.get(key) + "\n"
+attribute_list = ["first_person_pronouns", "numeric", "second_person_pronouns", "numeric", "thrid_person_pronouns", "numeric",
+              "coordinating_conjunctions", "numeric", "past_tense_verbs", "numeric", "commas", "numeric", "colons_semicolons", "numeric",
+              "dashes", "numeric", "parentheses", "numeric", "common_singular_nouns", "numeric", "common_plural_nouns", "numeric", "proper_singular_nouns", "numeric"
+              , "proper_plural_nouns", "numeric", "adverb", "numeric", "adverb_comparative", "numeric",
+              "adverb_superlative", "numeric", "wh_words", "numeric", "slang", "numeric", "all_caps_words", "numeric",
+              "number of sentences", "numeric", "average_sentence_length", "numeric", "alltokens_not_punctuation_length", "numeric"
+               ]
+
+for index in range(0, len(attribute_list), 2):
+    line = "@attribute " + attribute_list[index] +" "+ attribute_list[index + 1] + "\n"
     writefile.write(line)
 
+classes = []
+for i in range(len(feature_class)):
+    classes.append(",".join(feature_class[i]))
+writefile.write("@attribute twit {%s}\n" % (",".join(classes)))
+                                     
 writefile.write("\n") #separator
 writefile.write("@data\n")
 
-for fileName in feature_files:
-    tweetfile = file("Processed/" + fileName, "r")
-    tweet = []
-    alltweets = []
-    twt = tweetfile.readline() #Initialize first | of tweet
-    twt = tweetfile.readline() #Initialize First Line
-    while twt:
-        if twt == "|\n":
-            alltweets.append(tweet)
-            tweet = []
-        else:
-            tweet.append(twt)
-        twt = tweetfile.readline() #Read next tweet
-    
-    for element in alltweets:
-        values = attributes.get_attributes(str(element)) #TODO: Can str(list) have bad stuff happen?
-        writefile.write(values[0]) #Intializes first value
-        del values[0] #Deletes it so doesn't affect forloop
-        for index in range(len(values)):
-            writefile.write(',') #comma first so the string won't end in a comma
-            writefile.write(values[index])
-        writefile.write('\n') #newline at end of each
+for file_list in feature_files:
+    for fileName in file_list:
+        max_tweets = tweet_number
+        tweetfile = file("Processed/" + fileName, "r")
+        tweet = []
+        alltweets = []
+        twt = tweetfile.readline() #Initialize first | of tweet
+        twt = tweetfile.readline() #Initialize First Line
+        while twt:
+            if twt == "|\n":
+                alltweets.append(tweet)
+                max_tweets = max_tweets - 1
+                tweet = []
+            else:
+                tweet.append(twt)
             
-
-writefile.write('\n') #newline at end of file?
+            if max_tweets > 0:
+                twt = tweetfile.readline() #Read next tweet
+            else:
+                break;
+        
+        for element in alltweets:
+            values = attributes.get_attributes("".join(element))
+            printout = ",".join(values)
+            writefile.write("%s" % printout)
+            writefile.write(",%s\n" % find_class(feature_class, feature_files, fileName))
+            
 tweetfile.close()
 writefile.close()
-    
-    
-
     
     
     

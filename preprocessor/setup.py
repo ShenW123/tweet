@@ -5,12 +5,13 @@ Created on 2014-01-29
 '''
 import re
 
+
 def add_abbr():
     '''
     Add all abbreviations to abbreviation dictionary for easy lookup
     '''
     abbrall = {}
-    abbrfile = file("Wordlists/abbrev.english", "r")
+    abbrfile = file("Wordlists/abbrev.english", "r")#TODO: Change these to be more generic (eg. absolute paths to the school computers
     abbr = abbrfile.readline()
     while abbr:
         abbr = re.sub('\n', '', abbr)
@@ -53,6 +54,20 @@ def add_tpp():
     '''
     tppall = {}
     tppfile = file("Wordlists/Third-person", "r")
+    tpp = tppfile.readline()
+    while tpp:
+        tpp = re.sub('\n', '', tpp)
+        tppall[tpp.lower()] = 1;
+        tpp = tppfile.readline()
+    tppfile.close()
+    return tppall
+
+def add_slang():
+    '''
+    Adds all third person pronouns to a dictionary
+    '''
+    tppall = {}
+    tppfile = file("Wordlists/Slang", "r")
     tpp = tppfile.readline()
     while tpp:
         tpp = re.sub('\n', '', tpp)

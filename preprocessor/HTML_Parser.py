@@ -56,4 +56,7 @@ def strip_hash_links(twt):
     twt = re.sub('(?<=youtube\.com\/)(\S.+[\s])', '' , twt)
     twt = re.sub('(youtube\.com\/)', '' , twt)
     
+    twt = re.sub('(?<=tinyurl\.com\/)(\S.+[\s])', '' , twt)
+    twt = re.sub('(tinyurl\.com\/)', '' , twt)
+    
     return twt

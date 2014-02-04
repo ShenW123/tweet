@@ -1,64 +1,47 @@
 @relation twit_classification
 
-@attribute parentheses numeric
-@attribute colons_semicolons numeric
-@attribute adverb numeric
-@attribute commas numeric
-@attribute past_tense_verbs numeric
+@attribute first_person_pronouns numeric
 @attribute second_person_pronouns numeric
-@attribute proper_plural_nouns numeric
-@attribute adverb_comparative numeric
+@attribute thrid_person_pronouns numeric
+@attribute coordinating_conjunctions numeric
+@attribute past_tense_verbs numeric
+@attribute commas numeric
+@attribute colons_semicolons numeric
+@attribute dashes numeric
+@attribute parentheses numeric
+@attribute common_singular_nouns numeric
 @attribute common_plural_nouns numeric
+@attribute proper_singular_nouns numeric
+@attribute proper_plural_nouns numeric
+@attribute adverb numeric
+@attribute adverb_comparative numeric
 @attribute adverb_superlative numeric
 @attribute wh_words numeric
-@attribute coordinating_conjunctions numeric
-@attribute common_singular_nouns numeric
-@attribute thrid_person_pronouns numeric
-@attribute first_person_pronouns numeric
-@attribute proper_singular_nouns numeric
-@attribute particle numeric
-@attribute dashes numeric
+@attribute slang numeric
+@attribute all_caps_words numeric
+@attribute number of sentences numeric
+@attribute average_sentence_length numeric
+@attribute alltokens_not_punctuation_length numeric
+@attribute twit {tweet_test.twt,cnn.twt,beat2}
 
 @data
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-0,0,0,0,0,0,0,0,0,4,1,1,1,0,0,0,0,0
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0
-0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
-0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
-0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
-1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0
-0,0,0,0,0,1,0,0,0,2,0,1,0,0,0,0,0,0
-1,0,0,0,0,1,0,0,0,3,0,0,0,1,0,0,0,0
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-0,0,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0
-0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0
-1,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0
-0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0
-1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-0,0,0,0,1,0,0,0,0,6,0,2,0,0,0,0,0,0
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-0,0,0,0,0,0,1,0,0,0,2,2,0,3,0,0,0,0
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-0,0,0,0,0,0,0,0,0,4,0,2,0,0,0,0,0,0
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-0,0,1,0,0,0,0,1,0,2,1,5,0,0,0,0,0,0
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-0,1,0,0,0,0,1,0,0,2,0,1,0,0,0,0,1,0
-0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8.0,4.0,tweet_test.twt
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6.0,4.5,tweet_test.twt
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7.5,2.7,tweet_test.twt
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6.66666666667,3.6,tweet_test.twt
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8.5,2.69230769231,tweet_test.twt
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,11.0,5.4,cnn.twt
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20.0,4.0,cnn.twt
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,21.0,4.78947368421,cnn.twt
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9.0,4.0,cnn.twt
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5.0,5.5,cnn.twt
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5.0,5.66666666667,beat2
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5.0,2.0,beat2
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5.0,4.66666666667,beat2
+0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,12.5,5.2380952381,beat2
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11.0,5.66666666667,beat2
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,17.0,3.51612903226,beat2
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6.5,4.66666666667,beat2
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,beat2
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,beat2
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10.5,3.9,beat2

@@ -3,7 +3,6 @@ Created on 2014-01-19
 
 @author: Shen Wang
 
-
 twtt.py program takes two arguments: the input raw tweet file and the name of the output tokenized and tagged
 tweet file. Use `.twt' as the extension for the output
 '''
@@ -38,8 +37,8 @@ def EOS(twt):
                 else:
                     was_quote = 0
             else:
-                split = re.split('(\S.+?[.!?])(?=\s+|$)', twt[index])
-                flat_twt.append(split)
+                split = re.split('(\S.+?[.!?])(?=\s+|$)', twt[index]) #TODO: still need to deal with U.S. and other's like this
+                flat_twt.append(split) #TODO: also need to deal with ... and !!! and etc...
     twt = flatten(flat_twt)
     
     for c in twt:
@@ -140,6 +139,7 @@ def postProcess(sentence):
     sentence = change_tag(sentence, fppall, 'PRP', 'FPRP') #Changes all first person pronouns
     sentence = change_tag(sentence, sppall, 'PRP', 'SPRP') #Changes all second person pronouns
     sentence = change_tag(sentence, tppall, 'PRP', 'TPRP') #Changes all third person pronouns
+    sentence = change_tag(sentence, slangall, '', 'SLANG') #Appropriate changes for any word that matches SLANG terms
     return sentence
 
 '''
@@ -169,8 +169,10 @@ If given more arguments, don't care about them
 '''
 # file_to_read = sys.argv[1]
 # file_to_write = sys.argv[2]
-files = ["aplusk", "BarackObama", "bbcnews", "britneyspears", "CBCNews", "cnn", "justinbieber", "katyperry", "KimKardashian", "ladygaga", "neiltyson", "nytimes", "Reuters", "rihanna", "sciencemuseum", "shakira", "StephenAtHome", "taylorswift13", "TheOnion", "torontostarnews", "tweet_test"]
-#files = ["katyperry", "KimKardashian", "ladygaga", "neiltyson", "nytimes", "Reuters", "rihanna", "sciencemuseum", "shakira", "StephenAtHome", "taylorswift13", "TheOnion", "torontostarnews", "tweet_test"]
+files = ["aplusk", "BarackObama", "bbcnews", "britneyspears", "CBCNews", "cnn", "justinbieber", 
+         "katyperry", "KimKardashian", "ladygaga", "neiltyson", "nytimes", "Reuters", "rihanna", "sciencemuseum", 
+         "shakira", "StephenAtHome", "taylorswift13", "TheOnion", "torontostarnews", "tweet_test"]
+
 '''
 Setup all dictionaries needed
 '''
@@ -178,6 +180,7 @@ abbrall = setup.add_abbr()
 fppall = setup.add_fpp()
 sppall = setup.add_spp()
 tppall = setup.add_tpp()
+slangall = setup.add_slang()
 
 '''
 Main Process
@@ -197,7 +200,6 @@ for c in files:
         twt = HTML_Parser.strip_hash_links(twt) #Hash and Links Removal
         twt = EOS(twt) #Twt is now a list of sentences
         twt = tokenize(twt) #Twt is a list of sentences that is now a list of processed tokens
-        print twt
         writefile.write(twt)
         writefile.write('\n|\n') #At end of each tweet add a | and \n to distinguish between tweets
         twt = tweetfile.readline() #Read next tweet
