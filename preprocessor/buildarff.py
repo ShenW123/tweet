@@ -6,8 +6,9 @@ Created on 2014-01-22
 import attributes
 import sys
 
-
-sys_argv = ["-5", "tweet_test.twt+cnn.twt", "beat2:justinbieber.twt+ladygaga.twt", "tweet_test"] #sample argv. Replace sys_argv with sys.argv in real situation
+news = "news:bbcnews.twt+CBCNews.twt+cnn.twt+nytimes.twt+Reuters.twt+TheOnion.twt+torontostarnews.twt+aplusk.twt"
+popstars = "pop:justinbieber.twt+ladygaga.twt+britneyspears.twt+katyperry.twt+KimKardashian.twt+shakira.twt+rihanna.twt+taylorswift13.twt"
+sys_argv = ["-700", news, popstars, "newsvspopstars"] #sample argv. Replace sys_argv with sys.argv in real situation
 
 def find_class(feature_class, feature_files, fileName):
     for a in range(len(feature_class)):
@@ -51,7 +52,7 @@ attribute_list = ["first_person_pronouns", "numeric", "second_person_pronouns", 
               "dashes", "numeric", "parentheses", "numeric", "common_singular_nouns", "numeric", "common_plural_nouns", "numeric", "proper_singular_nouns", "numeric"
               , "proper_plural_nouns", "numeric", "adverb", "numeric", "adverb_comparative", "numeric",
               "adverb_superlative", "numeric", "wh_words", "numeric", "slang", "numeric", "all_caps_words", "numeric",
-              "number of sentences", "numeric", "average_sentence_length", "numeric", "alltokens_not_punctuation_length", "numeric"
+              "number_of_sentences", "numeric", "average_sentence_length", "numeric", "alltokens_not_punctuation_length", "numeric"
                ]
 
 for index in range(0, len(attribute_list), 2):

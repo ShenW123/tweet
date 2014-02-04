@@ -28,17 +28,17 @@ def EOS(twt):
     flat_twt = []
     for index in range(len(twt)):
         if len(twt[index]) >= 1:
-            if twt[index][0] == '"':
-                flat_twt.append(twt[index] + twt[index + 1] + twt[index + 2])
-                was_quote = was_quote + 1
-            elif was_quote != 0:
+            if was_quote != 0:
                 if was_quote == 1:
                     was_quote = was_quote + 1
                 else:
                     was_quote = 0
+            elif twt[index][0] == '"':
+                flat_twt.append(twt[index] + twt[index + 1] + twt[index + 2])
+                was_quote = was_quote + 1
             else:
-                split = re.split('(\S.+?[.!?])(?=\s+|$)', twt[index]) #TODO: still need to deal with U.S. and other's like this
-                flat_twt.append(split) #TODO: also need to deal with ... and !!! and etc...
+                split = re.split('(\S.+?[.!?])(?=\s+|$)', twt[index]) 
+                flat_twt.append(split) 
     twt = flatten(flat_twt)
     
     for c in twt:
@@ -113,22 +113,29 @@ def tokenize(twt):
         sentence = sentence.strip().split()
         cleansentence = []
         for word in sentence:
-            word = re.split('(\s?[.!?",/\'@#$%&:;])', word) #This doesn't account for cases like U.S. where I wan't it to stay together and paid $10,000 and other stuff
+            #word = re.split('(\s?[.!?",/\'@#$%&:;])', word) #This doesn't account for cases like U.S. where I wan't it to stay together and paid $10,000 and other stuff
+            word = re.split('([^\w]+?)(?=\s+|$)|(?<=\$)(\S+|$)|(["])|(?<=\")(\w+)', word)
             clean_word = []
             for el in range(len(word)):
-                if len(word[el]) >= 1:
+                if word[el] is None:
+                    continue
+                elif len(word[el]) >= 1:
                     clean_word.append(word[el])
             #Possible Implementations, 1) if there is punctuation inside the word like . or comma then don't split! Else split
             #that won't account for U.S. therefore the last period splits if next word is upper and doesn't if next word is lower?
             cleansentence.append(clean_word)
-            
+        
         cleansentence = flatten(cleansentence)
+        print cleansentence
         sentence = to_tag(cleansentence)
         
         tweets.append(sentence)
         
     tweets = "\n".join(tweets)
     return tweets
+
+    #TODO: still need to deal with U.S. and other's like this
+    #TODO: also need to deal with ... and !!! and etc...
 
 '''
 Tagger Post Processing
@@ -173,6 +180,7 @@ files = ["aplusk", "BarackObama", "bbcnews", "britneyspears", "CBCNews", "cnn", 
          "katyperry", "KimKardashian", "ladygaga", "neiltyson", "nytimes", "Reuters", "rihanna", "sciencemuseum", 
          "shakira", "StephenAtHome", "taylorswift13", "TheOnion", "torontostarnews", "tweet_test"]
 
+#files = ["tweet_test"]
 '''
 Setup all dictionaries needed
 '''

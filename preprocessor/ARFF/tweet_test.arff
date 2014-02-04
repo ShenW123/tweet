@@ -19,7 +19,7 @@
 @attribute wh_words numeric
 @attribute slang numeric
 @attribute all_caps_words numeric
-@attribute number of sentences numeric
+@attribute number_of_sentences numeric
 @attribute average_sentence_length numeric
 @attribute alltokens_not_punctuation_length numeric
 @attribute twit {tweet_test.twt,cnn.twt,beat2}

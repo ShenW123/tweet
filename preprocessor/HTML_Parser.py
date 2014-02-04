@@ -12,7 +12,7 @@ Takes string and parses from HTML to plain text
 def strip_HTML(twt):
     #Removes anything within <> of HTML
     twt = re.sub('<[^<]+?>', '', twt)
-    #Use <[^<]+?> (which preserves the text in the links) or <.+> which eliminates them all
+    #TODO: Use <[^<]+?> (which preserves the text in the links) or <.+> which eliminates them all
     #Takes any x given to the function and gets the unicode string of the first element of the found match
     twt = re.sub('&([^;]+);', lambda x: unichr(htmlentitydefs.name2codepoint[x.group(1)]), twt)
     return twt

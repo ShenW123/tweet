@@ -7,7 +7,7 @@ En/NNP la/FW entrevista/NN Calderon/NNP habla/NN de/FW inseguridad/NN ,/, la/FW 
 |
 Health/NNP Insurers/NNS Seek/NNP Higher/JJR Premiums/NNS
 |
-Man/NN In/IN the/DT News/NNP |/NN Mahmoud/NNP Abbas/NNP :/: At/IN U/SLANG ./. N/NN ./. ,/, a/DT Moment/NN for/IN Abbas/NNP to/TO Shed/VB Arafats/NNS Shadow/NNP
+Man/NN In/IN the/DT News/NNP |/NN Mahmoud/NNP Abbas/NNP :/: At/IN U.N/CD .,/CD a/DT Moment/NN for/IN Abbas/NNP to/TO Shed/VB Arafats/NNS Shadow/NNP
 |
 NYT/NN NEWS/NN ALERT/JJ :/: Afghanistan/NNP Peace/NNP Council/NNP Chief/NNP Is/VBZ Killed/VBN in/IN Bombing/VBG
 |
@@ -35,7 +35,7 @@ Cleaning/VBG of/IN Zuccotti/NN Park/NNP Is/VBZ Postponed/VBN
 |
 Steve/NNP Jobs/NNP Defended/VBD His/TPRP Work/NN With/IN a/DT Barbed/JJ Tongue/NN
 |
-Those/DT asking/VBG about/IN tranquilizers/NNS :/: Cops/NNS response/NN is/VBZ they/TPRP don/VB '/POS t/NN carry/VB them/TPRP ,/, didn/VBD '/POS t/NN have/VBP time/NN to/TO wait/VB ,/, public/JJ safety/NN more/JJR important/JJ Zanesville/NN
+Those/DT asking/VBG about/IN tranquilizers/NNS :/: Cops/NNS response/NN is/VBZ they/TPRP don't/VB carry/VB them/TPRP ,/, didn't/VBD have/VBP time/NN to/TO wait/VB ,/, public/JJ safety/NN more/JJR important/JJ Zanesville/NN
 |
 Rivalries/NNS Impede/VB Government/NNP Formation/NNP in/IN Libya/NNP
 |
@@ -68,35 +68,35 @@ Kenya/NNP Planned/VBN Somalia/NNP Incursion/NN Far/NNP in/IN Advance/NNP
 |
 A/DT Gothic/JJ Tour/NNP of/IN Italy/RB
 |
-Leon/NNP Panetta/NNP Assures/VBZ Allies/NNPS of/IN U/SLANG ./. S/NNP ./.
+Leon/NNP Panetta/NNP Assures/VBZ Allies/NNPS of/IN U.S/CD ./.
 Presence/NNP in/IN Pacific/NNP
 |
 2/NN Alabama/NNP Immigration/NNP Law/NNP Provisions/NNS Are/VBP Blocked/VBN
 |
 Fatal/JJ Shooting/VBG at/IN Restaurant/NNP in/IN Carson/NNP City/NNP ,/, Nev/NNP ./.
 |
-NYT/NN '/POS s/PRP marklandler/NN is/VBZ live/VB tweeting/VBG from/IN ground/NN zero/CD now/RB ./.
+NYT's/NNS marklandler/NN is/VBZ live/VB tweeting/VBG from/IN ground/NN zero/CD now/RB ./.
 Follow/VB him/TPRP for/IN Sept11/NN updates/NNS ./.
 |
 BP/NNP Recovers/VBZ $/$ 4/NN Billion/CD From/IN Anadarko/NNP for/IN Gulf/NNP Spill/NN
 |
 Leisurely/RB Trip/NN Inland/NNP for/IN Tropical/JJ Storm/NN Lee/NNP
 |
-The/DT Caucus/NNP :/: Palin/NN Rails/NNPS Against/IN '/POS Crony/NN Capitalism/NN '/POS and/CC '/POS Career/NNP Politicians/NNS '/POS
+The/DT Caucus/NNP :/: Palin/NN Rails/NNPS Against/IN 'Crony/NN Capitalism/NN '/POS and/CC 'Career/NN Politicians/NNS '/POS
 |
-Media/NNP Decoder/NN Blog/NN :/: The/DT Onion/NN '/POS s/PRP '/POS Hostage/NNP '/POS Tweets/NNS Draw/VB Scrutiny/NN
+Media/NNP Decoder/NN Blog/NN :/: The/DT Onion's/NNS 'Hostage/NN '/POS Tweets/NNS Draw/VB Scrutiny/NN
 |
-David/NNP Becker/NNP ,/, Ex-S/NN ./. E/NN ./. C/NN ./.
+David/NNP Becker/NNP ,/, Ex-S.E.C/CD ./.
 Lawyer/NNP ,/, Defends/NNS Madoff/NN Role/NN
 |
 ArtsBeat/NN Blog/NN :/: CMJ/NN Day/NNP 3/NN :/: Twitter/NN Reviews/NNS of/IN Freshkills/NNS ,/, AraabMuzik/NN and/CC More/RBR
 |
 Pennsylvania/NNP Republicans/NNPS Weigh/VB Electoral/JJ Vote/NN Changes/NNS
 |
-N/NN ./. Y/NNP ./.
+N.Y/CD ./.
 Region/NNP in/IN Triage/NN Mode/NNP as/IN Flooding/VBG Persists/VBZ
 |
-U/SLANG ./. S/NNP ./.
+U.S/CD ./.
 Says/VBZ Some/DT Chinese/JJ Subsidies/NNS Violate/VB Trade/NNP Rules/NNP
 |
 NYT/NN NEWS/NN ALERT/JJ :/: Sarah/NNP Palin/NN Says/VBZ She/TPRP Will/MD Not/RB Seek/NNP the/DT Presidency/NNP
@@ -109,32 +109,32 @@ For/IN Deep-Sea/JJ Squid/NN ,/, Same-Sex/NN Sex/NN Is/VBZ Only/RB Half/NN the/DT
 |
 Mosque/NNP Set/VB on/IN Fire/NNP in/IN Northern/NNP Israel/NNP
 |
-Monitor/NNP Must/MD Oversee/VB N/NN ./. Y/NNP ./.
+Monitor/NNP Must/MD Oversee/VB N.Y/CD ./.
 Fire/NNP Dept/NN ./. Hiring/VBG ,/, Judge/NNP Rules/NNP
 |
-Bank/NNP of/IN America/NNP Confirms/VBZ 30/NN ,/, 000/NN Jobs/NNP to/TO Go/VB
+Bank/NNP of/IN America/NNP Confirms/VBZ 30,000/NN Jobs/NNP to/TO Go/VB
 |
 Arctic/NNP Village/NNP Split/VBN by/IN Oil-Drilling/VBG Plan/NNP
 |
-Square/NNP Feet/NNS :/: Portland/NNP ,/, Ore/NNP ./. ,/, Developments/NNPS Cater/NNP to/TO Bicycle/NNP Riders/NNPS
+Square/NNP Feet/NNS :/: Portland/NNP ,/, Ore/NNP .,/CD Developments/NNPS Cater/NNP to/TO Bicycle/NNP Riders/NNPS
 |
 Willow/NNP ,/, Lost/JJ Cat/NNP From/IN Colorado/NNP ,/, Resurfaces/NNS in/IN Manhattan/NNP
 |
 Details/NNS of/IN Israeli/JJ Soldiers/NNS Release/NNP Emerge/VB
 |
-Filipino/NNP Militants/NNS Free/NNP U/SLANG ./. S/NNP ./.
+Filipino/NNP Militants/NNS Free/NNP U.S/CD ./.
 Woman/NNP ,/, Still/RB Hold/VB Son/NNP
 |
 Court/NNP 17/NN at/IN Flushing/VBG Meadows/NNP :/: A/DT Tiny/NNP Stage/NNP for/IN Big/NNP Tennis/NNP
 |
 As/IN the/DT national/JJ media/NNS leaves/VBZ Trenton/NNP ,/, powellnyt/NN stops/VBZ and/CC takes/VBZ a/DT walk/NN around/IN the/DT city/NN ./.
-It/TPRP '/POS s/PRP not/RB a/DT pretty/RB picture/NN ./.
+It's/NNP not/RB a/DT pretty/RB picture/NN ./.
 |
 Vermont/NNP Looks/VBZ to/TO Restore/VB Roads/NNP and/CC Bridges/NNP
 |
 Tar/NNP Heels/NNS Face/NNP Different/JJ Challenges/NNPS but/CC Goal/JJ Is/VBZ the/DT Same/JJ
 |
-U/SLANG ./. N/NN ./.
+U.N/CD ./.
 Reports/NNS 7/NN Billion/CD Humans/NNS ,/, but/CC Others/NNS Dont/NN Count/NNP on/IN It/TPRP
 |
 Slide/NN show/NN :/: Our/FPRP latest/JJS Sept11/NN photographs/NNS from/IN ground/NN zero/CD ,/, Shanksville/NN and/CC the/DT Pentagon/NNP today/NN
@@ -144,16 +144,16 @@ OccupyWallStreet/NN ?/.
 We/FPRP want/VBP to/TO add/VB you/SPRP as/IN a/DT source/NN ./.
 Sign/NNP up/IN here/RB :/:
 |
-TransCanada/NNP Pipeline/NNP Foes/NNS Allege/VBP Bias/NNP in/IN U/SLANG ./. S/NNP ./.
+TransCanada/NNP Pipeline/NNP Foes/NNS Allege/VBP Bias/NNP in/IN U.S/CD ./.
 E-Mails/NNS
 |
 NYT/NN NEWS/NN ALERT/JJ :/: Rangers/NNPS Win/NNP Second/JJ Game/NN ,/, 2-1/NN ,/, to/TO Tie/VB World/NNP Series/NNP
 |
-NYT/NN NEWS/NN ALERT/JJ :/: Nigerian/NN Man/NN to/TO Plead/VB Guilty/JJ in/IN Plot/NN to/TO Blow/NN Up/IN Plane/NNP ,/, Lawyer/NNP Tells/VBZ the/DT A/DT ./. P/NN ./.
+NYT/NN NEWS/NN ALERT/JJ :/: Nigerian/NN Man/NN to/TO Plead/VB Guilty/JJ in/IN Plot/NN to/TO Blow/NN Up/IN Plane/NNP ,/, Lawyer/NNP Tells/VBZ the/DT A.P/CD ./.
 |
 11/NN Memorial/JJ Tickets/NNS Distributed/VBN Through/IN Tour/NNP Companies/NNS
 |
-As/IN U/SLANG ./. N/NN ./.
+As/IN U.N/CD ./.
 Meets/NNP ,/, a/DT Battle/NNP Over/IN Generic/NNP Biotech/NNP Drugs/NNS
 |
 Still/RB Great/NNP ./.
@@ -177,7 +177,7 @@ Lights/NNS Out/IN ,/, Game/NN On/IN
 |
 Court/NNP Convicts/NNS Serb/NN General/JJ for/IN Balkan/NNP Atrocities/NNS
 |
-U/SLANG ./. S/NNP ./.
+U.S/CD ./.
 Troops/NNS to/TO Leave/VB Iraq/NNP by/IN Years/NNS End/NN ,/, Obama/NN Says/VBZ
 |
 Testosterone/NN Study/NNP Has/VBZ Fathers/NNPS Questioning/VBG Their/TPRP Manhood/NN
@@ -186,7 +186,7 @@ Panetta/NNP Joins/VBZ South/NNP Korea/NNP in/IN Warning/VBG to/TO North/NNP
 |
 DealBook/NN :/: Japanese/JJ Bankers/NNPS at/IN Heart/NNP of/IN Olympus/NNS Fee/NN Inquiry/NNP
 |
-Teller-A/NN ./. T/NN ./. M/NNP ./.
+Teller-A.T.M/CD ./.
 Hybrid/NNP Takes/VBZ Banking/VBG to/TO Rural/JJ India/NNP
 |
 Solar/NNP Company/NNP Solyndra/NN Says/VBZ Its/TPRP CEO/NNP Resigned/VBD
@@ -201,7 +201,7 @@ House/NNP Passes/VBZ Small/JJ Part/NN of/IN Obamas/NNS Jobs/NNP Bill/NNP
 |
 Misstatements/NNS Shadow/NNP Bachmann/NNP in/IN Republican/NNP Presidential/JJ Race/NNP
 |
-The/DT Haggler/NN :/: A/DT Cellphone/NN Theft/NN ,/, and/CC a/DT $/$ 25/NN ,/, 000/NN Phone/NN Bill/NNP
+The/DT Haggler/NN :/: A/DT Cellphone/NN Theft/NN ,/, and/CC a/DT $/$ 25,000/NN Phone/NN Bill/NNP
 |
 Michigan/NNP State/NNP 37/NN ,/, Wisconsin/NNP 31/NN :/: Michigan/NNP State/NNP Defeats/NNS Wisconsin/NNP in/IN Final/JJ Touchdown/NN
 |
@@ -225,9 +225,9 @@ Yemens/NNPS President/NNP Ali/NNP Abdullah/NNP Saleh/NNP Abruptly/RB Returns/NNS
 |
 Swami/NNS Bhaktipada/NN ,/, Ex-Hare/NN Krishna/NNP Leader/NNP ,/, Dies/NNP at/IN 74/NN
 |
-Straight/JJ Sets/NNS :/: In/IN an/DT Upset/VBN ,/, It/TPRP '/POS s/PRP Pavlyuchenkova/NN
+Straight/JJ Sets/NNS :/: In/IN an/DT Upset/VBN ,/, It's/NNP Pavlyuchenkova/NN
 |
-./. FarrellTimes/NNS ,/, foreign/JJ correspondent/NN ,/, recalls/VBZ his/TPRP Sept11/NN in/IN a/DT Jenin/NN refugee/NN camp/NN in/IN the/DT West/NNP Bank/NNP :/:
+.FarrellTimes/CD ,/, foreign/JJ correspondent/NN ,/, recalls/VBZ his/TPRP Sept11/NN in/IN a/DT Jenin/NN refugee/NN camp/NN in/IN the/DT West/NNP Bank/NNP :/:
 |
 Wave/NNP Glider/NN ,/, a/DT Floating/VBG Robot/NN ,/, Seeks/VBZ to/TO Network/NNP the/DT Oceans/NNS
 |
@@ -236,7 +236,7 @@ In/IN Conference/NNP Realignment/NN ,/, Colleges/NNP Run/NNP to/TO (Pay)daylight
 Taps/VBZ have/VBP just/RB been/VBN played/VBD at/IN Pentagon/NNP ,/, a/DT passing/VBG plane/NN has/VBZ drowned/VBN out/IN part/NN of/IN benediction/NN ./.
 |
 What/WP questions/NNS do/VBP you/SPRP have/VBP about/IN the/DT candidates/NNS '/POS claims/NNS at/IN ReaganDebate/NN so/SLANG far/RB ?/.
-We/FPRP '/POS ll/NN answer/NN a/DT selection/NN ./.
+We'll/NN answer/NN a/DT selection/NN ./.
 |
 President/NNP to/TO Ease/VB Student-Loan/JJ Burden/NNP for/IN Low-Income/NNP Graduates/NNS
 |
@@ -263,7 +263,7 @@ Cast/VBN your/SPRP vote/NN :/:
 |
 Romney/NN actually/RB getting/VBG some/DT boos/NNS from/IN audience/NN at/IN CNNTeaParty/NN debate/NN ./.
 |
-Tigers/NNP 5/NN ,/, Yankees/NNP 3/NN :/: A/DT ./. L/NNP ./.
+Tigers/NNP 5/NN ,/, Yankees/NNP 3/NN :/: A.L/CD ./.
 Playoffs/NNS :/: Tigers/NNP Draw/VB Even/RB as/IN Yankees/NNP Rally/RB Falls/NNP Short/JJ
 |
 Daughter/NN of/IN Argentinas/NNS Dirty/JJ War/NNP ,/, Raised/VBN by/IN the/DT Man/NN Who/WP Killed/VBN Her/TPRP Parents/NNS
@@ -312,7 +312,7 @@ In/IN Santa/NNP Ana/NNP ,/, New/NNP Faces/NNPS and/CC a/DT Contentious/JJ Reviva
 |
 EU/NN :/: Yanukovych/NN Trip/NN to/TO Brussels/NNP Canceled/VBN
 |
-Floyd/NNP Mayweather/NN Jr/NNP ./. :/: Welterweight/NN With/IN Heavyweight/NN Financial/JJ Clout/NN
+Floyd/NNP Mayweather/NN Jr/NNP .:/CD Welterweight/NN With/IN Heavyweight/NN Financial/JJ Clout/NN
 |
 As/IN names/NNS are/VBP read/VB ,/, firefighters/NNS from/IN Engine/NNP Co/NNP ./. 220/NN ,/, Ladder/NN Co/NNP ./. 122/NN unfurl/NN a/DT banner/NN to/TO their/TPRP fallen/VBN comrades/NNS
 |
@@ -324,7 +324,7 @@ Sony/NNP Buys/VBZ Full/JJ Control/NNP of/IN Mobile/NNP Phone/NN Venture/NNP Sony
 |
 Israel/NNP Releases/NNS Names/NNS of/IN 477/NN Prisoners/NNP to/TO Be/VB Freed/VBN in/IN Trade/NNP
 |
-Big/NNP City/NNP Book/NNP Club/NNP :/: A/DT Discussion/NN of/IN '/POS This/DT Beautiful/JJ Life/NNP '/POS
+Big/NNP City/NNP Book/NNP Club/NNP :/: A/DT Discussion/NN of/IN 'This/VBZ Beautiful/JJ Life/NNP '/POS
 |
 British/JJ Hacking/VBG Inquiry/NNP to/TO Recall/VB James/NNP Murdoch/NNP
 |
@@ -338,9 +338,9 @@ The/DT 9/NN
 11/NN Decade/NN :/: The/DT 9/NN
 11/NN Decade/NN :/: Mission/NNP Unfinished/JJ
 |
-On/IN my/FPRP way/NN to/TO WNYC/NNP for/IN a/DT chat/NN about/IN New/NNP York/NNP City/NNP taxicabs/NNS and/CC the/DT ex-bankers/NNS who/WP drive/NN them/TPRP ./. 1/NN :/: 30pm/NN live/VB :/:
+On/IN my/FPRP way/NN to/TO WNYC/NNP for/IN a/DT chat/NN about/IN New/NNP York/NNP City/NNP taxicabs/NNS and/CC the/DT ex-bankers/NNS who/WP drive/NN them/TPRP ./. 1:30pm/NN live/VB :/:
 |
-Critic/NNP '/POS s/PRP Notebook/NN :/: Thelonious/NNS Monk/NNP International/JJ Jazz/NNP Piano/NNP Competition/NN
+Critic's/NNS Notebook/NN :/: Thelonious/NNS Monk/NNP International/JJ Jazz/NNP Piano/NNP Competition/NN
 |
 Builders/NNPS of/IN Corn/NN Mazes/NNS Hope/NNP to/TO Lose/VB Visitors/NNS ,/, and/CC One/CD Actually/RB Did/VBD
 |
@@ -352,7 +352,7 @@ House/NNP Defeats/NNS Stopgap/NN Spending/VBG Bill/NNP ,/, With/IN Disaster/NN R
 |
 Dugout/NN Phones/NNS :/: Last/JJ Bastion/NN of/IN the/DT Landline/NN
 |
-Take/VB an/DT interactive/JJ ,/, 360-degree/NN tour/NN of/IN the/DT Metropolitan/NNP Museum/NNP of/IN Art/NNP '/POS s/PRP new/JJ Islamic/NNP wing/VBG :/:
+Take/VB an/DT interactive/JJ ,/, 360-degree/NN tour/NN of/IN the/DT Metropolitan/NNP Museum/NNP of/IN Art's/NNS new/JJ Islamic/NNP wing/VBG :/:
 |
 Saw/VBD Zola/NNP Jesus/NNP at/IN Knitting/VBG Factory/NN last/JJ night/NN ./.
 Stunning/JJ vocals/NNS and/CC stage/NN presence/NN ./.
@@ -368,9 +368,9 @@ Afghan/JJ Truck/NNP Bomb/VB Kills/VBZ 5/NN ;/: Dozens/NNS Wounded/VBN
 |
 Orioles/NNP 6/NN ,/, Red/VBN Sox/NNP 3/NN :/: Red/VBN Sox/NNP Lead/JJ Is/VBZ Gone/VBN
 |
-Authorities/NNS Have/VBP '/POS Encounter/NN '/POS With/IN Calif/NNP ./. Fugitive/JJ
+Authorities/NNS Have/VBP 'Encounter/NN '/POS With/IN Calif/NNP ./. Fugitive/JJ
 |
-NY/NN Times/NNP interview/NN (released/VBN a/DT few/JJ moments/NNS ago)/NN &/CC gt/NN ;/:
+NY/NN Times/NNP interview/NN (released/VBN a/DT few/JJ moments/NNS ago/RB )/) &gt/NN ;/:
 |
 India/NNP Arrests/NNS Mining/VBG Baron/NNP
 |
@@ -393,7 +393,7 @@ Sidebar/NN :/: Justice/NNP Stevens/NNP Memoir/NN ,/, Five/CD Justices/NNPS ,/, R
 |
 The/DT Lede/NN Blog/NN :/: New/NNP Videos/NNPS Help/VB Piece/NN Together/RB Qaddafis/NNS '/POS Last/JJ Minutes/NNPS
 |
-3/NN From/IN U/SLANG ./. S/NNP ./.
+3/NN From/IN U.S/CD ./.
 Skip/VB Meeting/VBG With/IN Mexican/JJ Governors/NNP
 |
 Bookstores/NNS Drop/VB Comics/NNPS After/IN Amazon/NNP Deal/JJ With/IN DC/NN
@@ -401,7 +401,7 @@ Bookstores/NNS Drop/VB Comics/NNPS After/IN Amazon/NNP Deal/JJ With/IN DC/NN
 John/NNP C/NN ./.
 Liu/NNP Vows/VBZ Review/NNP of/IN Fund-Raising/VBG Irregularities/NNS
 |
-11/NN Charged/VBN in/IN L/NNP ./. I/FPRP ./. R/NN ./. R/NN ./.
+11/NN Charged/VBN in/IN L.I.R.R/CD ./.
 Disability/NN Scheme/NN
 |
 Williams/NNP Moves/NNS On/IN ,/, Gathering/VBG Steam/NN
@@ -431,7 +431,7 @@ Los/NNP Angeles/NNP County/NNP Museum/NNP Moves/NNS a/DT 340-Ton/NN Rock/NNP
 |
 US/FPRP Court/NNP :/: No/DT Immigration/NNP Checks/NNS at/IN Ala/NNP ./. Schools/NNP
 |
-Hearing/VBG on/IN U/SLANG ./. S/NNP ./.
+Hearing/VBG on/IN U.S/CD ./.
 Loans/NNS to/TO Solar/NNP Firm/NN
 |
 The/DT Caucus/NNP :/: Presidential/JJ Campaign/NNP Ads/NNS Are/VBP Tried/VBD and/CC True/JJ
@@ -444,7 +444,7 @@ DealBook/NN :/: Warren/NNP Buffett/NNP Explains/VBZ His/TPRP Positions/NNS on/IN
 |
 Finance/NNP Minister/NNP Will/MD Quit/VB Russian/NNP Government/NNP
 |
-One/CD week/NN after/IN saying/VBG that/IN he/TPRP didn/VBD '/POS t/NN see/VB a/DT candidate/NN he/TPRP could/MD immediatley/NN support/NN ,/, Chris/NNP Christie/NNP to/TO endorse/VB Romney/NN at/IN 3/NN p/NN ./. m/NN ./. in/IN NH/NNP ./.
+One/CD week/NN after/IN saying/VBG that/IN he/TPRP didn't/VBD see/VB a/DT candidate/NN he/TPRP could/MD immediatley/NN support/NN ,/, Chris/NNP Christie/NNP to/TO endorse/VB Romney/NN at/IN 3/NN p.m/RB ./. in/IN NH/NNP ./.
 |
 Kenya/NNP Says/VBZ Western/JJ Nations/NNPS Have/VBP Joined/VBN Somalia/NNP Fight/VB
 |
@@ -461,7 +461,7 @@ Rays/NNS Pizza/NNP ,/, the/DT First/NNP of/IN Many/JJ ,/, Counts/NNS Down/IN to/
 Deal/JJ for/IN Release/NNP of/IN American/NNP Held/VBN in/IN Egypt/NNP
 |
 Readers/NNS have/VBP posed/VBN 300/NN food/NN Qs/NNS for/IN michaelpollan/NN ./.
-He/TPRP '/POS ll/NN answer/NN the/DT most/RBS popular/JJ ones/NNS ./.
+He'll/NN answer/NN the/DT most/RBS popular/JJ ones/NNS ./.
 Vote/NN &/CC add/VB yours/SPRP :/:
 |
 Ticket-Fixing/VBG Inquiry/NNP Grows/VBZ Into/IN Scandal/JJ on/IN Police/NNP Leaks/NNS
@@ -471,7 +471,7 @@ Poor/NNP Are/VBP Still/RB Getting/VBG Poorer/JJR ,/, but/CC Downturns/NNS Punch/
 An/DT import/NN from/IN the/DT farm/NN states/NNS ,/, cornhole/NN has/VBZ become/VB all/DT the/DT rage/NN in/IN NYC/NN ./.
 My/FPRP story/NN :/:
 |
-In/IN Pakistani/JJ Media/NNP ,/, the/DT U/SLANG ./. S/NNP ./.
+In/IN Pakistani/JJ Media/NNP ,/, the/DT U.S/CD ./.
 Is/VBZ a/DT Target/NNP for/IN Acrimony/NN
 |
 Trial/JJ for/IN Former/JJ French/JJ President/NNP Reopens/VBZ
@@ -494,10 +494,10 @@ Texas/NNP Execution/NNP Halted/VBN Amid/IN Supreme/NNP Court/NNP Review/NNP
 |
 News/NNP Analysis/NNP :/: The/DT Depression/NNP :/: If/IN Only/RB Things/NNS Were/VBD That/DT Good/JJ
 |
-./. nytimeseconomix/NN examined/VBD Cain/NNP '/POS s/PRP 9-9-9/NN plan/NN earlier/RBR today/NN :/:
+.nytimeseconomix/CD examined/VBD Cain's/NNS 9-9-9/NN plan/NN earlier/RBR today/NN :/:
 |
-N/NN ./. F/NN ./. L/NNP ./.
-Preview/NN 2011/NN :/: N/NN ./. F/NN ./. L/NNP ./. s/PRP Abbreviated/JJ Off-Season/NN Means/NNP Road/NNP to/TO Recovery/NNP Grows/VBZ Longer/JJR
+N.F.L/CD ./.
+Preview/NN 2011/NN :/: N.F.L.s/CD Abbreviated/JJ Off-Season/NN Means/NNP Road/NNP to/TO Recovery/NNP Grows/VBZ Longer/JJR
 |
 At/IN Least/JJS 40/NN Kenyans/NNPS Dead/NNP After/IN Pipeline/NNP Explosion/NN
 |
@@ -507,7 +507,7 @@ Rancor/NN Grows/VBZ Over/IN Planned/VBN Oil/NNP Pipeline/NNP From/IN Canada/NNP
 |
 News/NNP Analysis/NNP :/: Republicans/NNPS See/VB a/DT Ripple/NN in/IN the/DT Nations/NNPS Jewish/JJ Vote/NN
 |
-DealBook/NN :/: Sony/NNP Buys/VBZ Phone/NN Business/NNP From/IN Ericsson/NN for/IN $/$ 1/NN ./. 5/NN Billion/CD
+DealBook/NN :/: Sony/NNP Buys/VBZ Phone/NN Business/NNP From/IN Ericsson/NN for/IN $/$ 1.5/CD Billion/CD
 |
 A/DT Falling/VBG Satellite/NNP Catches/VBZ the/DT Popular/NNP Imagination/NN
 |
@@ -521,11 +521,11 @@ TIMESCAST/NN :/: TimesCast/NN |/NN October/NNP 27/NN ,/, 2011/NN
 |
 Television/NNP Review/NNP :/: Brian/NNP Williams/NNP on/IN Rock/NNP Center/NNP -/: Review/NNP
 |
-Movie/NNP Review/NNP |/NN '/POS The/DT Skin/NN I/FPRP Live/NNP In/IN '/POS :/: The/DT Skin/NN I/FPRP Live/NNP In/IN ,/, Directed/VBN by/IN Pedro/NNP Almodvar/NN Review/NNP
+Movie/NNP Review/NNP |/NN 'The/NNP Skin/NN I/FPRP Live/NNP In/IN ':/NN The/DT Skin/NN I/FPRP Live/NNP In/IN ,/, Directed/VBN by/IN Pedro/NNP Almodvar/NN Review/NNP
 |
-M/NNP ./. R/NN ./. I/FPRP ./. s/PRP ,/, Often/RB Overused/VBN ,/, Often/RB Mislead/NN ,/, Doctors/NNS Warn/VB
+M.R.I.s/CD ,/, Often/RB Overused/VBN ,/, Often/RB Mislead/NN ,/, Doctors/NNS Warn/VB
 |
-On/IN thelede/NN ,/, we/FPRP '/POS re/NN asking/VBG readers/NNS to/TO analyze/VB a/DT video/NN of/IN gunfire/NN from/IN Syria/NNP ./.
+On/IN thelede/NN ,/, we're/NN asking/VBG readers/NNS to/TO analyze/VB a/DT video/NN of/IN gunfire/NN from/IN Syria/NNP ./.
 What/WP do/VBP you/SPRP think/VBP is/VBZ going/VBG on/IN ,/, and/CC why/WRB ?/.
 |
 Are/VBP you/SPRP watching/VBG the/DT Emmys/NNS ?/.
@@ -537,11 +537,10 @@ In/IN Transit/NNP Blog/NN :/: 100/NN Miles/NNP From/IN Manhattan/NNP ,/, Feeling
 |
 ArtsBeat/NN :/: Live/NNP Blogging/VBG the/DT Emmy/NN Awards/NNP
 |
-Lens/NNP Blog/NN :/: Ruben/NN Reyes/NNP '/POS s/PRP Photographs/NNS of/IN Foreign/NNP Laborers/NNS in/IN Dubai/NNP
+Lens/NNP Blog/NN :/: Ruben/NN Reyes's/NNS Photographs/NNS of/IN Foreign/NNP Laborers/NNS in/IN Dubai/NNP
 |
-Q/NN &/CC A/DT w/IN the/DT creators/NNS of/IN the/DT Unhappy/JJ Hipsters/NNS tumblr/NN ./.
-"/" Its/TPRP Lonely/RB in/IN the/DT Modern/NNP World/NNP ,/, "/"
-"/" their/TPRP new/JJ book/NN ,/, is/VBZ out/IN :/:
+Q&A/NN w/IN the/DT creators/NNS of/IN the/DT Unhappy/JJ Hipsters/NNS tumblr/NN ./.
+"/" Its/TPRP Lonely/RB in/IN the/DT Modern/NNP World/NNP ,"/NN their/TPRP new/JJ book/NN ,/, is/VBZ out/IN :/:
 |
 Democrats/NNPS Fret/VB Aloud/RB Over/IN Obamas/NNS Re-election/NN
 |
@@ -564,7 +563,7 @@ Flouting/VBG the/DT Law/NNP ,/, Pastors/NNS Will/MD Take/VB On/IN Politics/NNP
 |
 City/NNP Room/NNP :/: Overtime/NN ,/, Solidarity/NNP and/CC Complaints/NNS in/IN Wall/NNP St/NNP ./. Protests/NNS
 |
-CMJ-ers/NNS :/: Don/NNP '/POS t/NN forget/VB to/TO tweet-review/NN the/DT rock/NN shows/VBZ you/SPRP '/POS re/NN at/IN tonight/RB ./.
+CMJ-ers/NNS :/: Don't/VB forget/VB to/TO tweet-review/NN the/DT rock/NN shows/VBZ you're/NN at/IN tonight/RB ./.
 Use/VB mycmjreview/NN ./.
 Getting/VBG some/DT great/JJ ones/NNS ,/, want/VBP yours/SPRP ./.
 |
@@ -598,19 +597,19 @@ Milan/NNP Court/NNP Throws/VBZ Out/IN Berlusconi/NNP Tax/NNP Fraud/NNP Case/NNP
 |
 New/NNP Push/NN to/TO Solve/VB Prosecutor/NNP Waless/NNS Killing/VBG in/IN Seattle/NNP
 |
-Bits/NNS Blog/NN :/: Steve/NNP Jobs/NNP :/: Designer/NN First/NNP ,/, C/NN ./. E/NN ./. O/NNP ./.
+Bits/NNS Blog/NN :/: Steve/NNP Jobs/NNP :/: Designer/NN First/NNP ,/, C.E.O/CD ./.
 Second/JJ
 |
 Fascinated/VBN by/IN India/NNP ?/.
-Tues/NNS ./. at/IN 10/NN :/: 30/NN am/VBP EDT/NNP (7/NN pm/NN in/IN India)/NN lpolgreen/NN will/MD host/NN a/DT Facebook/NN chat/NN on/IN India/NNP :/:
+Tues/NNS ./. at/IN 10:30/NN am/VBP EDT/NNP (7/NN pm/NN in/IN India/NNP )/) lpolgreen/NN will/MD host/NN a/DT Facebook/NN chat/NN on/IN India/NNP :/:
 |
-NYT/NN NEWS/NN ALERT/JJ :/: U/SLANG ./. S/NNP ./. to/TO Pull/VB All/DT Troops/NNS From/IN Iraq/NNP by/IN End/NN of/IN Year/NN ,/, Obama/NN to/TO Announce/VB
+NYT/NN NEWS/NN ALERT/JJ :/: U.S/CD ./. to/TO Pull/VB All/DT Troops/NNS From/IN Iraq/NNP by/IN End/NN of/IN Year/NN ,/, Obama/NN to/TO Announce/VB
 |
 Developing/VBG :/: Steve/NNP Jobs/NNP ,/, visionary/JJ co-founder/NN and/CC former/JJ CEO/NNP of/IN Apple/NNP ,/, has/VBZ died/VBD at/IN 56/NN ./.
 |
 Democrats/NNPS in/IN Congress/NNP Balking/VBG at/IN Obamas/NNS Jobs/NNP Bill/NNP
 |
-Irans/NNS President/NNP Rails/NNPS Against/IN the/DT West/NNP in/IN U/SLANG ./. N/NN ./.
+Irans/NNS President/NNP Rails/NNPS Against/IN the/DT West/NNP in/IN U.N/CD ./.
 Speech/NN
 |
 I/FPRP can/MD mark/NN my/FPRP youth/NN ,/, my/FPRP marriage/NN ,/, my/FPRP career/NN ,/, my/FPRP life/NN by/IN Apple/NNP products/NNS ./. stevejobslegacy/NN
@@ -636,24 +635,24 @@ Where/WRB were/VBD you/SPRP on/IN 9/NN
 11/NN ?/.
 Add/VB your/SPRP location/NN to/TO our/FPRP interactive/JJ map/NN :/:
 |
-U/SLANG ./. S/NNP ./.
+U.S/CD ./.
 Citizen/NNP Killed/VBN in/IN Attack/NNP at/IN Embassy/NNP Annex/NNP in/IN Kabul/NNP
 |
 Japan/NNP Testing/VBG Rice/NNP Crop/NNP Because/IN of/IN Radiation/NN
 |
-N/NN ./. B/NNP ./. A/DT ./.
+N.B.A/CD ./.
 Sets/NNS Condition/NN for/IN Resumption/NN of/IN Labor/NNP Talks/NNS
 |
 Yankee/NNP Fans/NNS Feel/VB Rare/JJ Sympathy/NN for/IN Red/VBN Sox/NNP Brethren/NNS
 |
 Asian/JJ Stock/NNP Markets/NNPS Continue/VB Downward/JJ March/NNP
 |
-But/CC Where/WRB '/POS s/PRP the/DT iPhone/NN 5/NN ?/.
+But/CC Where's/NNS the/DT iPhone/NN 5/NN ?/.
 |
-U/SLANG ./. S/NNP ./.
+U.S/CD ./.
 Pressures/NNS Europe/NNP to/TO Act/NNP With/IN Force/NNP on/IN Debt/NN Crisis/NNP
 |
-Solar/NNP Company/NNP Is/VBZ Searched/VBD by/IN F/NN ./. B/NNP ./. I/FPRP ./.
+Solar/NNP Company/NNP Is/VBZ Searched/VBD by/IN F.B.I/CD ./.
 |
 Manufacturing/VBG :/: Far/NNP From/IN the/DT Factory/NN ,/, Adding/VBG Final/JJ Touches/VBZ
 |
@@ -676,7 +675,7 @@ The/DT 9/NN
 11/NN Decade/NN :/: Civil/NNP Liberties/NNPS ,/, Before/IN and/CC After/IN
 |
 Biden/NNP is/VBZ still/RB at/IN the/DT Pentagon/NNP talking/VBG to/TO families/NNS of/IN the/DT victims/NNS ./.
-He/TPRP '/POS s/PRP been/VBN here/RB for/IN close/VB to/TO 2/NN hours/NNS now/RB ./.
+He's/NNS been/VBN here/RB for/IN close/VB to/TO 2/NN hours/NNS now/RB ./.
 |
 Medicine/NNP Shortages/NNS Addressed/VBN in/IN Obama/NN Executive/NNP Order/NNP
 |
@@ -698,12 +697,12 @@ Remembering/VBG Steve/NNP Jobs/NNP :/: Your/SPRP photos/NNS
 |
 John/NNP McCarthy/NNP ,/, Pioneer/NNP in/IN Artificial/JJ Intelligence/NNP ,/, Dies/NNP at/IN 84/NN
 |
-D/NN ./. E/NN ./. A/DT ./.
+D.E.A/CD ./.
 Bans/NNP Chemicals/NNPS Used/VBN in/IN Bath/NNP Salts/NNS
 |
 Boaters/NNS Put/VB a/DT Twist/NN on/IN Tailgating/VBG at/IN Washington/NNP Football/NNP Games/NNPS
 |
-Before/IN Dan/NNP Wheldon/NN '/POS s/PRP fatal/JJ crash/NN at/IN IndyCar/NN Vegas/NNP 300/NN ,/, fears/NNS about/IN the/DT track/NN '/POS s/PRP dangers/NNS :/:
+Before/IN Dan/NNP Wheldon's/NNS fatal/JJ crash/NN at/IN IndyCar/NN Vegas/NNP 300/NN ,/, fears/NNS about/IN the/DT track's/NNS dangers/NNS :/:
 |
 Republicans/NNPS Attack/NNP Arizonas/NNS Redistricting/VBG Commission/NNP
 |
@@ -722,9 +721,9 @@ South/NNP Korean/JJ Bank/NNP Chief/NNP Apparently/RB Kills/VBZ Himself/PRP ,/, P
 The/DT Champions/NNS :/: Rep/NNP ./. Shelley/NNP Berkleys/NNS Cause/NNP Is/VBZ Often/RB Her/TPRP Husbands/NNS Gain/NN
 |
 Going/VBG to/TO CMJ/NN shows/VBZ tonight/RB ?/.
-Here/RB '/POS s/PRP what/WP joncaramanica/NN &/CC jonpareles/NNS are/VBP seeing/VBG :/:
+Here's/NNS what/WP joncaramanica/NN &/CC jonpareles/NNS are/VBP seeing/VBG :/:
 |
-Netflix/NN Loses/VBZ 800/NN ,/, 000/NN US/FPRP Subscribers/NNS in/IN Tough/JJ 3Q/NN
+Netflix/NN Loses/VBZ 800,000/NN US/FPRP Subscribers/NNS in/IN Tough/JJ 3Q/NN
 |
 Alabama/NNP Inmate/NNP Sues/VBZ to/TO Read/NNP Southern/NNP History/NN Book/NNP
 |
@@ -736,8 +735,8 @@ Television/NNP :/: George/NNP Harrison/NNP :/: Living/VBG in/IN the/DT Material/
 |
 Giants/NNP Linebacker/NN Goff/NN Out/IN for/IN the/DT Year/NN
 |
-U/SLANG ./. S/NNP ./.
-Scrambling/VBG to/TO Avert/VB Palestinian/JJ Vote/NN at/IN U/SLANG ./. N/NN ./.
+U.S/CD ./.
+Scrambling/VBG to/TO Avert/VB Palestinian/JJ Vote/NN at/IN U.N/CD ./.
 |
 Baseballs/NNS Bronze/NN Age/NNP
 |
@@ -745,7 +744,7 @@ Well/UH Blog/NN :/: Is/VBZ SpongeBob/NN SquarePants/NNS Bad/JJ for/IN Children/N
 |
 Bob/NNP Turner/NNP ,/, on/IN Way/NN to/TO Congress/NNP ,/, Speaks/VBZ of/IN Staying/VBG There/EX
 |
-DealBook/NN :/: Bank/NNP of/IN America/NNP Confirms/VBZ Plans/NNS to/TO Eliminate/VB 30/NN ,/, 000/NN Jobs/NNP
+DealBook/NN :/: Bank/NNP of/IN America/NNP Confirms/VBZ Plans/NNS to/TO Eliminate/VB 30,000/NN Jobs/NNP
 |
 Ala/NNP ./. County/NNP Votes/NNS to/TO Settle/VB Debt/NN ,/, Avoid/VB Bankruptcy/NNP
 |
@@ -790,7 +789,7 @@ Officer/NNP May/NNP Have/VBP Shot/VBN Bystander/NN During/IN Gun/NNP Battle/NNP 
 |
 News/NNP Analysis/NNP :/: Austerity/NN Faces/NNPS Political/JJ Test/NNP in/IN Greek/NNP Turmoil/NN
 |
-Theater/NNP Review/NNP |/NN '/POS The/DT Agony/NN and/CC the/DT Ecstasy/NN of/IN Steve/NNP Jobs/NNP '/POS :/: The/DT Agony/NN and/CC the/DT Ecstasy/NN of/IN Steve/NNP Jobs/NNP Review/NNP
+Theater/NNP Review/NNP |/NN 'The/NNP Agony/NN and/CC the/DT Ecstasy/NN of/IN Steve/NNP Jobs/NNP ':/NN The/DT Agony/NN and/CC the/DT Ecstasy/NN of/IN Steve/NNP Jobs/NNP Review/NNP
 |
 Iran/NNP Sees/VBZ Terror/NN Plot/NN Accusation/NN as/IN Diversion/NN From/IN Wall/NNP Street/NNP Protests/NNS
 |
@@ -813,7 +812,7 @@ Straight/JJ Sets/NNS :/: Williams/NNP Overpowers/VBZ Wozniacki/NN and/CC Advance
 |
 Somalis/NNPS Kidnap/VB Frenchwoman/NNP
 |
-Suspected/VBN U/SLANG ./. S/NNP ./.
+Suspected/VBN U.S/CD ./.
 Drones/NNS Kill/VB 6/NN in/IN Pakistan/NNP
 |
 Slime/NN Molds/NNS :/: Ancient/NNP ,/, Alien/NNP and/CC Sophisticated/JJ
@@ -826,7 +825,7 @@ Grading/VBG the/DT Digital/JJ School/NNP :/: At/IN Waldorf/NNP School/NNP in/IN 
 |
 Analysis/NNP :/: Reluctantly/RB ,/, Europe/NNP Inches/NNS Closer/RBR to/TO a/DT Fiscal/JJ Union/NNP
 |
-DealBook/NN :/: $/$ 20/NN ./. 7/NN Billion/CD Deal/JJ to/TO Create/VB Pipeline/NNP Giant/NNP
+DealBook/NN :/: $/$ 20.7/CD Billion/CD Deal/JJ to/TO Create/VB Pipeline/NNP Giant/NNP
 |
 Pig/NN Farmers/NNP True/JJ Prizewinner/NN Is/VBZ His/TPRP Fantasy/NNP Baseball/NN Team/NNP
 |
@@ -836,12 +835,12 @@ Supporters/NNS Rally/RB to/TO Save/VB Troy/NNP Davis/NNP From/IN Execution/NNP i
 |
 Poor/NNP Young/NNP Families/NNS Soared/VBD in/IN 10/NN ,/, Data/NNP Show/NNP
 |
-Panel/NNP Says/VBZ U/SLANG ./. S/NNP ./.
+Panel/NNP Says/VBZ U.S/CD ./.
 Should/MD Weigh/VB Cost/NN in/IN Health/NNP Coverage/NNP
 |
 Dewey/NNP Bozella/NN ,/, Cleared/VBN of/IN Murder/NN ,/, Wins/VBZ Boxing/VBG Debut/NN
 |
-Lagarde/NN ,/, New/NNP I/FPRP ./. M/NNP ./. F/NN ./.
+Lagarde/NN ,/, New/NNP I.M.F/CD ./.
 Chief/NNP ,/, Rocks/NNS the/DT Boat/NNP
 |
 Memo/NN From/IN Europe/NNP :/: Euro/NNP ,/, Meant/VBD to/TO Unite/VB Europe/NNP ,/, Seems/VBZ to/TO Be/VB Dividing/VBG It/TPRP
@@ -855,7 +854,7 @@ Slovakias/NNS Prime/NNP Minister/NNP Vows/VBZ to/TO Resign/VB if/IN Euro/NNP Vot
 Which/WDT of/IN Steve/NNP Jobs/NNP '/POS products/NNS mattered/VBD the/DT most/RBS ?/.
 Vote/NN and/CC comment/VB :/:
 |
-City/NNP Room/NNP :/: Man/NN '/POS s/PRP Leg/NNP Pinned/VBN Under/IN Police/NNP Motorcycle/NNP at/IN Protest/NN
+City/NNP Room/NNP :/: Man's/NNS Leg/NNP Pinned/VBN Under/IN Police/NNP Motorcycle/NNP at/IN Protest/NN
 |
 Turkish/JJ Paper/NNP Names/NNS Israelis/NNPS It/TPRP Says/VBZ Were/VBD in/IN Flotilla/NNP Raid/NN
 |
@@ -879,24 +878,24 @@ Eat/NNP :/: The/DT Bulgogi/NN Slider/NNP Is/VBZ a/DT Delicious/NNP Curveball/NN
 |
 A/DT collection/NN 911plus10/NN anniversary/NN photos/NNS
 |
-F/NN ./. C/NN ./. C/NN ./. and/CC Wireless/NNP Carriers/NNP Agree/VBP to/TO Alerts/VBZ to/TO Fight/VB Bill/NNP Shock/NN
+F.C.C/CD ./. and/CC Wireless/NNP Carriers/NNP Agree/VBP to/TO Alerts/VBZ to/TO Fight/VB Bill/NNP Shock/NN
 |
-Bats/NNS :/: Live/NNP Analysis/NNP :/: Yankees-Tigers/NNS ,/, A/DT ./. L/NNP ./. D/NN ./. S/NNP ./.
+Bats/NNS :/: Live/NNP Analysis/NNP :/: Yankees-Tigers/NNS ,/, A.L.D.S/CD ./.
 Game/NN 1/NN
 |
-Attention/NN squeamish/JJ readers/NNS :/: You/SPRP probably/RB shouldn/NN '/POS t/NN look/VB at/IN our/FPRP homepage/NN right/NN now/RB ./.
+Attention/NN squeamish/JJ readers/NNS :/: You/SPRP probably/RB shouldn't/MD look/VB at/IN our/FPRP homepage/NN right/NN now/RB ./.
 |
 Tunisia/NNP Election/NNP Faces/NNPS Financing/VBG Questions/NNS
 |
 NYT/NN NEWS/NN ALERT/JJ :/: Yankees/NNP Reliever/NN Mariano/NNP Rivera/NNP Breaks/NNP Record/NNP for/IN Career/NNP Saves/VBZ
 |
-Greenwood/NNP ,/, S/NNP ./. C/NN ./. ,/, Had/VBD Steepest/JJS Economic/NNP Decline/NN in/IN U/SLANG ./. S/NNP ./.
+Greenwood/NNP ,/, S.C/CD .,/CD Had/VBD Steepest/JJS Economic/NNP Decline/NN in/IN U.S/CD ./.
 |
 WikiLeaks/NNS Founder/NN Can/MD Be/VB Extradited/VBN to/TO Sweden/NNP in/IN Sex/NN Abuse/NNP Case/NNP
 |
 Russians/NNPS See/VB Shift/NN in/IN Power/NNP as/IN Business/NNP as/IN Usual/JJ
 |
-Hewlett-Packard/NNP Board/NNP Meets/NNP on/IN Replacing/VBG C/NN ./. E/NN ./. O/NNP ./.
+Hewlett-Packard/NNP Board/NNP Meets/NNP on/IN Replacing/VBG C.E.O/CD ./.
 |
 On/IN the/DT Runway/NN Blog/NN :/: Paris/NNP :/: Altered/VBN Fashion/NNP States/NNPS
 |
@@ -915,32 +914,32 @@ Small/JJ Plane/NNP Crashes/NNS Into/IN Ride/VB During/IN Festival/JJ in/IN Austr
 |
 In/IN Russian/NNP Crisis/NNP ,/, Medvedev/NNP Doesnt/NN Seize/NNP the/DT Moment/NN
 |
-./. lpolgreen/NN has/VBZ posted/VBD answers/NNS in/IN our/FPRP India/NNP chat/NN on/IN India/NNP
+.lpolgreen/CD has/VBZ posted/VBD answers/NNS in/IN our/FPRP India/NNP chat/NN on/IN India/NNP
 Pakistan/NNP ,/, corruption/NN &/CC Anna/NNP Hazare/NN ./.
-Join/VB in/IN :/: on/IN ./. fb/NN ./. me/FPRP
+Join/VB in/IN :/: on.fb.me/CD
 qNawIJ/NN
 |
 Rick/NNP Perry/NNP ,/, ardent/JJ foe/NN of/IN ethanol/NN ,/, may/MD be/VB having/VBG a/DT change/NN of/IN heart/NN as/IN the/DT Iowa/NNP caucuses/NNS draw/VB closer/JJR ./.
 |
-Theater/NNP Review/NNP |/NN '/POS The/DT Lyons/NNP '/POS :/: The/DT Lyons/NNP ,/, by/IN Nicky/NN Silver/NN ,/, at/IN Vineyard/NNP Theater/NNP -/: Review/NNP
+Theater/NNP Review/NNP |/NN 'The/NNP Lyons/NNP ':/NN The/DT Lyons/NNP ,/, by/IN Nicky/NN Silver/NN ,/, at/IN Vineyard/NNP Theater/NNP -/: Review/NNP
 |
 At/IN Nest/NNP Labs/NNPS ,/, Ex-Apple/NN Leaders/NNS Remake/VB the/DT Thermostat/NN
 |
-Madoff/NN '/POS s/PRP Wife/NN :/: We/FPRP Tried/VBD Suicide/NN After/IN Ponzi/NNP Arrest/NN
+Madoff's/NNS Wife/NN :/: We/FPRP Tried/VBD Suicide/NN After/IN Ponzi/NNP Arrest/NN
 |
 Unrelenting/JJ Downturn/NN Is/VBZ Redrawing/VBG Americas/NNP Economic/NNP Map/NNP
 |
-The/DT American/NNP Sweep/NN of/IN a/DT Haqqani-Controlled/VBN Valley/NNP ,/, w/IN pix/NN by/IN TylerHicksPhoto/NN from/IN there/EX ,/, and/CC beyond/IN ./. tumblr/NN ./. com/NN x1q51j28q2/NN
+The/DT American/NNP Sweep/NN of/IN a/DT Haqqani-Controlled/VBN Valley/NNP ,/, w/IN pix/NN by/IN TylerHicksPhoto/NN from/IN there/EX ,/, and/CC beyond/IN ./. tumblr.com/CD x1q51j28q2/NN
 |
 Life/NNP after/IN
-"/" The/DT Blind/JJ Side/NNP ./. "/"
-"/" Hugh/NNP Freeze/NN ,/, Michael/NNP Oher/NNP '/POS s/PRP H/NNP ./. S/NNP ./. coach/NN ,/, is/VBZ having/VBG success/NNS at/IN Arkansas/NNP St/NNP
+"/" The/DT Blind/JJ Side/NNP ."/CD
+Hugh/NNP Freeze/NN ,/, Michael/NNP Oher's/NNS H.S/CD ./. coach/NN ,/, is/VBZ having/VBG success/NNS at/IN Arkansas/NNP St/NNP
 |
-Horse/NNP Slaughter/NNP ,/, Stopped/VBN in/IN U/SLANG ./. S/NNP ./. ,/, Moves/NNS Across/IN Borders/NNS
+Horse/NNP Slaughter/NNP ,/, Stopped/VBN in/IN U.S/CD .,/CD Moves/NNS Across/IN Borders/NNS
 |
 Colleges/NNP Play/NNP It/TPRP Safe/NNP in/IN Stormy/NNP Weather/NNP
 |
-Twitter/NN Study/NNP Tracks/NNS When/WRB We/FPRP Are/VBP :/: )/)
+Twitter/NN Study/NNP Tracks/NNS When/WRB We/FPRP Are/VBP :)/NN
 |
 Books/NNS of/IN The/DT Times/NNP :/: Stephen/NNP Kings/NNP 11/NN
 23/NN
@@ -953,7 +952,7 @@ In/IN Central/JJ Park/NNP ,/, Learning/VBG to/TO Survive/VB in/IN the/DT Wild/NN
 film/NN :/: Leonardo/NNP DiCaprio/NN in/IN Clint/NNP Eastwoods/NNS J/NNP ./.
 Edgar/NNP
 |
-U/SLANG ./. S/NNP ./.
+U.S/CD ./.
 Tempers/NNS Adm/NN ./.
 Mike/NNP Mullens/NNS Pakistan/NNP Remarks/NNS
 |
@@ -971,19 +970,19 @@ Perry/NNP Plan/NNP Would/MD Grant/VB Big/NNP Tax/NNP Break/NN to/TO Wealthiest/J
 |
 Sex-Crime/NN Charges/NNS Dropped/VBD After/IN Victim/NN Recants/NNS Identification/NNP
 |
-In/IN Oral/JJ History/NN ,/, J/NNP ./. F/NN ./. K/SLANG ./. s/PRP Young/NNP Widow/NN Speaks/VBZ Candidly/RB
+In/IN Oral/JJ History/NN ,/, J.F.K.s/CD Young/NNP Widow/NN Speaks/VBZ Candidly/RB
 |
 With/IN More/RBR of/IN Them/TPRP Running/VBG ,/, Women/NNP Could/MD Have/VBP Banner/NNP Year/NN in/IN 12/NN
 |
 The/DT Metropolitan/NNP Opera/NNP Performs/VBZ Donizettis/NNS Anna/NNP Bolena/NN
 |
-Ford/NNP Reaches/VBZ Contract/NNP Deal/JJ With/IN U/SLANG ./. A/DT ./. W/NNP ./.
+Ford/NNP Reaches/VBZ Contract/NNP Deal/JJ With/IN U.A.W/CD ./.
 |
 11/NN Anniversary/NNP Bomb/VB Threat/NN Is/VBZ Investigated/VBN
 |
 The/DT Quad/NNP :/: Live/NNP Analysis/NNP :/: College/NNP Football/NNP Week/NNP Five/CD
 |
-Fox/NNP and/CC Telemundo/NNP Win/NNP U/SLANG ./. S/NNP ./.
+Fox/NNP and/CC Telemundo/NNP Win/NNP U.S/CD ./.
 Rights/NNP to/TO 2018/NN and/CC 2022/NN World/NNP Cups/NNS
 |
 Princess/NNP Mary/NNP of/IN Denmark/NNP Visits/NNS Queens/NNP
@@ -1006,7 +1005,7 @@ NYT/NN NEWS/NN ALERT/JJ :/: Yankees/NNP Post-Season/NN Is/VBZ Cut/VB Short/JJ Af
 Brutal/JJ Budget/NNP Battle/NNP Presses/NNS William/NNP M/NNP ./.
 Daley/NNP Into/IN Political/JJ Combat/NNP
 |
-U/SLANG ./. S/NNP ./.
+U.S/CD ./.
 Open/NNP :/: Tsongas/NNS Power/NNP Too/RB Much/RB for/IN Fish/NNP
 |
 Obama/NN Addresses/NNS LinkedIn/NN Forum/NNP in/IN California/NNP
@@ -1015,15 +1014,15 @@ Perry/NNP Campaigns/NNS Payment/NN for/IN Private/JJ Jet/NNP Raises/VBZ Question
 |
 In/IN His/TPRP Last/JJ Days/NNP ,/, Qaddafi/NN Wearied/VBD of/IN Fugitives/NNS Life/NNP
 |
-Trading/VBG Detroit/NNP for/IN Tulsa/NNP ,/, W/NNP ./. N/NN ./. B/NNP ./. A/DT ./. s/PRP Shock/NN Lost/JJ Their/TPRP Way/NN
+Trading/VBG Detroit/NNP for/IN Tulsa/NNP ,/, W.N.B.A.s/CD Shock/NN Lost/JJ Their/TPRP Way/NN
 |
 Iran/NNP Broadens/VBZ Counter-Rhetoric/NN on/IN Alleged/JJ Plot/NN ,/, Calling/VBG It/TPRP a/DT Joke/NN
 |
 Bats/NNS :/: Live/NNP Analysis/NNP :/: Rangers-Cardinals/NNS ,/, World/NNP Series/NNP Game/NN 1/NN
 |
-Dysfunction/NN is/VBZ not/RB limited/JJ to/TO Washington/NNP ./. adamnagourney/NN has/VBZ a/DT great/JJ take/VB on/IN Jerry/NNP Brown/NNP '/POS s/PRP frustrations/NNS in/IN California/NNP ./.
+Dysfunction/NN is/VBZ not/RB limited/JJ to/TO Washington/NNP ./. adamnagourney/NN has/VBZ a/DT great/JJ take/VB on/IN Jerry/NNP Brown's/NNS frustrations/NNS in/IN California/NNP ./.
 |
-China/NNP '/POS s/PRP Trade/NNP Growth/NN Slows/VBZ ,/, Surplus/NNP Narrows/VBZ
+China's/NNS Trade/NNP Growth/NN Slows/VBZ ,/, Surplus/NNP Narrows/VBZ
 |
 France/NNP Expresses/VBZ Confidence/NN in/IN Banks/NNP After/IN Downgrades/NNS
 |
@@ -1031,7 +1030,7 @@ The/DT Impact/NNP of/IN Deng/NNP Xiaoping/VBG ,/, Beyond/IN Tiananmen/NNP Square
 |
 Cardinals/NNP 16/NN ,/, Rangers/NNPS 7/NN :/: Cardinals/NNP Beat/NNP Rangers/NNPS and/CC Lead/JJ the/DT World/NNP Series/NNP
 |
-Bats/NNS :/: Live/NNP Analysis/NNP :/: Yankees-Tigers/NNS ,/, A/DT ./. L/NNP ./. D/NN ./. S/NNP ./.
+Bats/NNS :/: Live/NNP Analysis/NNP :/: Yankees-Tigers/NNS ,/, A.L.D.S/CD ./.
 Game/NN 1/NN
 |
 Intense/JJ Security/NNP for/IN Sept/NNP ./. 11/NN Events/NNS in/IN New/NNP York/NNP
@@ -1053,7 +1052,7 @@ Submit/VB to/TO thecaucus/NNS here/RB
 |
 Europe/NNP Steers/VBZ Into/IN a/DT Zone/NNP of/IN Uncertainty/NN
 |
-Oscar/NNP Winner/NNP Cliff/NNP Robertson/NNP Dies/NNP in/IN N/NN ./. Y/NNP ./. at/IN 88/NN
+Oscar/NNP Winner/NNP Cliff/NNP Robertson/NNP Dies/NNP in/IN N.Y/CD ./. at/IN 88/NN
 |
 Stocks/NNS Slide/NN as/IN Greek/NNP Talks/NNS Drag/VB On/IN
 |
@@ -1069,10 +1068,10 @@ Young/NNP Gallerists/NNS Are/VBP Transforming/VBG New/NNP Yorks/NNS Art/NNP Scen
 |
 Cardinals/NNP 12/NN ,/, Brewers/NNS 6/NN :/: Cardinals/NNP Slug/VB Their/TPRP Way/NN Into/IN the/DT World/NNP Series/NNP
 |
-News/NNP Analysis/NNP :/: NATO/NNP War/NNP in/IN Libya/NNP Shows/NNS U/SLANG ./. S/NNP ./.
+News/NNP Analysis/NNP :/: NATO/NNP War/NNP in/IN Libya/NNP Shows/NNS U.S/CD ./.
 Was/VBD Vital/JJ to/TO Toppling/VBG Qaddafi/NN
 |
-DealBook/NN :/: Citigroup/NN Earnings/NNS Rise/NN 74/NN %/NN to/TO $/$ 3/NN ./. 8/NN Billion/CD
+DealBook/NN :/: Citigroup/NN Earnings/NNS Rise/NN 74/NN %/NN to/TO $/$ 3.8/CD Billion/CD
 |
 Global/JJ Stocks/NNS Post/NNP Steep/NNP Declines/NNS
 |
@@ -1092,34 +1091,34 @@ Commander/NNP Who/WP Pepper-Sprayed/VBN Wall/NNP Street/NNP Protesters/NNS Faces
 |
 NASAs/NNS Kepler/NNP Telescope/NNP Finds/VBZ Planet/NNP Orbiting/VBG Two/CD Stars/NNP
 |
-On/IN the/DT Runway/NN Blog/NN :/: Michael/NNP Kors/NNP :/: Poor/NNP Man/NN '/POS s/PRP Safari/NNP
+On/IN the/DT Runway/NN Blog/NN :/: Michael/NNP Kors/NNP :/: Poor/NNP Man's/NNS Safari/NNP
 |
 Video/NNP Game/NN Review/NNP :/: You/SPRP ,/, Batman/NNP ,/, Keep/VB Arkham/NN City/NNP in/IN Line/NNP -/: Review/NNP
 |
 When/WRB One/CD Farm/NNP Subsidy/NN Ends/NNS ,/, Another/DT May/NNP Rise/NN to/TO Replace/VB It/TPRP
 |
-We/FPRP '/POS re/NN live-blogging/VBG tonight/RB '/POS s/PRP Republican/NNP debate/NN here/RB :/:
+We're/NN live-blogging/VBG tonight's/NNS Republican/NNP debate/NN here/RB :/:
 |
 Bachmanns/NNS Years/NNS at/IN Oral/JJ Roberts/NNP University/NNP
 |
 The/DT Afghan/JJ and/CC American/NNP Sweep/NN of/IN Charbaran/NN ./.
-(And/NN word/NN of/IN Tyler/NNP Hicks/NNP ,/, NYT/NN photographer/NN ./. )/) tumblr/NN ./. com/NN x1q502bsx4/NN
+(And/NN word/NN of/IN Tyler/NNP Hicks/NNP ,/, NYT/NN photographer/NN .)/CD tumblr.com/CD x1q502bsx4/NN
 |
 Egypts/NNS Military/NNP Expands/VBZ Power/NNP ,/, Raising/VBG Alarms/NNS
 |
-N/NN ./. Y/NNP ./.
+N.Y/CD ./.
 Democrats/NNPS Try/VB to/TO Avoid/VB Upset/VBN in/IN Special/JJ Election/NNP
 |
-Straight/JJ Sets/NNS :/: Live/NNP Analysis/NNP :/: Men/NNS '/POS s/PRP U/SLANG ./. S/NNP ./.
+Straight/JJ Sets/NNS :/: Live/NNP Analysis/NNP :/: Men's/NNS U.S/CD ./.
 Open/NNP Final/JJ
 |
 FiveThirtyEight/NN :/: In/IN Jobs/NNP Data/NNP ,/,
 "/" Surprises/NNS "/"
-"/" Mean/VB Bad/JJ News/NNP
+Mean/VB Bad/JJ News/NNP
 |
 The/DT Bay/NNP Citizen/NNP :/: They/TPRP Bark/NN ,/, They/TPRP Fetch/VB ,/, and/CC Their/TPRP Humans/NNS Vote/NN
 |
-Straight/JJ Sets/NNS :/: U/SLANG ./. S/NNP ./.
+Straight/JJ Sets/NNS :/: U.S/CD ./.
 Open/NNP Point/NNP
 Counterpoint/NN :/: Martina/NN Navratilova/NN vs/NNP ./. Justine/NNP Henin/NN
 |
@@ -1139,7 +1138,7 @@ Impasse/NNP Grows/VBZ Between/IN Senate/NNP and/CC House/NNP Over/IN Spending/VB
 |
 SeeWatchLook/NN :/: Street/NNP Scenes/NNS at/IN the/DT High/NNP Line/NNP
 |
-2011/NN U/SLANG ./. S/NNP ./.
+2011/NN U.S/CD ./.
 Open/NNP :/: Serena/NN Williams/NNP Powers/NNP Into/IN Quarterfinals/NNS
 |
 About/IN New/NNP York/NNP :/: King/VBG Tide/NNP to/TO Raise/VB Sea/NNP Level/NNP on/IN Atlantic/NNP Coast/NNP
@@ -1148,7 +1147,7 @@ Its/TPRP Complicated/VBN :/: When/WRB Dragonfly/RB Love/NNP Comes/VBZ Calling/VB
 |
 Yemeni/JJ Forces/NNPS Fire/NNP on/IN Protesters/NNS for/IN Second/JJ Day/NNP
 |
-Report/NNP of/IN Justice/NNP Dept/NN ./. s/PRP $/$ 16/NN Muffin/NNP Greatly/RB Exaggerated/VBN
+Report/NNP of/IN Justice/NNP Dept.s/CD $/$ 16/NN Muffin/NNP Greatly/RB Exaggerated/VBN
 |
 A/DT senior/JJ Obama/NN administration/NN official/JJ confirmed/VBD the/DT killing/VBG of/IN Anwar/NN al-Awlaki/NN in/IN Yemen/NNP
 |
@@ -1163,16 +1162,16 @@ How/WRB Cheating/VBG Cases/NNS at/IN New/NNP York/NNP Schools/NNP Played/VBN Out
 |
 Metropolitan/NNP Operas/NNS Donations/NNS Hit/VBN a/DT Record/NNP $/$ 182/NN Million/CD
 |
-Straight/JJ Sets/NNS :/: U/SLANG ./. S/NNP ./.
+Straight/JJ Sets/NNS :/: U.S/CD ./.
 Open/NNP Point/NNP
 Counterpoint/NN :/: Steffi/NN Graf/NNP vs/NNP ./. Serena/NN Williams/NNP
 |
-Refugees/NNS in/IN U/SLANG ./. S/NNP ./.
+Refugees/NNS in/IN U.S/CD ./.
 Take/VB Up/IN Farming/VBG
 |
 White/NNP Supremacist/NN Executed/VBD for/IN Texas/NNP Dragging/VBG
 |
-Social/JJ Security/NNP Benefits/NNS to/TO Rise/NN 3/NN ./. 6/NN %/NN Next/JJ Year/NN
+Social/JJ Security/NNP Benefits/NNS to/TO Rise/NN 3.6/CD %/NN Next/JJ Year/NN
 |
 Media/NNP Decoder/NN Blog/NN :/: Gary/NNP E/NN ./.
 Knell/NN Named/VBN Chief/NNP of/IN NPR/NN
@@ -1194,14 +1193,14 @@ Israeli-Palestinian/JJ Prisoner/NN Swap/NN Rattles/VBZ Regional/JJ Politics/NNP
 |
 Syrian/JJ Security/NNP Forces/NNPS Fire/NNP on/IN Rallies/NNS ,/, Killing/VBG 13/NN
 |
-Straight/JJ Sets/NNS :/: Federer/NN Beats/VBZ Monaco/NNP in/IN U/SLANG ./. S/NNP ./.
+Straight/JJ Sets/NNS :/: Federer/NN Beats/VBZ Monaco/NNP in/IN U.S/CD ./.
 Open/NNP
 |
 Jets/NNP 27/NN ,/, Cowboys/NNPS 24/NN :/: Blocked/VBN Punt/NN and/CC Interception/NN Lift/VB Jets/NNP
 |
 Sound/NNP ,/, the/DT Way/NN the/DT Brain/NN and/CC the/DT Ear/NNP Prefer/VBP to/TO Hear/VB It/TPRP
 |
-Myanmar/NN Gives/VBZ Amnesty/NN to/TO Some/DT 6/NN ,/, 300/NN Prisoners/NNP
+Myanmar/NN Gives/VBZ Amnesty/NN to/TO Some/DT 6,300/NN Prisoners/NNP
 |
 Slide/NN show/NN :/: Readers/NNS '/POS photographs/NNS of/IN their/TPRP SteveJobs/NNS memories/NNS &/CC appreciation/NN
 |
@@ -1215,14 +1214,14 @@ Some/DT of/IN the/DT Men/NNS Pushing/VBG a/DT Chris/NNP Christie/NNP Run/NNP for
 |
 If/IN you/SPRP have/VBP a/DT dog/NN ,/, be/VB very/RB afraid/JJ ./.
 My/FPRP review/NN of/IN the/DT new/JJ
-"/" Bad/JJ Dog/NNP !/. ,/, "/"
-"/" Saturday/NNP on/IN AnimalPlanet/NN :/:
+"/" Bad/JJ Dog/NNP !,"/NN
+Saturday/NNP on/IN AnimalPlanet/NN :/:
 |
 Harrisburg/NNP Seeks/VBZ Bankruptcy/NNP
 |
 Fed/VBN Chief/NNP Raises/VBZ Doubts/NNS on/IN Recovery/NNP
 |
-Memo/NN From/IN Berlin/NNP :/: In/IN Berlin/NNP ,/, Pirates/NNP Win/NNP 8/NN ./. 9/NN Percent/NN of/IN Vote/NN in/IN Regional/JJ Races/NNS
+Memo/NN From/IN Berlin/NNP :/: In/IN Berlin/NNP ,/, Pirates/NNP Win/NNP 8.9/CD Percent/NN of/IN Vote/NN in/IN Regional/JJ Races/NNS
 |
 Rick/NNP Perry/NNP Under/IN Fire/NNP by/IN Republican/NNP Rivals/NNS for/IN Requiring/VBG HPV/NN Vaccine/NN for/IN Girls/NNP
 |
@@ -1247,7 +1246,7 @@ La/NNP ./. Gov/NN ./. Bobby/NNP Jindal/JJ Wins/VBZ Re-election/NN Easily/RB
 |
 Fact/NN check/NN :/: Bachmann/NNP on/IN health/NN care/NN law/NN :/:
 |
-Pakistan/NNP Points/NNPS to/TO Cooperation/NNP With/IN U/SLANG ./. S/NNP ./. in/IN Terror/NN Arrests/NNS
+Pakistan/NNP Points/NNPS to/TO Cooperation/NNP With/IN U.S/CD ./. in/IN Terror/NN Arrests/NNS
 |
 Hydraulic/NNP Fracturing/VBG Brings/VBZ Money/NNP ,/, and/CC Problems/NNS ,/, to/TO Pennsylvania/NNP
 |
@@ -1286,7 +1285,7 @@ Syrian/JJ Protesters/NNS Take/VB Inspiration/NN From/IN Libya/NNP
 |
 Fed/VBN Holds/NNP Off/IN on/IN Further/RB Actions/NNS to/TO Help/VB Economy/NNP
 |
-Ukraine/NNP '/POS s/PRP Tymoshenko/NN Sentenced/VBN to/TO 7/NN Years/NNS in/IN Jail/NNP
+Ukraine's/NNS Tymoshenko/NN Sentenced/VBN to/TO 7/NN Years/NNS in/IN Jail/NNP
 |
 Conservancy/NNP Marks/NNP Milestone/NN in/IN Restoring/VBG Central/JJ Park/NNP
 |
@@ -1298,25 +1297,25 @@ DealBook/NN :/: Arrest/NN of/IN UBS/NNP Trader/NNP Rattles/VBZ Banks/NNP in/IN E
 |
 Syria/NNP Accused/VBN of/IN Kidnapping/VBG 4/NN in/IN Lebanon/NNP
 |
-L/NNP ./. I/FPRP ./. R/NN ./. R/NN ./.
+L.I.R.R/CD ./.
 Retirees/NNS Still/RB Seek/NNP Disability/NN Benefits/NNS at/IN a/DT High/NNP Rate/NNP
 |
-Tigers/NNP 5/NN ,/, Rangers/NNPS 2/NN :/: A/DT ./. L/NNP ./. C/NN ./. S/NNP ./. :/: Tigers/NNP Cut/VB Rangers/NNPS Series/NNP Lead/JJ to/TO 2-1/NN
+Tigers/NNP 5/NN ,/, Rangers/NNPS 2/NN :/: A.L.C.S/CD .:/CD Tigers/NNP Cut/VB Rangers/NNPS Series/NNP Lead/JJ to/TO 2-1/NN
 |
 For/IN Debate/NN Partners/NNPS ,/, an/DT Unusual/JJ Pairing/VBG
 |
 Through/IN coordination/NN and/CC money/NN ,/, conservative/JJ groups/NNS take/VB on/IN roles/NNS played/VBD by/IN official/JJ GOP/NNP ,/, with/IN less/JJR accountability/NN ./.
 |
-The/DT Opens/VBZ Missing/JJ Piece2011/NN U/SLANG ./. S/NNP ./.
+The/DT Opens/VBZ Missing/JJ Piece2011/NN U.S/CD ./.
 Open/NNP :/: Building/VBG a/DT Roof/NNP Would/MD Come/VB With/IN Many/JJ Challenges/NNPS
 |
 Georgia/NNP Jobs/NNP Program/NN Draws/VBZ Federal/JJ Attention/NN
 |
 Union/NNP Dispute/NN Near/IN Seattle/NNP Turns/VBZ Violent/JJ and/CC Idles/NNS Ports/NNP
 |
-Photo/NNP :/: Visitors/NNS in/IN our/FPRP lobby/NN looking/VBG at/IN personal/JJ artifacts/NNS from/IN Sept11/NN submitted/VBN by/IN NYT/NN readers/NNS yfrog/NN ./. com/NN j2bbpcj/NN
+Photo/NNP :/: Visitors/NNS in/IN our/FPRP lobby/NN looking/VBG at/IN personal/JJ artifacts/NNS from/IN Sept11/NN submitted/VBN by/IN NYT/NN readers/NNS yfrog.com/CD j2bbpcj/NN
 |
-DealBook/NN :/: Moody/NNP '/POS s/PRP Cuts/NNS Rating/VBG on/IN Bank/NNP of/IN America/NNP
+DealBook/NN :/: Moody's/NNS Cuts/NNS Rating/VBG on/IN Bank/NNP of/IN America/NNP
 |
 A/DT Death-Row/NN Love/NNP Story/NNP
 |
@@ -1350,7 +1349,7 @@ Green/NNP Blog/NN :/: Hard/NNP Lessons/NNS in/IN the/DT Maine/NNP Woods/NNP
 |
 Trial/JJ of/IN Jacksons/NNPS Doctor/NNP Is/VBZ Set/VB to/TO Begin/VB
 |
-Magazine/NNP Preview/NN :/: Does/VBZ Anyone/NN Have/VBP a/DT Grip/NN on/IN the/DT G/NN ./. O/NNP ./. P/NN ./. ?/.
+Magazine/NNP Preview/NN :/: Does/VBZ Anyone/NN Have/VBP a/DT Grip/NN on/IN the/DT G.O.P/CD .?/CD
 |
 Is/VBZ Marriage/NNP for/IN White/NNP People/NNS ?/.
 Fascinating/JJ review/NN of/IN a/DT new/JJ book/NN about/IN race/NN and/CC marriage/NN :/:
@@ -1370,7 +1369,7 @@ CBS/NNP News/NNP Poll/NNP
 |
 Giants/NNP Umenyiora/NN Perfects/NNS Pass-Rush/NN Move/VB ,/, Building/VBG Career/NNP Around/IN It/TPRP
 |
-Yemen/NNP Notes/NNS Its/TPRP Own/JJ Role/NN in/IN U/SLANG ./. S/NNP ./.
+Yemen/NNP Notes/NNS Its/TPRP Own/JJ Role/NN in/IN U.S/CD ./.
 Attack/NNP on/IN Militant/JJ
 |
 Shaken/VBN by/IN a/DT Killing/VBG at/IN a/DT Co-op/NN ,/, a/DT Town/NNP in/IN Vermont/NNP Tries/VBZ to/TO Carry/NNP On/IN
@@ -1386,7 +1385,7 @@ Political/JJ Memo/NN :/: For/IN Dispirited/VBN French/JJ Voters/NNS ,/, None/NN 
 |
 In/IN Arizona/NNP ,/, Border/NNP Patrols/NNS Look/VB for/IN Mexican/JJ Immigrants/NNS
 |
-City/NNP Room/NNP :/: Bloomberg/NNP Appears/VBZ on/IN Larry/NNP David/NNP '/POS s/PRP '/POS Curb/VB Your/SPRP Enthusiasm/NN '/POS
+City/NNP Room/NNP :/: Bloomberg/NNP Appears/VBZ on/IN Larry/NNP David's/NNS 'Curb/NN Your/SPRP Enthusiasm/NN '/POS
 |
 Lens/NNP Blog/NN :/: W/NNP ./.
 Eugene/NNP Smith/NNP Grant/NNP Awarded/VBN to/TO Krisanne/NN Johnson/NNP
@@ -1395,7 +1394,7 @@ Fashion/NNP Review/NNP :/: Balenciaga/NNP ,/, Balmain/NNP ,/, Rick/NNP Owens/NNP
 |
 Al/NNP Davis/NNP ,/, Owner/NN of/IN Raiders/NNPS ,/, Dies/NNP at/IN 82/NN
 |
-N/NN ./. C/NN ./. A/DT ./. A/DT ./.
+N.C.A.A/CD ./.
 President/NNP Favors/VBZ Bigger/JJR Grants/NNPS for/IN Athletes/NNS
 |
 New/NNP Zealand/NNP Beats/VBZ France/NNP 8-7/NN in/IN Rugby/NN World/NNP Cup/NNP
@@ -1474,7 +1473,7 @@ The/DT 9/NN
 11/NN Decade/NN :/: The/DT 9/NN
 11/NN Decade/NN :/: Young/NNP Muslims/NNPS Come/VB of/IN Age/NNP
 |
-Syracuse/NNP and/CC Pittsburgh/NNP Are/VBP Talking/VBG With/IN A/DT ./. C/NN ./. C/NN ./.
+Syracuse/NNP and/CC Pittsburgh/NNP Are/VBP Talking/VBG With/IN A.C.C/CD ./.
 |
 Bats/NNS :/: Live/NNP Analysis/NNP :/: Rangers-Cardinals/NNS ,/, World/NNP Series/NNP Game/NN 5/NN
 |
@@ -1490,12 +1489,12 @@ Six/CD Suspects/VBZ Charged/VBN in/IN British/JJ Terrorism/NNP Plot/NN
 |
 City/NNP Room/NNP :/: Brooklyn/NNP Man/NN Accused/VBN of/IN Seeking/VBG to/TO Join/VB Terror/NN Group/NNP
 |
-28/NN ,/, 462/NN people/NNS have/VBP told/VBD us/FPRP where/WRB they/TPRP were/VBD on/IN Sept11/NN ./.
+28,462/NN people/NNS have/VBP told/VBD us/FPRP where/WRB they/TPRP were/VBD on/IN Sept11/NN ./.
 Browse/VB &/CC filter/NN these/DT memories/NNS by/IN word/NN frequency/NN :/:
 |
 Chrysler/NNP and/CC Auto/NN Workers/NNPS Union/NNP Reach/NNP Tentative/JJ Labor/NNP Pact/NNP
 |
-Radio/NNP D/NN ./. J/NNP ./. in/IN Catskills/NNPS Offered/VBN a/DT Lifeline/NN During/IN the/DT Storm/NN
+Radio/NNP D.J/CD ./. in/IN Catskills/NNPS Offered/VBN a/DT Lifeline/NN During/IN the/DT Storm/NN
 |
 Two/CD Men/NNS Arrested/VBN in/IN German/JJ Bomb/VB Plot/NN
 |
@@ -1518,13 +1517,13 @@ Alcohol/NN Isnt/NN Worth/NNP the/DT Trouble/NN for/IN Some/DT Chain/NN Restauran
 |
 Fascinating/JJ graphic/JJ on/IN the/DT pipeline/NN leaks/NNS and/CC spills/NNS in/IN the/DT United/VBN States/NNPS in/IN the/DT last/JJ 20/NN years/NNS
 |
-Gay/NNP Students/NNS Bullied/VBD in/IN Anoka/NN ,/, Minn/NNP ./. ,/, Suit/NN Says/VBZ
+Gay/NNP Students/NNS Bullied/VBD in/IN Anoka/NN ,/, Minn/NNP .,/CD Suit/NN Says/VBZ
 |
 President/NNP Obama/NN will/MD arrive/VB in/IN Shanksville/NN ,/, Pa/NNP ./. at/IN noon/NN to/TO lay/VBD a/DT wreath/NN at/IN the/DT site/NN of/IN Flight93/NN :/:
 |
 Former/JJ Qaddafi/NN Loyalists/NNS Switch/NN Sides/NNP in/IN a/DT New/NNP Libya/NNP
 |
-Record-Making/VBG Smoke/NNP Jumper/NN Makes/VBZ His/TPRP Last/JJ (Official)/NN Leap/NNP
+Record-Making/VBG Smoke/NNP Jumper/NN Makes/VBZ His/TPRP Last/JJ (Official/JJ )/) Leap/NNP
 |
 Financial/JJ Stocks/NNS Lift/VB Wall/NNP Street/NNP
 |
@@ -1539,7 +1538,7 @@ From/IN Walden/NNP Pond/NNP to/TO the/DT Olympics/NNPS ,/, Alex/NNP Meyer/NNP Th
 Banks/NNP Flooded/VBN With/IN Cash/NNP They/TPRP Cant/NN Profitably/RB Use/VB
 |
 Our/FPRP Q/NN &/CC A/DT w/IN lpolgreen/NN on/IN all/DT things/NNS India/NNP is/VBZ underway/RB ./.
-Please/VB post/NN your/SPRP India-related/VBN questions/NNS here/RB :/: on/IN ./. fb/NN ./. me/FPRP
+Please/VB post/NN your/SPRP India-related/VBN questions/NNS here/RB :/: on.fb.me/CD
 qNawIJ/NN
 |
 In/IN the/DT Garden/NNP :/: The/DT Race/NNP to/TO Grow/NNP the/DT One-Ton/NN Pumpkin/NNP
@@ -1548,12 +1547,12 @@ At/IN the/DT University/NNP of/IN Chicago/NNP ,/, Football/NNP and/CC Higher/JJR
 |
 Southern/NNP Manners/NNP on/IN Decline/NN ,/, Some/DT Say/NN
 |
-I/FPRP '/POS m/NN at/IN NYCSchools/NNS Chancellor/NNP Dennis/NNP M/NNP ./.
-Walcott/NNP '/POS s/PRP speech/NN at/IN NYU/NNP this/DT morning/VBG ,/, where/WRB he/TPRP '/POS ll/NN outline/NN policy/NN goals/NNS for/IN 2011-13/NN school/NN year/NN ./.
+I'm/NN at/IN NYCSchools/NNS Chancellor/NNP Dennis/NNP M/NNP ./.
+Walcott's/NNS speech/NN at/IN NYU/NNP this/DT morning/VBG ,/, where/WRB he'll/NN outline/NN policy/NN goals/NNS for/IN 2011-13/NN school/NN year/NN ./.
 |
 Medvedev/NNP Says/VBZ Putin/NN Will/MD Seek/NNP Russian/NNP Presidency/NNP in/IN 2012/NN
 |
-Crackdown/NN on/IN Criminal/JJ Immigrants/NNS ,/, Operation/NNP Cross/NNP Check/VB ,/, Brings/VBZ 2/NN ,/, 901/NN Arrests/NNS
+Crackdown/NN on/IN Criminal/JJ Immigrants/NNS ,/, Operation/NNP Cross/NNP Check/VB ,/, Brings/VBZ 2,901/NN Arrests/NNS
 |
 Answering/VBG the/DT Question/NN :/: Is/VBZ This/DT New/NNP York/NNP Cab/NNP Free/NNP ?/.
 |
@@ -1561,15 +1560,15 @@ NYT/NN NEWS/NN ALERT/JJ :/: Thomas/NNP J/NNP ./.
 Sargent/NNP and/CC Christopher/NNP A/DT ./.
 Sims/NNP Win/NNP Nobel/NNP for/IN Economics/NNP
 |
-Russia/NNP Will/MD Bar/NNP Some/DT U/SLANG ./. S/NNP ./.
+Russia/NNP Will/MD Bar/NNP Some/DT U.S/CD ./.
 Citizens/NNPS in/IN Retaliatory/JJ Move/VB
 |
 Americans/NNPS Raid/NN Haqqani/NN Byways/NNS of/IN Afghanistan/NNP
 |
-G/NN ./. O/NNP ./. P/NN ./.
+G.O.P/CD ./.
 Is/VBZ Cautious/JJ in/IN Jobs/NNP Response/NNP
 |
-From/IN editorial/JJ page/NN editor/NN andyrnyt/NN '/POS s/PRP new/JJ opinion/NN blog/NN :/: Herman/NNP Cain/NNP and/CC the/DT Liberal/JJ Media/NNP
+From/IN editorial/JJ page/NN editor/NN andyrnyt's/NNS new/JJ opinion/NN blog/NN :/: Herman/NNP Cain/NNP and/CC the/DT Liberal/JJ Media/NNP
 |
 Congress/NNP Asked/VBN to/TO Approve/VB 3/NN Trade/NNP Pacts/NNS
 |
@@ -1583,7 +1582,7 @@ WORLD/NN :/: Timescast/NN |/NN October/NNP 21/NN ,/, 2011/NN
 |
 Lancet/NNP Report/NNP Cites/VBZ Rate/NNP of/IN Late-in-Life/NN Surgery/NNP
 |
-On/IN the/DT 10th/NN Anniversary/NNP of/IN the/DT War/NNP ,/, a/DT Rocket-Artillery/NN Duel/NNP Beside/IN the/DT AfPak/NN Border/NNP ./. tumblr/NN ./. com/NN x1q546k18r/NN
+On/IN the/DT 10th/NN Anniversary/NNP of/IN the/DT War/NNP ,/, a/DT Rocket-Artillery/NN Duel/NNP Beside/IN the/DT AfPak/NN Border/NNP ./. tumblr.com/CD x1q546k18r/NN
 |
 Saadi/NNP el-Qaddafi/NN Flees/VBZ to/TO Niger/NNP as/IN New/NNP Leaders/NNS Focus/NNP on/IN Next/JJ Steps/NNPS
 |
@@ -1597,7 +1596,7 @@ New/NNP York/NNP Regents/NNS Plan/NNP a/DT Push/NN for/IN the/DT Dream/NNP Act/N
 |
 Irregularities/NNS Found/VBD in/IN John/NNP Lius/NNS Campaign/NNP Finance/NNP Reports/NNS
 |
-./. nytimes/NNS home/NN page/NN from/IN Sept11/NN ./.
+.nytimes/CD home/NN page/NN from/IN Sept11/NN ./.
 |
 Obama/NN Raises/VBZ More/RBR Than/IN $/$ 70/NN Million/CD
 |
@@ -1618,7 +1617,7 @@ Bush/NNP and/CC Obama/NN :/: Side/NNP by/IN Side/NNP at/IN Ground/NNP Zero/NN
 |
 Near/IN Bani/NNP Walid/NN ,/, a/DT Qaddafi/NN Loyalist/JJ Town/NNP ,/, Waiting/VBG for/IN an/DT End/NN
 |
-What/WP '/POS s/PRP in/IN a/DT name/NN ?/.
+What's/NNS in/IN a/DT name/NN ?/.
 A/DT lot/NN ./.
 My/FPRP report/NN on/IN Runaway/JJ Negro/NNP Creek/NNP and/CC other/JJ race-based/JJ place/NN name/NN ./.
 |
@@ -1646,7 +1645,7 @@ In/IN Solyndra/NN Loan/NNP Guarantees/NNS ,/, White/NNP House/NNP Intervention/N
 |
 City/NNP Room/NNP :/: Setback/NN for/IN Cuomo/NNP ,/, as/IN Public/NNP Employees/NNS Federation/NNP Rejects/VBZ Contract/NNP Proposal/JJ
 |
-Watching/VBG tonight/RB '/POS s/PRP GOP/NNP debate/NN ?/.
+Watching/VBG tonight's/NNS GOP/NNP debate/NN ?/.
 Follow/VB TheCaucus/NNS for/IN live/VB tweets/NNS &/CC live/VB blog/NN coverage/NN
 |
 Once/RB Upon/IN a/DT Car/NNP :/: On/IN the/DT Road/NNP to/TO Detroits/NNS Big/NNP Pileup/NN
@@ -1675,12 +1674,12 @@ Jorge/NNP Noguera/NN Convicted/VBN in/IN Colombia/NNP Spy/NNP Scandal/JJ
 |
 Fashion/NNP Review/NNP :/: McQueen/NNP ,/, Louis/NNP Vuitton/NNP ,/, Miu/NN Miu/NN for/IN Spring/VBG 2012/NN
 |
-As/IN Perry/NNP Rises/NNP ,/, G/NN ./. O/NNP ./. P/NN ./.
+As/IN Perry/NNP Rises/NNP ,/, G.O.P/CD ./.
 Elite/NNP Look/VB Toward/IN Romney/NN
 |
 House/NNP Passes/VBZ 3/NN Free/NNP Trade/NNP Accords/NNPS
 |
-Israeli-Palestinian/JJ Dispute/NN Upstages/NNS Arab/NNP Spring/VBG at/IN U/SLANG ./. N/NN ./.
+Israeli-Palestinian/JJ Dispute/NN Upstages/NNS Arab/NNP Spring/VBG at/IN U.N/CD ./.
 |
 FiveThirtyEight/NN :/: Is/VBZ Christie/NNP the/DT Anti-Perry/NN or/CC the/DT Anti-Romney/NN ?/.
 |
@@ -1709,7 +1708,7 @@ Efforts/NNS to/TO Combat/NNP High/NNP Infant/JJ Mortality/NN Rate/NNP Among/IN B
 |
 In/IN case/NN you/SPRP missed/VBD it/TPRP :/: Mexico/NNP turns/VBZ to/TO Twitter/NN &/CC Facebook/NN for/IN info/NN ,/, survival/JJ
 |
-New/NNP Enrollment/NN Dips/NNS a/DT Bit/NN at/IN U/SLANG ./. S/NNP ./.
+New/NNP Enrollment/NN Dips/NNS a/DT Bit/NN at/IN U.S/CD ./.
 Graduate/NNP Schools/NNP
 |
 Jets/NNP 27/NN ,/, Chargers/NNPS 21/NN :/: Burress/NNS and/CC Jets/NNP Reassert/VB Themselves/PRP
@@ -1729,11 +1728,11 @@ China/NNP Reshuffles/NNS Leadership/NN at/IN Financial/JJ Regulators/NNS
 |
 Wines/NNP of/IN The/DT Times/NNP :/: Rosso/NNP di/NNP Montalcino/NN Wine/NNP Review/NNP
 |
-The/DT Media/NNP Equation/NN :/: Backpage/NN ./. com/NN Confronts/VBZ New/NNP Fight/VB Over/IN Online/NNP Sex/NN Ads/NNS
+The/DT Media/NNP Equation/NN :/: Backpage.com/CD Confronts/VBZ New/NNP Fight/VB Over/IN Online/NNP Sex/NN Ads/NNS
 |
 Critics/NNS Notebook/NN :/: Andrea/NNP Bocelli/NN ,/, Philharmonic/NNP and/CC Friends/NNS in/IN Central/JJ Park/NNP
 |
-U/SLANG ./. S/NNP ./.
+U.S/CD ./.
 Soldier/NNP Killed/VBN Afghan/JJ BBC/NNP Reporter/NNP in/IN July/RB ,/, NATO/NNP Says/VBZ
 |
 World/NNP Series/NNP Back/RB at/IN Catcher/NNP ,/, Napoli/NN Puts/VBZ Rangers/NNPS on/IN His/TPRP Back/RB
@@ -1763,7 +1762,7 @@ Egypt/NNP Military/NNP Ruler/NN Called/VBN to/TO Testify/VB
 |
 Your/SPRP Money/NNP :/: Bank/NNP Fees/NNS on/IN Debit/NN Cards/NNP Have/VBP Some/DT Customers/NNS Looking/VBG to/TO Switch/NN
 |
-The/DT Caucus/NNP :/: G/NN ./. O/NNP ./. P/NN ./.
+The/DT Caucus/NNP :/: G.O.P/CD ./.
 Candidates/NNS Start/VB to/TO Engage/VB on/IN Foreign/NNP Policy/NNP
 |
 Syrian/JJ Troops/NNS Kill/VB 6/NN in/IN Anti-Protest/NN Raids/NNS
@@ -1771,7 +1770,7 @@ Syrian/JJ Troops/NNS Kill/VB 6/NN in/IN Anti-Protest/NN Raids/NNS
 Rents/NNS in/IN Manhattan/NNP Rebound/NN to/TO Record/NNP Highs/NNS
 |
 Have/VBP questions/NNS for/IN frankbruni/NN ,/, Collins/NNP ,/, Brooks/NNP &/CC Edsalls/NNS Oct/NNP ./. 18/NN elections/NNS panel/NN in/IN DC/NN ?/.
-Tweet/NN your/SPRP Q/NN '/POS s/PRP w/IN nytopinion/NN
+Tweet/NN your/SPRP Q's/NNS w/IN nytopinion/NN
 |
 sketchy9/NN Sorry/JJ to/TO see/VB you/SPRP go/VB ./.
 |
@@ -1784,12 +1783,12 @@ NYT/NN NEWS/NN ALERT/JJ :/: Head/NNP of/IN Libyas/NNS Military/NNP Council/NNP S
 |
 Banks/NNP Brace/NNP for/IN Bad/JJ News/NNP as/IN Earnings/NNS Season/NN Arrives/VBZ
 |
-Bats/NNS :/: Live/NNP Analysis/NNP :/: Yankees-Tigers/NNS ,/, A/DT ./. L/NNP ./. D/NN ./. S/NNP ./.
+Bats/NNS :/: Live/NNP Analysis/NNP :/: Yankees-Tigers/NNS ,/, A.L.D.S/CD ./.
 Game/NN 3/NN
 |
 Beliefs/NNS :/: For/IN Jews/NNPS ,/, Breaking/VBG the/DT Fast/NNP After/IN Yom/NNP Kippur/NNP Gets/VBZ a/DT Makeover/NN
 |
-We/FPRP '/POS re/NN aware/JJ that/IN nytimes/NNS ./. com/NN is/VBZ down/RB at/IN the/DT moment/NN ./.
+We're/NN aware/JJ that/IN nytimes.com/CD is/VBZ down/RB at/IN the/DT moment/NN ./.
 Our/FPRP tech/NN team/NN is/VBZ working/VBG quickly/RB to/TO restart/VB it/TPRP ./.
 |
 Republicans/NNPS Call/VB Obamas/NNS Tax/NNP Plan/NNP Class/NNP Warfare/NN
@@ -1818,23 +1817,23 @@ Congressional/JJ Memo/NN :/: Short-Term/JJ Fixes/NNS Take/VB Place/NNP of/IN Rea
 |
 Central/JJ Banks/NNP in/IN Europe/NNP Move/VB to/TO Support/NNP Economy/NNP
 |
-Here/RB '/POS s/PRP how/WRB the/DT ZaGoogle/NN story/NN ,/, done/VBN with/IN m_delamerced/VBN and/CC clairecm/NN ,/, turned/VBD out/IN ./.
+Here's/NNS how/WRB the/DT ZaGoogle/NN story/NN ,/, done/VBN with/IN m_delamerced/VBN and/CC clairecm/NN ,/, turned/VBD out/IN ./.
 Thanks/NNS for/IN all/DT ur/SLANG suggestions/NNS ./.
 |
-Adu/NN to/TO Catalonia/NN '/POS s/PRP Matadors/NNS
+Adu/NN to/TO Catalonia's/NNS Matadors/NNS
 |
 Oakland/NNP and/CC Other/JJ Cities/NNPS Crack/NN Down/IN on/IN Occupy/VB Protests/NNS
 |
-Awlaki/NN Strike/VB Shows/NNS U/SLANG ./. S/NNP ./.
+Awlaki/NN Strike/VB Shows/NNS U.S/CD ./.
 Shift/NN to/TO Drones/NNS in/IN Terror/NN Fight/VB
 |
-House/NNP Approves/VBZ Bill/NNP Restricting/VBG N/NN ./. L/NNP ./. R/NN ./. B/NNP ./.
+House/NNP Approves/VBZ Bill/NNP Restricting/VBG N.L.R.B/CD ./.
 |
 GM-UAW/NN Agree/VBP on/IN New/NNP Contract/NNP
 |
 Companies/NNS Use/VB Immigration/NNP Crackdown/NN to/TO Turn/VB a/DT Profit/NN
 |
-On/IN the/DT Runway/NN Blog/NN :/: Catch/NN Tom/NNP Ford/NNP but/CC Don/NNP '/POS t/NN Miss/NNP Thomas/NNP Tait/NNP During/IN London/NNP Fashion/NNP Week/NNP
+On/IN the/DT Runway/NN Blog/NN :/: Catch/NN Tom/NNP Ford/NNP but/CC Don't/VB Miss/NNP Thomas/NNP Tait/NNP During/IN London/NNP Fashion/NNP Week/NNP
 |
 Bats/NNS :/: Live/NNP Analysis/NNP :/: Baseballs/NNS Wild/NNP Card/NNP Race/NNP
 |
@@ -1862,7 +1861,7 @@ Some/DT background/NN on/IN the/DT Madoff/NN book/NN coming/VBG out/IN next/JJ w
 This/DT Land/NNP :/: At/IN Bowery/NNP House/NNP Hotel/NNP ,/, Flophouse/NN Aesthetic/JJ of/IN Old/NNP
 |
 In/IN an/DT online/JJ chat/NN at/IN 1/NN with/IN my/FPRP fellow/NN TV/NN critic/NN ,/, Mike/NNP Hale/NNP ./.
-Would/MD love/VB your/SPRP advance/NN questions/NNS ,/, wisecracks/NNS ,/, etc/FW ./. :/:
+Would/MD love/VB your/SPRP advance/NN questions/NNS ,/, wisecracks/NNS ,/, etc/FW .:/CD
 |
 White/NNP House/NNP Orders/NNS New/NNP Computer/NNP Security/NNP Rules/NNP
 |
@@ -1873,12 +1872,12 @@ Cable/NNP TV/NN Holding/VBG Web/NNP Rivals/NNS at/IN Bay/NNP ,/, Earnings/NNS Sh
 |
 China/NNP Changes/NNS Direction/NNP on/IN Car/NNP Sales/NNS
 |
-New/NNP York/NNP Fashion/NNP Week/NNP |/NN Fashion/NNP Review/NNP :/: Michael/NNP Kors/NNP ,/, Oscar/NNP de/FW la/FW Renta/NNP ,/, Theory/NNP -/: N/NN ./. Y/NNP ./.
+New/NNP York/NNP Fashion/NNP Week/NNP |/NN Fashion/NNP Review/NNP :/: Michael/NNP Kors/NNP ,/, Oscar/NNP de/FW la/FW Renta/NNP ,/, Theory/NNP -/: N.Y/CD ./.
 Fashion/NNP Week/NNP
 |
 Medvedev/NNP Defends/NNS Plan/NNP to/TO Trade/NNP Places/NNS With/IN Putin/NN
 |
-Herman/NNP Cains/NNS Tax/NNP Plan/NNP Changes/NNS G/NN ./. O/NNP ./. P/NN ./.
+Herman/NNP Cains/NNS Tax/NNP Plan/NNP Changes/NNS G.O.P/CD ./.
 Primary/JJ Math/NNP
 |
 Killing/VBG of/IN Opposition/NN Leader/NNP in/IN Syria/NNP Provokes/VBZ Kurds/NNPS
@@ -1887,7 +1886,7 @@ Dorothy/NNP Rodham/NN ,/, Mother/NNP of/IN Hillary/NNP Clinton/NNP ,/, Dies/NNP 
 |
 6/NN Killed/VBN in/IN Southern/NNP California/NNP Salon/NNP Shooting/VBG
 |
-The/DT Lede/NN Blog/NN :/: Protesters/NNS Topple/VB Wall/NNP Outside/IN Israel/NNP '/POS s/PRP Embassy/NNP in/IN Cairo/NNP
+The/DT Lede/NN Blog/NN :/: Protesters/NNS Topple/VB Wall/NNP Outside/IN Israel's/NNS Embassy/NNP in/IN Cairo/NNP
 |
 Yankees/NNP 3/NN ,/, Mariners/NNPS 2/NN :/: Rivera/NNP Notches/NNS Save/VB No/DT ./. 600/NN in/IN Seattle/NNP
 |
@@ -1899,29 +1898,29 @@ Arts/NNP &/CC Leisure/NNP :/: Elizabeth/NNP Olsen/NNP in/IN Martha/NNP Marcy/NNP
 |
 Hugh/NNP Laurie/NNP Sings/VBZ the/DT Blues/NNPS
 |
-Analysis/NNP :/: N/NN ./. B/NNP ./. A/DT ./.
+Analysis/NNP :/: N.B.A/CD ./.
 Deal/JJ Is/VBZ Close/RB ,/, but/CC Last/JJ Hurdle/NN Is/VBZ a/DT Big/NNP One/CD
 |
-Gadgetwise/NN Blog/NN :/: Q/NN &/CC A/DT :/: Sorting/VBG Subscriptions/NNS in/IN Facebook/NN
+Gadgetwise/NN Blog/NN :/: Q&A/NN :/: Sorting/VBG Subscriptions/NNS in/IN Facebook/NN
 |
-Moody/NNP '/POS s/PRP Cuts/NNS SocGen/NN and/CC CreditAgricole/NN ,/, BNPP/NN Still/RB on/IN Review/NNP
+Moody's/NNS Cuts/NNS SocGen/NN and/CC CreditAgricole/NN ,/, BNPP/NN Still/RB on/IN Review/NNP
 |
 Across/IN the/DT Nation/NN ,/, Tragedy/NN Spawned/VBD Inspiration/NN
 |
-Dodd-Frank/NN Act/NNP Is/VBZ a/DT Target/NNP on/IN G/NN ./. O/NNP ./. P/NN ./.
+Dodd-Frank/NN Act/NNP Is/VBZ a/DT Target/NNP on/IN G.O.P/CD ./.
 Campaign/NNP Trail/NNP
 |
 Louisiana/NNP Business/NNP Owners/NNS Sue/NNP Over/IN New/NNP Wage/NN Rules/NNP for/IN a/DT Guest-Worker/NN Program/NN
 |
 Avoiding/VBG Eagles/NNP Punt/NN Returner/NN Easier/JJR Said/VBD Than/IN Done/VBN
 |
-Attacks/VBZ Rock/NNP U/SLANG ./. S/NNP ./.
+Attacks/VBZ Rock/NNP U.S/CD ./.
 Outposts/NNS Near/IN Afghanistan-Pakistan/NN Border/NNP
 |
 Fed/VBN Panel/NNP Is/VBZ Divided/VBN on/IN Direction/NNP
 |
-H/NNP ./. G/NN ./. H/NNP ./.
-Testing/VBG Is/VBZ Now/RB Unlikely/RB in/IN N/NN ./. F/NN ./. L/NNP ./.
+H.G.H/CD ./.
+Testing/VBG Is/VBZ Now/RB Unlikely/RB in/IN N.F.L/CD ./.
 This/DT Season/NN
 |
 Cardinals/NNP 7/NN ,/, Brewers/NNS 1/NN :/: Brewers/NNS Commit/VB Four/CD Errors/NNS and/CC Cardinals/NNP Take/VB Advantage/NN
@@ -1936,10 +1935,10 @@ Recent/JJ Discoveries/NNS Put/VB Americas/NNP Back/RB in/IN Oil/NNP Companies/NN
 |
 Proposed/VBN Union/NNP Contract/NNP at/IN Ford/NNP Appears/VBZ Likely/RB to/TO Pass/NNP
 |
-Key/NNP N/NN ./. B/NNP ./. A/DT ./.
+Key/NNP N.B.A/CD ./.
 Negotiators/NNS Make/VB Final/JJ Effort/NN to/TO Save/VB Games/NNPS
 |
-The/DT Autumn/NN of/IN Discontent/NN ,/, a/DT piece/NN by/IN lpolgreen/NN on/IN Kashmir/NN '/POS s/PRP missed/VBD opportunity/NN of/IN hosting/VBG the/DT Harud/NN Literary/NNP Festival/JJ :/:
+The/DT Autumn/NN of/IN Discontent/NN ,/, a/DT piece/NN by/IN lpolgreen/NN on/IN Kashmir's/NNS missed/VBD opportunity/NN of/IN hosting/VBG the/DT Harud/NN Literary/NNP Festival/JJ :/:
 |
 On/IN Baseball/NN :/: Milwaukee/NNP Brewers/NNS and/CC Fans/NNS Are/VBP Savoring/VBG the/DT Moment/NN
 |
@@ -1947,7 +1946,7 @@ The/DT 9/NN
 11/NN Decade/NN :/: Hit/VBN So/SLANG Hard/NNP by/IN 9/NN
 11/NN ,/, Rockaway/NN Struggles/NNP to/TO Let/VB Go/VB
 |
-The/DT excellent/JJ Daniel/NNP Kahneman/NN will/MD make/VB you/SPRP wonder/NN if/IN anybody/NN anywhere/RB really/RB knows/VBZ what/WP they/TPRP '/POS re/NN doing/VBG ./.
+The/DT excellent/JJ Daniel/NNP Kahneman/NN will/MD make/VB you/SPRP wonder/NN if/IN anybody/NN anywhere/RB really/RB knows/VBZ what/WP they're/NN doing/VBG ./.
 |
 Well/UH Blog/NN :/: More/RBR Athletes/NNS Using/VBG Cryotherapy/NN to/TO Speed/VBN Recovery/NNP
 |
@@ -1963,10 +1962,10 @@ Concerns/NNS Raised/VBN about/IN Genetically/RB Engineered/VBN Mosquitoes/NNS
 |
 Asmussen/NN Named/VBN to/TO European/JJ Central/JJ Bank/NNP Post/NNP
 |
-Steve/NNP Jobs/NNP didn/VBD '/POS t/NN impact/NN the/DT world/NN of/IN technology/NN -/: he/TPRP defined/VBN it/TPRP ./.
+Steve/NNP Jobs/NNP didn't/VBD impact/NN the/DT world/NN of/IN technology/NN -/: he/TPRP defined/VBN it/TPRP ./.
 We/FPRP see/VB &/CC experience/NN the/DT world/NN differently/RB because/IN of/IN him/TPRP ./. stevejobslegacy/NN
 |
-The/DT Athlete/NNP '/POS s/PRP Pain/NN :/: As/IN Sports/NNPS Medicine/NNP Surges/NNS ,/, Hope/NNP and/CC Hype/NN Outpace/VB Proven/VBN Treatments/NNS
+The/DT Athlete's/NNS Pain/NN :/: As/IN Sports/NNPS Medicine/NNP Surges/NNS ,/, Hope/NNP and/CC Hype/NN Outpace/VB Proven/VBN Treatments/NNS
 |
 Troy/NNP Davis/NNP Is/VBZ Denied/VBN Clemency/NN in/IN Georgia/NNP
 |
@@ -1974,20 +1973,20 @@ Magazine/NNP Preview/NN :/: The/DT Surreal/JJ Ruins/NNS of/IN Qaddafis/NNS Never
 |
 The/DT Lede/NN Blog/NN :/: Latest/JJS Updates/NNS on/IN Occupy/VB Oakland/NNP Protest/NN
 |
-"/" You/SPRP have/VBP to/TO trust/NN in/IN something/VBG --/: your/SPRP gut/NN ,/, destiny/NN ,/, life/NN ,/, karma/NN ,/, whatever/WDT ./. This/DT approach/NN has/VBZ never/RB let/VB me/FPRP down/RB ./. ./. ./. "/"
-"/" SteveJobs/NNS
+"/" You/SPRP have/VBP to/TO trust/NN in/IN something/VBG --/: your/SPRP gut/NN ,/, destiny/NN ,/, life/NN ,/, karma/NN ,/, whatever/WDT ./. This/DT approach/NN has/VBZ never/RB let/VB me/FPRP down/RB ..."/CD
+SteveJobs/NNS
 |
-./. thecaucus/NNS is/VBZ live-tweeting/VBG tonight/RB '/POS s/PRP GOP/NNP debate/NN ./.
+.thecaucus/CD is/VBZ live-tweeting/VBG tonight's/NNS GOP/NNP debate/NN ./.
 Follow/VB along/IN on/IN our/FPRP liveblog/NN
 |
 Rockefeller/NNP Told/VBN Nixon/NNP Lethal/JJ Attica/NNP Raid/NN Was/VBD Beautiful/JJ
 |
 New/NNP York/NNP City/NNP Native/NNP Plant/NNP Centers/NNPS Seed/VBN Is/VBZ for/IN the/DT Future/NNP
 |
-City/NNP Room/NNP :/: L/NNP ./. I/FPRP ./. R/NN ./. R/NN ./.
+City/NNP Room/NNP :/: L.I.R.R/CD ./.
 Service/NNP Is/VBZ Knocked/VBD Out/IN by/IN Lightning/VBG Strike/VB
 |
-On/IN YouTube/NN ,/, a/DT Debate/NN Over/IN the/DT Right/RB to/TO Fly/RB (With/NN Your/SPRP Pants/NNS Down)/NN
+On/IN YouTube/NN ,/, a/DT Debate/NN Over/IN the/DT Right/RB to/TO Fly/RB (With/NN Your/SPRP Pants/NNS Down/IN )/)
 |
 Amnesty/NN Program/NN Yields/NNS Millions/NNS More/RBR in/IN Back/RB Taxes/NNS
 |
@@ -2017,7 +2016,7 @@ After/IN Mahdis/NNS Murder/NN ,/, Optimism/NN of/IN Intellectuals/NNS Ebbs/VBZ i
 |
 Media/NNP Decoder/NN Blog/NN :/: TV/NN Nostalgia/NN Fans/NNS to/TO Marinate/NN in/IN Their/TPRP Old/NNP Favorites/NNPS
 |
-I/FPRP ./. H/NNP ./. T/NN ./.
+I.H.T/CD ./.
 Special/JJ Report/NNP :/: Global/JJ Agenda/NNP :/: Undermining/VBG of/IN Central/JJ Banks/NNP Leaves/NNS Markets/NNPS Adrift/RB
 |
 Many/JJ Die/NNP as/IN Eastern/NNP Turkey/NNP Is/VBZ Jolted/VBD by/IN Quake/NN
@@ -2051,9 +2050,9 @@ FiveThirtyEight/NN :/: Bill/NNP Buckner/NN Strikes/NNS Again/RB
 |
 Gunmen/NNS ,/, Bombers/NNS Hit/VBN Local/JJ Iraqi/JJ Government/NNP Compound/JJ :/: Sources/NNS
 |
-Listen/VB to/TO audio/JJ excerpts/NNS of/IN dianabhenriques/NNS '/POS s/PRP interview/NN with/IN Ruth/NNP Madoff/NN :/:
+Listen/VB to/TO audio/JJ excerpts/NNS of/IN dianabhenriques's/NNS interview/NN with/IN Ruth/NNP Madoff/NN :/:
 |
-Sports/NNPS of/IN The/DT Times/NNP :/: 2011/NN U/SLANG ./. S/NNP ./.
+Sports/NNPS of/IN The/DT Times/NNP :/: 2011/NN U.S/CD ./.
 Open/NNP :/: Clear/NNP Skies/NNPS ,/, Bright/NNP Sunlight/NNP ,/, Bounding/VBG Balls/NNS
 |
 Whats/NNS a/DT Presidential/JJ Library/NNP to/TO Do/VBP ?/.
@@ -2068,12 +2067,12 @@ Yemeni/JJ Forces/NNPS Open/NNP Fire/NNP on/IN Protesters/NNS ,/, 12/NN Killed/VB
 |
 Listeria/FW in/IN Rocky/NNP Ford/NNP Cantaloupe/NN Outbreak/NN Has/VBZ Rising/VBG Toll/NN
 |
-In/IN Rush/NNP to/TO Assist/NNP Solyndra/NN ,/, U/SLANG ./. S/NNP ./.
+In/IN Rush/NNP to/TO Assist/NNP Solyndra/NN ,/, U.S/CD ./.
 Missed/VBD Warning/VBG Signs/NNS
 |
 
 |
-Join/VB andyrnyt/NN frankbruni/NN collins/NNS brooks/NNS &/CC edsall/NN for/IN an/DT election/NN discussion/NN streamed/VBD at/IN 7pm/NN oct/NN 18/NN :/: nytimes/NNS ./. com/NN opinion/NN nytopinion/NN
+Join/VB andyrnyt/NN frankbruni/NN collins/NNS brooks/NNS &/CC edsall/NN for/IN an/DT election/NN discussion/NN streamed/VBD at/IN 7pm/NN oct/NN 18/NN :/: nytimes.com/CD opinion/NN nytopinion/NN
 |
 The/DT other/JJ Olsen/NNP sister/NN ,/, Elizabeth/NNP ,/, breaks/NNS out/IN in/IN
 "/" Martha/NNP Marcy/NNP May/NNP Marlene/NNP
@@ -2088,7 +2087,7 @@ Out/IN Here/RB |/NN Los/NNP Angeles/NNP :/: In/IN a/DT Hip/NN Downtown/NN Los/NN
 |
 Would/MD 9/VB
 11/NN have/VBP been/VBN more/JJR traumatic/JJ with/IN social/JJ media/NNS ?/.
-A/DT look/NN at/IN what/WP '/POS s/PRP changed/VBN in/IN the/DT last/JJ 10/NN years/NNS ./.
+A/DT look/NN at/IN what's/NNS changed/VBN in/IN the/DT last/JJ 10/NN years/NNS ./.
 |
 TIMESCAST/NN :/: TimesCast/NN |/NN September/NNP 20/NN ,/, 2011/NN
 |
@@ -2097,8 +2096,7 @@ The/DT 9/NN
 |
 Screen/NN Time/NNP Higher/JJR Than/IN Ever/RB for/IN Children/NNS ,/, Study/NNP Finds/VBZ
 |
-"/" Top/JJ Gun/NNP "/"
-"/" music/NN playing/VBG as/IN cadets/NNS file/VB in/IN for/IN Romney/NN '/POS s/PRP foreign/JJ policy/NN speech/NN at/IN The/DT Citadel/NNP ./.
+"/" Top/JJ Gun/NNP "/" music/NN playing/VBG as/IN cadets/NNS file/VB in/IN for/IN Romney's/NNS foreign/JJ policy/NN speech/NN at/IN The/DT Citadel/NNP ./.
 |
 DealBook/NN :/: Regulators/NNS Investigating/VBG MF/NNP Global/JJ
 |
@@ -2108,7 +2106,7 @@ News/NNP Analysis/NNP :/: Tumult/NN of/IN Arab/NNP Spring/VBG Prompts/VBZ Worrie
 |
 Zuccotti/NN Park/NNP Is/VBZ Privately/RB Owned/VBN ,/, but/CC Open/NNP to/TO the/DT Public/NNP
 |
-The/DT Caucus/NNP :/: Romney/NN Plays/NNP Down/IN G/NN ./. O/NNP ./. P/NN ./. -Tea/NN Party/NNP Strife/NN
+The/DT Caucus/NNP :/: Romney/NN Plays/NNP Down/IN G.O.P.-Tea/CD Party/NNP Strife/NN
 |
 Hideki/NN Irabu/NN Got/VBD Lost/JJ on/IN the/DT Road/NNP Back/RB
 |
@@ -2119,15 +2117,15 @@ Wal-Mart/NNP Cuts/NNS Some/DT Health/NNP Care/NNP Benefits/NNS
 |
 Italian/JJ Church/NNP Criticizes/VBZ Licentious/NNS Conduct/NNP of/IN the/DT Elite/NNP
 |
-Yemen/NNP Mosque/NNP Becomes/VBZ E/NN ./. R/NN ./. for/IN Protesters/NNS
+Yemen/NNP Mosque/NNP Becomes/VBZ E.R/CD ./. for/IN Protesters/NNS
 |
 The/DT Orchestral/JJ Maneuvers/NNS of/IN John/NNP Maus/NNS
 |
-Yankees/NNP 5/NN ,/, Orioles/NNP 3/NN :/: Late/RB ,/, Wet/JJ Night/NNP in/IN Bronx/NNP :/: Yanks/NNS Top/JJ O/NNP '/POS s/PRP at/IN 2/NN :/: 15/NN Am/NNP
+Yankees/NNP 5/NN ,/, Orioles/NNP 3/NN :/: Late/RB ,/, Wet/JJ Night/NNP in/IN Bronx/NNP :/: Yanks/NNS Top/JJ O's/NNS at/IN 2:15/NN Am/NNP
 |
 Ex-General/JJ to/TO Face/NNP Runoff/NN in/IN Guatemala/NNP
 |
-Strauss-Kahn/NN Arrives/VBZ at/IN New/NNP York/NNP '/POS s/PRP Kennedy/NNP Airport/NNP
+Strauss-Kahn/NN Arrives/VBZ at/IN New/NNP York's/NNS Kennedy/NNP Airport/NNP
 |
 T/NN Magazine/NNP :/: Little/NNP Dutch/JJ Girl/NNP
 |
@@ -2141,7 +2139,7 @@ Sarkozy/NN and/CC Merkel/NNP to/TO Hold/VB Video/NNP Conference/NNP With/IN Papa
 |
 With/IN United/VBN Nations/NNPS Veto/NN ,/, Russia/NNP and/CC China/NNP Help/VB Syria/NNP
 |
-Cardinals/NNP 10/NN ,/, Rangers/NNPS 9/NN (11/NN innings)/NN :/: For/IN DeWitt/NNP and/CC Selig/NNP ,/, the/DT Game/NN of/IN a/DT Lifetime/NNP
+Cardinals/NNP 10/NN ,/, Rangers/NNPS 9/NN (11/NN innings/NNS ):/NN For/IN DeWitt/NNP and/CC Selig/NNP ,/, the/DT Game/NN of/IN a/DT Lifetime/NNP
 |
 In/IN West/NNP Texas/NNP ,/, Wagons/NNS Circle/NNP Around/IN Perry/NNP Over/IN Racially/RB Charged/VBN Controversy/NN
 |
@@ -2149,7 +2147,7 @@ The/DT Contenders/NNS on/IN C-SPAN/NNP ,/, Lessons/NNS From/IN Losers/NNS
 |
 Gov/NN ./. Chris/NNP Christie/NNP Keeps/VBZ Political/JJ Fans/NNS Guessing/VBG
 |
-Normalcy/NN Is/VBZ Deceiving/VBG for/IN Linwood/NNP ,/, N/NN ./. J/NNP ./. ,/, After/IN Death/NN of/IN Football/NNP Players/NNPS
+Normalcy/NN Is/VBZ Deceiving/VBG for/IN Linwood/NNP ,/, N.J/CD .,/CD After/IN Death/NN of/IN Football/NNP Players/NNPS
 |
 Slovak/NN Leader/NNP Vows/VBZ to/TO Resign/VB If/IN Bailout/NNP Vote/NN Fails/NNS
 |
@@ -2159,10 +2157,10 @@ Yulia/NN Tymoshenko/NN Sentenced/VBN to/TO Seven/CD Years/NNS in/IN Prison/NNP
 |
 New/NNP York/NNP Fashion/NNP Week/NNP |/NN Fashion/NNP Diary/NNP :/: Thakoon/NN Finds/VBZ Intensity/NN in/IN the/DT Present/JJ -/: NY/NN Fashion/NNP Week/NNP
 |
-The/DT Fifth/NNP Down/IN :/: Hank/NNP Williams/NNP Jr/NNP ./. Opening/VBG Dropped/VBD From/IN '/POS Monday/NNP Night/NNP Football/NNP '/POS
+The/DT Fifth/NNP Down/IN :/: Hank/NNP Williams/NNP Jr/NNP ./. Opening/VBG Dropped/VBD From/IN 'Monday/NN Night/NNP Football/NNP '/POS
 |
 Incoming/JJ !/.
-Welcome/NNP to/TO notch/NN reporters/NNS declanwalsh/NN and/CC mjrosenberg/NN to/TO the/DT NYT/NN '/POS s/PRP AfPak/NN team/NN ./.
+Welcome/NNP to/TO notch/NN reporters/NNS declanwalsh/NN and/CC mjrosenberg/NN to/TO the/DT NYT's/NNS AfPak/NN team/NN ./.
 |
 kevinjhardy/NN dancingleo/NN tdizdarevic/NN soapfrogk/NN emarmolejo/NN We/FPRP quoted/VBN your/SPRP stevejobslegacy/NN tweets/NNS :/:
 |
@@ -2181,15 +2179,14 @@ Rick/NNP Perry/NNP Displays/NNS Varied/VBN Stance/NN Toward/IN Crime/NN
 |
 Hey/UH ,/, readers/NNS !/.
 Join/VB ginianyt/NN today/NN for/IN NYT/NN book/NN club/NN discussion/NN of/IN
-"/" This/DT Beautiful/JJ Life/NNP "/"
-"/" by/IN Helen/NNP Schulman/NNP
+"/" This/DT Beautiful/JJ Life/NNP "/" by/IN Helen/NNP Schulman/NNP
 |
 Cesium/NN hotspots/NNS found/VBD in/IN Tokyo/NNP ,/, 160/NN mi/NN ./. from/IN Fukushima/NN ,/, where/WRB officials/NNS said/VBD there/EX was/VBD nothing/VBG to/TO fear/NN ./.
 |
-City/NNP Room/NNP :/: Ten/CD Arrested/VBN in/IN $/$ 1/NN Billion/CD L/NNP ./. I/FPRP ./. R/NN ./. R/NN ./.
+City/NNP Room/NNP :/: Ten/CD Arrested/VBN in/IN $/$ 1/NN Billion/CD L.I.R.R/CD ./.
 Disability/NN Scheme/NN
 |
-G/NN ./. E/NN ./.
+G.E/CD ./.
 Profit/NN Up/IN Despite/IN Volatile/JJ Economy/NNP
 |
 PBS/NNP to/TO Show/NNP Wham/UH !/.
