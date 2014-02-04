@@ -6,9 +6,18 @@ Created on 2014-01-22
 import attributes
 import sys
 
-news = "news:bbcnews.twt+CBCNews.twt+cnn.twt+nytimes.twt+Reuters.twt+TheOnion.twt+torontostarnews.twt+aplusk.twt"
-popstars = "pop:justinbieber.twt+ladygaga.twt+britneyspears.twt+katyperry.twt+KimKardashian.twt+shakira.twt+rihanna.twt+taylorswift13.twt"
-sys_argv = ["-700", news, popstars, "newsvspopstars"] #sample argv. Replace sys_argv with sys.argv in real situation
+
+celebrity = ["-700", "BarackObama.twt+StephenAtHome.twt+aplusk.twt+KimKardashian.twt+neiltyson.twt+shakira.twt", "celebrity"]
+news = ["-700", "CBCNews.twt+cnn.twt+nytimes.twt+Reuters.twt+TheOnion.twt+torontostarnews.twt", "news"]
+popstars = ["-700", "justinbieber.twt+ladygaga.twt+britneyspears.twt+katyperry.twt+rihanna.twt+taylorswift13.twt", "popstars"]
+newsvspopstars = ["-700", "news:CBCNews.twt+cnn.twt+nytimes.twt+Reuters.twt+TheOnion.twt+torontostarnews.twt", 
+"pop:justinbieber.twt+ladygaga.twt+britneyspears.twt+katyperry.twt+rihanna.twt+taylorswift13.twt", "newsvspopstars"]
+
+#news = "news:bbcnews.twt+CBCNews.twt+cnn.twt+nytimes.twt+Reuters.twt+TheOnion.twt+torontostarnews.twt+aplusk.twt"
+#popstars = "pop:justinbieber.twt+ladygaga.twt+britneyspears.twt+katyperry.twt+KimKardashian.twt+shakira.twt+rihanna.twt+taylorswift13.twt"
+#sys_argv = ["-700", news, popstars, "newsvspopstars"] #sample argv. Replace sys_argv with sys.argv in real situation
+
+sys_argv = celebrity
 
 def find_class(feature_class, feature_files, fileName):
     for a in range(len(feature_class)):
