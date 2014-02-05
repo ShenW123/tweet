@@ -3,20 +3,20 @@ Cleanup/NN begins/VBZ at/IN Northern/NNP Ontario/NNP Cold/NNP War-era/NNP base/N
 |
 UN/NNP offices/NNS bombed/VBN in/IN Nigeria/NNP
 |
-Top/JJ court/NN acquits/NNS Quebec/NNP woman/NN in/IN husband's/NNS slaying/VBG
+Top/JJ court/NN acquits/NNS Quebec/NNP woman/NN in/IN husband/NN '/POS s/PRP slaying/VBG
 |
-Toronto/NNP Blue/NNP Jays/NNPS retire/VB Roberto/NNP Alomar's/NNS No/DT ./. 12/NN jersey/NN ./.
+Toronto/NNP Blue/NNP Jays/NNPS retire/VB Roberto/NNP Alomar/NN '/POS s/PRP No/DT ./. 12/NN jersey/NN ./.
 Alomar/NN was/VBD inducted/VBN in/IN Hall/NNP of/IN Fame/NNP last/JJ weekend/NN jays/NNS
 |
 Northern/NNP Ontario/NNP fire/NN crews/NNS get/VB weather/NN break/VB
 |
-LIVE/VB :/: Astronaut/NN Julie/NNP Payette/NN ,/, VANOC's/NNS Furlong/NN receive/VB Order/NNP of/IN Canada/NNP
+LIVE/VB :/: Astronaut/NN Julie/NNP Payette/NN ,/, VANOC/NN '/POS s/PRP Furlong/NN receive/VB Order/NNP of/IN Canada/NNP
 |
 Small/JJ business/NNS outlook/NN positive/JJ ,/, but/CC threats/NNS loom/VBP
 |
-Pakistani/JJ soldier/NN gets/VBZ death/NN sentence/NN in/IN youth's/NNS shooting/VBG
+Pakistani/JJ soldier/NN gets/VBZ death/NN sentence/NN in/IN youth/NN '/POS s/PRP shooting/VBG
 |
-Public/NNP inquiry/NN 'urgent/NN '/POS for/IN Quebec/NNP building/VBG industry/NN
+Public/NNP inquiry/NN '/POS urgent/JJ '/POS for/IN Quebec/NNP building/VBG industry/NN
 |
 WATCH/VB :/: Japan/NNP takes/VBZ on/IN Sweden/NNP in/IN the/DT FIFA/NN semifinal/JJ
 |
@@ -28,11 +28,11 @@ Libya/NNP
 |
 Toronto/NNP condo/NN owners/NNS allege/VBP massive/JJ fraud/NN
 |
-THE/DT HOUSE/NNP :/: Ontario's/NNS finances/NNS ,/, jobs/NNS and/CC 'the/NN elephant/NN in/IN the/DT room/NN '/POS
+THE/DT HOUSE/NNP :/: Ontario/NNP '/POS s/PRP finances/NNS ,/, jobs/NNS and/CC '/POS the/DT elephant/NN in/IN the/DT room/NN '/POS
 |
 Plane/NNP goes/VBZ down/RB near/IN Resolute/NNP Bay/NNP
 |
-Alberta/NNP health/NN worker's/NNS strangulation/NN scene/NN described/VBN
+Alberta/NNP health/NN worker/NN '/POS s/PRP strangulation/NN scene/NN described/VBN
 |
 OECD/NNP urges/VBZ fast/RB action/NN to/TO avoid/VB recession/NN
 |
@@ -59,11 +59,11 @@ Belak/NN death/NN highlights/VBZ NHL/NNP enforcer/NN stresses/NNS
 |
 Obama/NN ,/, House/NNP Republicans/NNPS in/IN endgame/NN in/IN debt/NN talks/NNS
 |
-Jack/NNP Layton's/NNS letter/NN to/TO Canadians/NNPS
+Jack/NNP Layton/NNP '/POS s/PRP letter/NN to/TO Canadians/NNPS
 |
 Facebook/NN revamps/VBZ privacy/NN controls/NNS
 |
-Federal/JJ gov't/NN to/TO limit/NN caffeine/NN levels/NNS in/IN energy/NN drinks/NNS ./.
+Federal/JJ gov/NN '/POS t/NN to/TO limit/NN caffeine/NN levels/NNS in/IN energy/NN drinks/NNS ./.
 Will/MD also/RB require/VB nutritional/JJ labels/NNS ./.
 |
 Canadian/JJ debt/NN levels/NNS keep/VB rising/VBG
@@ -92,11 +92,11 @@ Scrapping/VBG the/DT long-gun/NN registry/NN :/: some/DT relevant/JJ figures/NNS
 |
 Tunisia/NNP election/NN points/NNS to/TO strong/JJ Islamist/NN showing/VBG
 |
-Edmonton/NNP killer's/NNS daughter/NN calls/VBZ father/NN a/DT monster/NN
+Edmonton/NNP killer/NN '/POS s/PRP daughter/NN calls/VBZ father/NN a/DT monster/NN
 |
 New/NNP skin/NN cancer/NN genes/NNS uncovered/VBN
 |
-ANALYSIS/NN |/NN Air/NNP Canada's/NNS 'frustrated/VBN '/POS bargaining/VBG process/NNS
+ANALYSIS/NN |/NN Air/NNP Canada/NNP '/POS s/PRP '/POS frustrated/VBN '/POS bargaining/VBG process/NNS
 |
 Tim/NNP Hortons/NNS amps/NNS up/IN coffee/NN chain/NN wars/NNS
 |
@@ -123,7 +123,7 @@ Naomi/NNP Klein/NNP arrested/VBN at/IN D.C/CD ./. pipeline/NN protest/NN
 |
 Plane/NNP crash/NN blocks/NNS part/NN of/IN Trans-Canada/NN Highway/NNP
 |
-NDP/NN :/: Layton's/NNS funeral/JJ in/IN Toronto/NNP will/MD be/VB open/JJ to/TO public/JJ ./.
+NDP/NN :/: Layton/NNP '/POS s/PRP funeral/JJ in/IN Toronto/NNP will/MD be/VB open/JJ to/TO public/JJ ./.
 Funeral/JJ set/VBN for/IN 2/NN p.m/RB ./.
 ET/NNP Sat/VBD ./. at/IN Roy/NNP Thomson/NNP Hall/NNP ./.
 RIPjack/NN
@@ -149,7 +149,7 @@ B.C/CD ./. man/NN sued/VBD by/IN mother/NN for/IN parental/JJ support/NN
 |
 Defence/NN wanted/VBD more/JJR F-35s/NNS in/IN deal/JJ
 |
-Repairing/VBG Japan's/NNS image/NN ,/, one/CD teacher/NN at/IN a/DT time/NN
+Repairing/VBG Japan/NNP '/POS s/PRP image/NN ,/, one/CD teacher/NN at/IN a/DT time/NN
 |
 Comparison/NN chart/NN for/IN iPhone/NN 4S/NN and/CC other/JJ models/NNS sold/VBN in/IN Canada/NNP -CBC/NN News/NNP
 |
@@ -157,25 +157,25 @@ Teacher/NN job/NN action/NN clouds/NNS B.C/CD ./. school/NN year/NN
 |
 Gadhafi/NNP loyalists/NNS '/POS fight/NN raises/VBZ fear/NN of/IN long/JJ insurgency/NN
 |
-LIVE/VB :/: 'Big/JJ telecom/NN '/POS internet/NN investment/NN too/RB low/JJ ,/, consumer/NN groups/NNS say/VBP
+LIVE/VB :/: '/POS Big/NNP telecom/NN '/POS internet/NN investment/NN too/RB low/JJ ,/, consumer/NN groups/NNS say/VBP
 |
-Canadians/NNPS save/VB too/RB little/JJ for/IN children's/NNS schooling/VBG ,/, TD/NNP says/VBZ
+Canadians/NNPS save/VB too/RB little/JJ for/IN children/NNS '/POS s/PRP schooling/VBG ,/, TD/NNP says/VBZ
 |
-Bernanke/NN calls/VBZ U.S/CD ./. unemployment/NN a/DT 'national/JJ crisis/NNS '/POS
+Bernanke/NN calls/VBZ U.S/CD ./. unemployment/NN a/DT '/POS national/JJ crisis/NNS '/POS
 |
 Challenger/NNP logs/NNS show/NN low-security/NN officials/NNS taking/VBG flights/NNS
 |
 5/NN young/JJ Canadian/JJ entrepreneurs/NNS reveal/VB secrets/NNS to/TO starting/VBG a/DT successful/JJ business/NNS
 |
-Kerr/NNP moves/NNS into/IN tie/NN with/IN Lincicome/NN at/IN Canadian/JJ Women's/NNS
+Kerr/NNP moves/NNS into/IN tie/NN with/IN Lincicome/NN at/IN Canadian/JJ Women/NNP '/POS s/PRP
 |
 Air/NNP Canada/NNP runs/VBZ as/IN scheduled/VBN after/IN strike/NN ban/NN
 |
-RIM's/NNS new/JJ BlackBerrys/NNS to/TO launch/VB this/DT month/NN
+RIM/NN '/POS s/PRP new/JJ BlackBerrys/NNS to/TO launch/VB this/DT month/NN
 |
 Floods/NNS in/IN Manila/NNP as/IN typhoon/NN lashes/NNS Philippines/NNP
 |
-Baird/NNP expresses/VBZ Canada's/NNS condolences/NNS to/TO Norway/NNP counterpart/NN ./.
+Baird/NNP expresses/VBZ Canada/NNP '/POS s/PRP condolences/NNS to/TO Norway/NNP counterpart/NN ./.
 Baird/NNP also/RB offers/VBZ any/DT assistance/NN Norway/NNP might/MD need/VBN
 |
 Ontario/NNP wildfires/NNS force/NN hundreds/NNS from/IN homes/NNS
@@ -197,11 +197,11 @@ Q/NN &/CC A/DT :/: Understanding/VBG the/DT immune/JJ system/NN cbc.ca/CD news/N
 |
 Quebec/NNP will/MD refuse/VB to/TO pay/VB for/IN omnibus/JJ crime/NN bill/NN
 |
-Funeral/JJ of/IN Afghan/JJ president's/NNS brother/NN attracts/VBZ thousands/NNS
+Funeral/JJ of/IN Afghan/JJ president/NN '/POS s/PRP brother/NN attracts/VBZ thousands/NNS
 |
 Prince/NNP Harry/NNP to/TO train/NN in/IN U.S/CD ./.
 |
-Harper/NNP defends/VBZ MacKay's/NNS Challenger/NNP jet/NN use/NN
+Harper/NNP defends/VBZ MacKay/NN '/POS s/PRP Challenger/NNP jet/NN use/NN
 |
 Libyan/JJ capital/JJ struggles/NNS with/IN shortages/NNS
 |
@@ -209,7 +209,7 @@ Toronto/NNP police/NN to/TO reveal/VB results/NNS of/IN major/JJ homicide/NN pro
 |
 News/NNP of/IN the/DT World/NNP reporter/NN says/VBZ hacking/JJ was/VBD allowed/VBN
 |
-Major/NNP birth/NN defects/NNS tied/VBN to/TO mom's/NNS smoking/VBG
+Major/NNP birth/NN defects/NNS tied/VBN to/TO mom/NN '/POS s/PRP smoking/VBG
 |
 Down/IN syndrome/NN blood/NN test/NN comes/VBZ to/TO U.S/CD ./.
 |
@@ -222,26 +222,26 @@ Drought/NN in/IN Africa/NNP puts/VBZ pressure/NN on/IN the/DT UN/NNP
 |
 B.C/CD ./. starts/VBZ email/NN sexual-infection/NN notice/NN service/NN
 |
-Twin's/NNS miracle/NN shot/NN earns/VBZ $/$ 20K/NN donation/NN to/TO hockey/NN
+Twin/NNP '/POS s/PRP miracle/NN shot/NN earns/VBZ $/$ 20/NN K/SLANG donation/NN to/TO hockey/NN
 |
 House/NNP of/IN Commons/NNP to/TO get/VB 30/NN more/JJR MPs/NNS
 |
-Fugitive/JJ hijacker's/NNS 4-decade/NN trail/NN leads/VBZ to/TO Portugal/JJ
+Fugitive/JJ hijacker/NN '/POS s/PRP 4-decade/NN trail/NN leads/VBZ to/TO Portugal/JJ
 |
-VIDEO/NN :/: Rick/NNP Mercer's/NNS passionate/JJ rant/VBP on/IN bullying/VBG and/CC teen/JJ suicide/NN
+VIDEO/NN :/: Rick/NNP Mercer/NNP '/POS s/PRP passionate/JJ rant/VBP on/IN bullying/VBG and/CC teen/JJ suicide/NN
 |
 Breivik/NN tells/VBZ police/NN hes/NNS prepared/VBN to/TO spend/VB life/NN in/IN prison/NN ./.
 Prosecutor/NNP says/VBZ Breivik/NN calm/JJ during/IN court/NN hearing/VBG norway/NN
 |
-St/NNP ./. John's/NNS standoff/NN ends/NNS ;/: woman/NN hospitalized/VBN
+St/NNP ./. John/NNP '/POS s/PRP standoff/NN ends/NNS ;/: woman/NN hospitalized/VBN
 |
 Ex-wrestling/VBG star/NN saves/VBZ man/NN lost/VBD in/IN Quebec/NNP woods/NNS
 |
-Toronto/NNP Zoo's/NNS oldest/JJS male/JJ lion/NN dies/VBZ
+Toronto/NNP Zoo/NNP '/POS s/PRP oldest/JJS male/JJ lion/NN dies/VBZ
 |
 Multiple/NNP sclerosis/NNS genetic/JJ clues/NNS found/VBD
 |
-'Emotions/NNS did/VBD get/VB the/DT best/JJS of/IN me/FPRP ':/NN Serena/NN Williams/NNP
+'/POS Emotions/NNS did/VBD get/VB the/DT best/JJS of/IN me/FPRP ':/NN Serena/NN Williams/NNP
 |
 R.E.M/CD ./. breaks/NNS up/IN after/IN 31/NN years/NNS
 |
@@ -251,7 +251,7 @@ Hockey/NNP Night/NNP in/IN Canada/NNP to/TO make/VB most/RBS of/IN 7/NN Canadian
 |
 Was/VBD the/DT law/NN at/IN fault/NN in/IN Chinese/JJ toddler/NN tragedy/NN ?/.
 |
-NDP/NN accuse/VB Clement/NNP of/IN using/VBG G8/NN cash/NN as/IN 'slush/NN fund/NN '/POS
+NDP/NN accuse/VB Clement/NNP of/IN using/VBG G8/NN cash/NN as/IN '/POS slush/NN fund/NN '/POS
 |
 East/NNP Coast/NNP cod/NN found/VBD to/TO be/VB recovering/VBG
 |
@@ -268,7 +268,7 @@ LIVE/VB :/: Flaherty/NNP ,/, Carney/NNP discuss/VB economic/JJ woes/NNS
 Live/NNP at/IN 6:30/NN p.m/RB ./.
 :/: Ontario/NNP leaders/NNS '/POS debate/NN
 |
-Layton's/NNS lying-in-state/NN continues/VBZ in/IN Ottawa/NNP
+Layton/NNP '/POS s/PRP lying-in-state/NN continues/VBZ in/IN Ottawa/NNP
 |
 Bank/NNP of/IN Canada/NNP keeps/VBZ interest/NN rate/NN at/IN 1/NN %/NN
 |
@@ -282,9 +282,9 @@ Accused/VBN in/IN vicious/JJ B.C/CD ./. attack/NN to/TO appear/VB in/IN court/NN
 |
 TIFF/NN INTERVIEW/NN :/: Rising/VBG star/NN Michael/NNP Fassbender/NN
 |
-McDonald's/NNS eyes/NNS upscale/JJ $/$ 1B/NN makeover/NN
+McDonald/NNP '/POS s/PRP eyes/NNS upscale/JJ $1B/NN makeover/NN
 |
-UPDATE/VB :/: U.S/CD ./. debt/NN talks/NNS 'very/NN close/VB '/POS to/TO a/DT deal/JJ
+UPDATE/VB :/: U.S/CD ./. debt/NN talks/NNS '/POS very/RB close/VB '/POS to/TO a/DT deal/JJ
 |
 RT/NN CBCMaritimeNoon/NN The/DT verdict/NN is/VBZ in/IN :/: NB/NNP Judge/NNP sentences/NNS Romeo/NNP Cormier/NN to/TO 18/NN years/NNS in/IN prison/NN for/IN kidnapping/VBG and/CC sexual/JJ assault/NN ./. cbcnb/NN
 |
@@ -317,15 +317,15 @@ Deadly/RB grenade/NN blasts/NNS rattle/NN Nairobi/NNP
 |
 Pollsters/NNS grapple/VB with/IN methodology/NN ,/, impact/NN of/IN election/NN polls/NNS
 |
-Nurse/NNP Sonia/NNP Varaschin's/NNS killing/VBG unsolved/JJ 1/NN year/NN later/RB
+Nurse/NNP Sonia/NNP Varaschin/NN '/POS s/PRP killing/VBG unsolved/JJ 1/NN year/NN later/RB
 |
 Canadian/JJ sailor/NN rescued/VBN off/IN Australian/JJ coast/NN
 |
-Plane/NNP crash/NN rescuer/NN says/VBZ he/TPRP 'didn't/NN have/VBP a/DT plan/NN '/POS
+Plane/NNP crash/NN rescuer/NN says/VBZ he/TPRP '/POS did/VBD n't/RB have/VBP a/DT plan/NN '/POS
 |
 Analysis/NNP ,/, Dan/NNP Misener/NN :/: Government/NNP wants/VBZ to/TO beef/NN up/IN digital/JJ surveillance/NN powers/NNS -/: why/WRB Canadians/NNPS should/MD pay/VB attention/NN
 |
-Jets/NNP top/JJ Sens/NNS as/IN NHL's/NNS Hockeyville/NN invades/VBZ Newfoundland/NNP
+Jets/NNP top/JJ Sens/NNS as/IN NHL/NNP '/POS s/PRP Hockeyville/NN invades/VBZ Newfoundland/NNP
 |
 Ottawa/NNP says/VBZ 6,800/NN exposed/VBN to/TO infection/NN risk/NN
 |
@@ -333,7 +333,7 @@ Hikers/NNS blast/NN Iran/NNP on/IN return/NN to/TO U.S/CD ./.
 |
 UN/NNP Haiti/NNP peacekeepers/NNS accused/VBN of/IN sex/NN assault/NN
 |
-Montreal/JJ woman's/NNS body/NN found/VBD encased/VBD in/IN cement/NN
+Montreal/JJ woman/NN '/POS s/PRP body/NN found/VBD encased/VBD in/IN cement/NN
 |
 Edmonton/NNP salon/NN ad/NN irks/VBZ family/RB violence/NN groups/NNS
 |
@@ -357,13 +357,13 @@ Call/VB Me/FPRP Fitz/NNP ,/, Flashpoint/NN gun/NN for/IN more/JJR Geminis/NNS
 |
 Amber/NNP Alert/NNP issued/VBN for/IN boy/NN ,/, 3/NN ,/, in/IN southeastern/JJ B.C/CD ./.
 |
-THE/DT HOUSE/NNP :/: Europe/NNP debt/NN bailout/NN needs/VBZ 'big/NN pot/NN of/IN money/NN '/POS
+THE/DT HOUSE/NNP :/: Europe/NNP debt/NN bailout/NN needs/VBZ '/POS big/JJ pot/NN of/IN money/NN '/POS
 |
 Canada/NNP to/TO help/VB rebuild/VB Libyan/JJ economy/NN ,/, democracy/NN
 |
 Ontario/NNP scuba/NN diver/NN dies/VBZ after/IN accident/NN in/IN New/NNP York/NNP
 |
-'Pre-riotous/NNS behaviour/NN '/POS worried/VBN B.C/CD ./. liquor/NN officials/NNS
+'/POS Pre-riotous/NNS behaviour/NN '/POS worried/VBN B.C/CD ./. liquor/NN officials/NNS
 |
 B.C/CD ./. deficit/NN triples/NNS with/IN rejection/NN of/IN HST/NN
 |
@@ -389,7 +389,7 @@ Fans/NNS create/VB memorial/JJ to/TO NHLer/NN Rick/NNP Rypien/NN
 |
 Top/JJ Court/NNP to/TO weigh/VB free/JJ speech/NN vs/NNP ./. hate/VBP protection/NN
 |
-Libya's/NNS weapons/NNS must/MD be/VB safeguarded/VBN ,/, Baird/NNP says/VBZ
+Libya/NNP '/POS s/PRP weapons/NNS must/MD be/VB safeguarded/VBN ,/, Baird/NNP says/VBZ
 |
 Libyan/JJ rebels/NNS capture/VB coastal/JJ city/NN
 |
@@ -401,7 +401,7 @@ Manitoba/NNP murder/NN suspect/VBP may/MD be/VB headed/VBN to/TO B.C/CD ./.
 |
 Husband/NN arrested/VBN in/IN suspected/VBN abduction/NN
 |
-PQ/NN on/IN 'edge/NN of/IN abyss/NNS '/POS says/VBZ key/JJ member/NN
+PQ/NN on/IN '/POS edge/NN of/IN abyss/NNS '/POS says/VBZ key/JJ member/NN
 |
 Best/JJS of/IN the/DT fest/NN :/: Wrapping/VBG up/IN TIFF/NN 2011/NN
 |
@@ -409,16 +409,16 @@ Canadians/NNPS ready/JJ for/IN health-care/NN reform/NN ,/, CMA/NNP says/VBZ
 |
 Free/NNP crack/NN pipes/NNS to/TO be/VB handed/VBD out/IN in/IN Vancouver/NNP
 |
-Canada's/NNS ailing/VBG submarines/NNS :/: All/DT four/CD Victoria-class/NNS subs/NNS in/IN for/IN repairs/NNS
+Canada/NNP '/POS s/PRP ailing/VBG submarines/NNS :/: All/DT four/CD Victoria-class/NNS subs/NNS in/IN for/IN repairs/NNS
 |
 Canadian/JJ businesses/NNS score/NN poorly/RB on/IN succession/NN planning/VBG ,/, could/MD mean/VB complications/NNS for/IN entrepreneurs/NNS in/IN coming/VBG decade/NN
 |
 Bosnian/NN hid/VBD crimes/NNS against/IN humanity/NN to/TO become/VB Canadian/JJ
 |
-firepuncher/NN We're/NN waiting/VBG for/IN official/JJ confirmation/NN ./.
+firepuncher/NN We/FPRP '/POS re/NN waiting/VBG for/IN official/JJ confirmation/NN ./.
 Have/VBP you/SPRP seen/VBN any/DT ?/.
 |
-Ottawa/NNP provides/VBZ Quebec/NNP with/IN \$/NN 2.2B/CD in/IN HST/NN compensation/NN ./.
+Ottawa/NNP provides/VBZ Quebec/NNP with/IN \$/NN 2.2/CD B/NNP in/IN HST/NN compensation/NN ./.
 PM/NNP Harper/NNP ,/, Charest/NN announce/VB deal/JJ in/IN Quebec/NNP City/NNP cdnpoli/NN
 |
 Syrian/JJ mourners/NNS attacked/VBN as/IN Arab/NNP League/NNP meets/VBZ
@@ -453,8 +453,8 @@ Iran/NNP set/VBN to/TO release/NN 2/NN U.S/CD ./. hikers/NNS jailed/VBN as/IN sp
 |
 Cairo/NNP Christian/NNP protest/NN explodes/VBZ into/IN violence/NN
 |
-CBC's/NNS 'Being/VBG Erica/NN '/POS &/CC 'Tudors/NNS '/POS get/VB multiple/JJ Gemini/NN nods/VBZ ./.
-'Pillars/NNS of/IN Earth/NNP '/POS also/RB gets/VBZ nod/NN ./.
+CBC/NNP '/POS s/PRP '/POS Being/VBG Erica/NN '/POS &/CC '/POS Tudors/NNS '/POS get/VB multiple/JJ Gemini/NN nods/VBZ ./.
+'/POS Pillars/NNS of/IN Earth/NNP '/POS also/RB gets/VBZ nod/NN ./.
 |
 The/DT CBCNews/NNS is/VBZ a/DT Scorpio/NNP ./.
 CBC75th/NN
@@ -479,7 +479,7 @@ Alberta/NNP marks/NNS 40/NN years/NNS of/IN Tory/NNP governments/NNS
 |
 3rd/NN arrested/VBN war/NN crimes/NNS suspect/VBP to/TO be/VB named/VBN
 |
-Doomsday/NN Friday/NNP :/: world/NN will/MD 'probably/RB '/POS end/NN Oct/NNP ./. 21/NN ,/, Christian/NNP leader/NN says/VBZ in/IN latest/JJS prediction/NN
+Doomsday/NN Friday/NNP :/: world/NN will/MD '/POS probably/RB '/POS end/NN Oct/NNP ./. 21/NN ,/, Christian/NNP leader/NN says/VBZ in/IN latest/JJS prediction/NN
 |
 Japan/NNP to/TO share/NN lessons/NNS of/IN tsunami/NN disaster/NN
 |
@@ -487,9 +487,9 @@ Japan/NNP to/TO share/NN lessons/NNS of/IN tsunami/NN disaster/NN
 |
 Victim/NN declined/VBD escape/VB ,/, Paxton/NNP torture/NN trial/JJ hears/VBZ
 |
-Women's/NNS glass/NNS ceiling/VBG remains/VBZ
+Women/NNP '/POS s/PRP glass/NNS ceiling/VBG remains/VBZ
 |
-THE/DT HOUSE/NNP :/: Duncan/NNP says/VBZ Ontario/NNP won't/NN 'shy/NN away/RB '/POS from/IN tough/JJ choices/NNS
+THE/DT HOUSE/NNP :/: Duncan/NNP says/VBZ Ontario/NNP wo/MD n't/RB '/POS shy/JJ away/RB '/POS from/IN tough/JJ choices/NNS
 |
 Mubarak/NNP military/JJ confidante/NN a/DT no-show/NN at/IN trial/JJ
 |
@@ -503,11 +503,11 @@ Car/NNP crashes/NNS into/IN Victoria/NNP airport/NN injuring/VBG several/JJ peop
 |
 Spent/VBD the/DT afternoon/NN in/IN Abu/NNP Salim/NNP neighbourhood/NN of/IN Tripoli/NNP --/: rebels/NNS say/VBP last/JJ area/NN of/IN resistance/NN from/IN forces/NNS loyal/JJ to/TO Gaddafi/NN ./.
 |
-Alberta's/NNS Mtis/NNS cannot/MD also/RB register/VB under/IN Indian/NNP Act/NNP
+Alberta/NNP '/POS s/PRP Mtis/NNS cannot/MD also/RB register/VB under/IN Indian/NNP Act/NNP
 |
 Student-built/NN robots/NNS vie/VBP for/IN Canadian/JJ innovation/NN prize/NN -/: the/DT Innovation/NNP Nation/NN Robotics/NNP Competition/NN
 |
-Jackson/NNP doctor's/NNS defence/NN drops/VBZ claim/NN singer/NN swallowed/VBN drug/NN
+Jackson/NNP doctor/NN '/POS s/PRP defence/NN drops/VBZ claim/NN singer/NN swallowed/VBN drug/NN
 |
 Camilla/NNP and/CC Charles/NNP greet/VB Tottenham/NN residents.ukriots/CD yfrog.com/CD hs9cujfj/NN
 |
@@ -536,7 +536,7 @@ How/WRB many/JJ species/NNS on/IN Earth/NNP ?/.
 |
 Alberta/NNP woman/NN weeps/NNS at/IN infanticide/NN sentencing/VBG
 |
-Bell/NNP internet/NN plan/NN risks/NNS 'double/NN charging/VBG '/POS users/NNS ,/, CRTC/NN told/VBD
+Bell/NNP internet/NN plan/NN risks/NNS '/POS double/JJ charging/VBG '/POS users/NNS ,/, CRTC/NN told/VBD
 |
 LIVE/VB :/: Obama/NN plans/NNS pushback/NN on/IN Midwest/NNP tour/NN
 |
@@ -552,7 +552,7 @@ Israeli/JJ commandos/NNS take/VB over/IN Gaza-bound/NN ship/NN
 |
 B.C/CD ./. teen/JJ slain/VBN on/IN bus/NNS to/TO be/VB honored/VBN
 |
-Toronto/NNP to/TO consider/VB $/$ 740M/NN in/IN major/JJ service/NN cuts/NNS
+Toronto/NNP to/TO consider/VB $/$ 740/NN M/NNP in/IN major/JJ service/NN cuts/NNS
 |
 Truck/NNP bomb/NN detonates/NNS at/IN U.S/CD ./. base/NN in/IN Afghanistan/NNP
 |
@@ -584,7 +584,7 @@ NDP/NN Leader/NNP Jack/NNP Layton/NNP has/VBZ been/VBN diagnosed/VBN with/IN ano
 |
 Occupy/VB Wall/NNP Streeters/NNP scramble/NN to/TO clean/JJ up/IN site/NN
 |
-Besieged/VBN Libyan/JJ city's/NNS residents/NNS flee/VB in/IN fighting/VBG lull/NN
+Besieged/VBN Libyan/JJ city/NN '/POS s/PRP residents/NNS flee/VB in/IN fighting/VBG lull/NN
 |
 Italy/RB criticizes/VBZ S&P/NNP downgrade/NN as/IN political/JJ
 |
@@ -599,24 +599,24 @@ New/NNP BlackBerry/NN platform/NN promising/JJ ,/, but/CC consumers/NNS want/VBP
 |
 New/NNP phone/NN hacking/JJ arrest/NN made/VBN
 |
-Cadmium/NN in/IN children's/NNS jewelry/NN faces/VBZ crackdown/NN
+Cadmium/NN in/IN children/NNS '/POS s/PRP jewelry/NN faces/VBZ crackdown/NN
 |
 B.C/CD ./. judge/NN tosses/NNS ecstasy/NN case/NN for/IN rights/NNS violations/NNS
 |
 Mosquitoes/NNS defying/VBG regional/JJ trends/NNS this/DT summer/NN
 |
-Cheney/NNP defends/VBZ Iraq/NNP war/NN as/IN 'sound/NN '/POS policy/NN
+Cheney/NNP defends/VBZ Iraq/NNP war/NN as/IN '/POS sound/NN '/POS policy/NN
 |
 S&P/NNP president/NN steps/NNS down/RB
 |
 Source/NN of/IN stronger/JJR immunity/NN in/IN women/NNS probed/VBD
 |
-GG/NN David/NNP Johnston/NNP says/VBZ Layton/NNP acted/VBD with/IN 'such/NN grace/NN '/POS ./.
-Layton/NNP 'dedicated/VBN his/TPRP life/NN to/TO serving/VBG his/TPRP fellow/NN citizens/NNS .'/CD
+GG/NN David/NNP Johnston/NNP says/VBZ Layton/NNP acted/VBD with/IN '/POS such/JJ grace/NN '/POS ./.
+Layton/NNP '/POS dedicated/VBN his/TPRP life/NN to/TO serving/VBG his/TPRP fellow/NN citizens/NNS .'/CD
 |
 Tugboat/NN detained/VBN after/IN ship/NN grounded/VBN off/IN Cape/NNP Breton/NNP
 |
-U.K/CD ./. hacking/JJ probe/NN discovers/VBZ secret/JJ 'hub/NN '/POS phone/NN
+U.K/CD ./. hacking/JJ probe/NN discovers/VBZ secret/JJ '/POS hub/NN '/POS phone/NN
 |
 Federal/JJ emergency/NN preparedness/NNS audit/NN kept/VBD secret/JJ
 |
@@ -654,7 +654,7 @@ Paul/NNP McCartney/NNP plans/NNS registry/NN office/NN wedding/VBG
 |
 Son/NNP of/IN Libyan/JJ spy/NN chief/JJ reported/VBD to/TO be/VB killed/VBN
 |
-Tropical/JJ storm/NN Rina/NN lashes/NNS Mexico's/NNS Yucatan/NNP
+Tropical/JJ storm/NN Rina/NN lashes/NNS Mexico/NNP '/POS s/PRP Yucatan/NNP
 |
 Concrete/NNP slab/NN collapse/NN causes/NNS Montreal/JJ tunnel/NN closure/NN
 |
@@ -670,13 +670,13 @@ Stanley/NNP Tippett/NNP declared/VBD dangerous/JJ offender/NN
 |
 Interest/NN rate/NN chatter/NN moves/NNS from/IN hike/NN to/TO cut/VB
 |
-Somalia's/NNS rebels/NNS leave/VB capital/JJ
+Somalia/NNP '/POS s/PRP rebels/NNS leave/VB capital/JJ
 |
 Korean/JJ firm/NN a/DT possible/JJ Mackenzie/NNP pipeline/NN bidder/NN
 |
 Irene/NNP storm/NN cleanup/NN in/IN U.S/CD ./. an/DT emotional/JJ task/NN
 |
-Ontario/NNP PC/NN Leader/NNP Hudak/NN stands/VBZ by/IN 'homophobic/NN '/POS flyer/NN
+Ontario/NNP PC/NN Leader/NNP Hudak/NN stands/VBZ by/IN '/POS homophobic/JJ '/POS flyer/NN
 |
 Hackers/NNS post/NN fake/JJ Charest/NN death/NN story/NN to/TO Le/NNP Devoir/NN site/NN
 |
@@ -692,7 +692,7 @@ The/DT notorious/JJ Moammar/NN Gadhafi/NNP
 |
 Pickton/NN inquiry/NN adds/VBZ lawyers/NNS amid/IN funding/VBG dispute/NN
 |
-Brian/NNP Stewart/NNP :/: What/WP we/FPRP didn't/VBD know/VB about/IN the/DT war/NN in/IN Afghanistan/NNP
+Brian/NNP Stewart/NNP :/: What/WP we/FPRP did/VBD n't/RB know/VB about/IN the/DT war/NN in/IN Afghanistan/NNP
 |
 Satellite/NNP to/TO crash/NN as/IN early/RB as/IN Saturday/NNP night/NN
 |
@@ -700,7 +700,7 @@ Libyan/JJ fuel/NN depot/NN explosion/NN kills/VBZ dozens/NNS
 |
 Flaherty/NNP tells/VBZ Europeans/NNPS to/TO keep/VB their/TPRP promises/VBZ
 |
-Somalia/NNP food/NN aid/NN won't/NN slow/JJ amid/IN fraud/NN probe/NN
+Somalia/NNP food/NN aid/NN wo/MD n't/RB slow/JJ amid/IN fraud/NN probe/NN
 |
 Kenney/NNP to/TO speak/VB at/IN anti-Durban/NN conference/NN
 |
@@ -710,9 +710,9 @@ Guide/NNP to/TO N.W.T/CD ./. crash/NN site/NN found/VBD cousins/NNS in/IN wrecka
 |
 Black/NNP Death/NN genome/NN revealed/VBD
 |
-2nd/NN charged/VBN in/IN Brampton/NN woman's/NNS abduction/NN
+2nd/NN charged/VBN in/IN Brampton/NN woman/NN '/POS s/PRP abduction/NN
 |
-Gordon/NNP Ramsay's/NNS Montreal/JJ eatery/NN evacuated/VBN opening/VBG night/NN
+Gordon/NNP Ramsay/NN '/POS s/PRP Montreal/JJ eatery/NN evacuated/VBN opening/VBG night/NN
 |
 Giller/NN Prize/NNP short/JJ list/NN includes/VBZ deWitt/NN ,/, Edugyan/NN
 |
@@ -721,11 +721,11 @@ TSX/NN ,/, Dow/NNP rack/NN up/IN big/JJ losses/NNS
 RT/NN marissanelson/NN :/: Want/VB to/TO work/NN for/IN biggest/JJS news/NNS site/NN in/IN the/DT country/NN ?/.
 CBCNews.ca/CD is/VBZ hiring/VBG in/IN Calgary/NNP cbc.ca/CD jobs/NNS jobs/NNS
 |
-Jack/NNP Layton's/NNS final/JJ letter/NN to/TO Canadians/NNPS :/:
+Jack/NNP Layton/NNP '/POS s/PRP final/JJ letter/NN to/TO Canadians/NNPS :/:
 |
 Canadians/NNPS living/VBG paycheque/NN to/TO paycheque/NN
 |
-IAEA/NN team/NN observes/VBZ Japan's/NNS nuclear/JJ cleanup/NN
+IAEA/NN team/NN observes/VBZ Japan/NNP '/POS s/PRP nuclear/JJ cleanup/NN
 |
 Bob/NNP Dylan/NNP paintings/NNS spark/VB controversy/NN
 |
@@ -735,11 +735,11 @@ Mar/NNP leads/VBZ as/IN Alberta/NNP PCs/NNS head/NN to/TO 2nd/NN ballot/NN
 |
 Mad/NNP Men/NNS ,/, Modern/NNP Family/RB win/VB at/IN Emmys/NNS
 |
-B.C/CD ./. student's/NNS accused/VBN killer/NN to/TO start/VB Beijing/VBG trial/JJ
+B.C/CD ./. student/NN '/POS s/PRP accused/VBN killer/NN to/TO start/VB Beijing/VBG trial/JJ
 |
 Flood/NNP warning/VBG extended/VBN to/TO Quesnel/NN in/IN central/JJ B.C/CD ./.
 |
-Lucy/NNP the/DT elephant/NN ruling/VBG means/VBZ she'll/NN stay/VB put/VB
+Lucy/NNP the/DT elephant/NN ruling/VBG means/VBZ she/TPRP '/POS ll/NN stay/VB put/VB
 |
 Satellite/NNP problems/NNS ground/NN Nunavut/NN flights/NNS
 |
@@ -761,23 +761,23 @@ The/DT Keystone/NNP debate/NN :/: Forget/VB the/DT pipeline/NN ,/, this/DT is/VB
 |
 U.S/CD ./. jobless/JJ claims/NNS drop/NN to/TO 5-month/NN low/JJ
 |
-Harper/NNP signals/NNS tougher/JJR stance/NN on/IN 'outrageous/NNS '/POS Syria/NNP
+Harper/NNP signals/NNS tougher/JJR stance/NN on/IN '/POS outrageous/JJ '/POS Syria/NNP
 |
 India/NNP anti-corruption/NN protesters/NNS take/VB to/TO streets/NNS
 |
 Poll/NNP shows/VBZ Canadians/NNPS plan/NN to/TO be/VB debt-free/JJ by/IN 55/NN
 |
-Quebec/NNP airman's/NNS body/NN returns/NNS to/TO base/NN
+Quebec/NNP airman/NN '/POS s/PRP body/NN returns/NNS to/TO base/NN
 |
 2nd/NN polar/JJ bear/VB cub/NN dies/VBZ at/IN Toronto/NNP Zoo/NNP
 |
-Earthquake/NN strikes/NNS off/IN Vancouver/NNP Island's/NNS west/NN coast/NN
+Earthquake/NN strikes/NNS off/IN Vancouver/NNP Island/NNP '/POS s/PRP west/NN coast/NN
 |
 Norway/NNP PM/NNP appeals/NNS for/IN civil/JJ tone/NN in/IN massacre/NN debate/NN
 |
 Michalle/NN Jean/NNP used/VBN state/NN jets/NNS for/IN security/NN
 |
-We're/NN looking/VBG for/IN a/DT web/NN reporter/NN in/IN Yellowknife/NNP ./.
+We/FPRP '/POS re/NN looking/VBG for/IN a/DT web/NN reporter/NN in/IN Yellowknife/NNP ./.
 Interested/VBN ?/.
 Visit/NN
 |
@@ -785,7 +785,7 @@ LIVE/VB :/: China/NNP launches/VBZ unmanned/JJ space/NN module/NN
 |
 B.C/CD ./. hunting/VBG ,/, fishing/VBG guides/NNS frustrated/VBN by/IN lack/NN of/IN government/NN support/NN ,/, staff/NN shortages/NNS
 |
-Anders/NNP Breivik/NN says/VBZ he's/NNS ashamed/JJ ,/, disgusted/VBN by/IN son's/NNS acts/NNS ./.
+Anders/NNP Breivik/NN says/VBZ he/TPRP '/POS s/PRP ashamed/JJ ,/, disgusted/VBN by/IN son/NN '/POS s/PRP acts/NNS ./.
 Tells/VBZ Swedish/JJ tabloid/NN he/TPRP hopes/VBZ his/TPRP son/NN commits/VBZ suicide/NN oslo/NN
 |
 NATO/NNP Libya/NNP mission/NN could/MD end/NN next/JJ week/NN
@@ -796,7 +796,7 @@ Ottawa/NNP doctor/NN beaten/VBN in/IN Libyan/JJ prison/NN
 |
 Commuter/NN crankiness/NNS worldwide/JJ at/IN all-time/JJ high/JJ
 |
-Edmonton/NNP man/NN guilty/JJ of/IN prostitute's/NNS murder/NN
+Edmonton/NNP man/NN guilty/JJ of/IN prostitute/NN '/POS s/PRP murder/NN
 |
 Tempers/NNS flare/NN over/IN prayer/NN in/IN schools/NNS
 |
@@ -806,7 +806,7 @@ TIFF/NN guest/NN list/NN spans/VBZ Rushdie/NNP to/TO Clooney/NN
 |
 BlackBerry/NN maker/NN faces/VBZ technical/JJ glitches/NNS for/IN 3rd/NN day/NN
 |
-UPDATE/VB :/: Norway/NNP gunman/NN used/VBN bullets/NNS that/IN 'exploded/VBN inside/IN body/NN '/POS
+UPDATE/VB :/: Norway/NNP gunman/NN used/VBN bullets/NNS that/IN '/POS exploded/VBD inside/IN body/NN '/POS
 |
 Habs/NNS urge/VB fans/NNS to/TO shun/VB fake/JJ jerseys/NNS
 |
@@ -818,7 +818,7 @@ Shuttle/NNP astronauts/NNS make/VB special/JJ delivery/NN
 |
 Doctor/NNP blamed/VBD for/IN patient/NN files/NNS in/IN Regina/NNP dumpster/NN
 |
-VIDEO/NN :/: A/DT look/NN back/RB at/IN Lloyd/NNP Robertson's/NNS CBC/NNP years/NNS
+VIDEO/NN :/: A/DT look/NN back/RB at/IN Lloyd/NNP Robertson/NNP '/POS s/PRP CBC/NNP years/NNS
 |
 Polish/JJ airliner/NN makes/VBZ runway/NN belly/RB landing/VBG
 |
@@ -856,8 +856,8 @@ Online/NNP banking/VBG encryption/NN broken/VBN
 Ontario/NNP election/NN campaign/NN officially/RB kicks/VBZ off/IN
 |
 kaplanmyrth/NN Oops/UH ./.
-Looks/VBZ like/IN we/FPRP haven't/NN removed/VBN Canada/NNP Votes/NNS from/IN that/IN page/NN ./.
-We'll/NN fix/VB ./.
+Looks/VBZ like/IN we/FPRP have/VBP n't/RB removed/VBN Canada/NNP Votes/NNS from/IN that/IN page/NN ./.
+We/FPRP '/POS ll/NN fix/VB ./.
 Try/VB cbc.ca/CD text/NN news.ht/CD
 |
 INTERACTIVE/JJ :/: Where/WRB were/VBD you/SPRP on/IN 9/NN
@@ -875,7 +875,7 @@ LIVE/VB :/: New/NNP energy/NN drink/NN rules/NNS expected/VBN
 |
 Norway/NNP gunman/NN reconstructs/VBZ island/NN killings/NNS
 |
-Foster/NNP mother/NN gets/VBZ 6-year/NN sentence/NN in/IN boy's/NNS death/NN
+Foster/NNP mother/NN gets/VBZ 6-year/NN sentence/NN in/IN boy/NN '/POS s/PRP death/NN
 |
 Hurricane/NNP Irene/NNP weakens/VBZ to/TO Category/NN 1/NN
 |
@@ -901,11 +901,11 @@ Security/NNP Council/NNP to/TO discuss/VB Palestinian/JJ UN/NNP bid/NN
 |
 Woman/NNP convicted/VBN of/IN child/NN abuse/NN in/IN hot/JJ sauce/NN case/NN
 |
-Gatti's/NNS suicidal/JJ past/JJ revealed/VBD
+Gatti/NN '/POS s/PRP suicidal/JJ past/JJ revealed/VBD
 |
 Reno/NNP air/NN show/NN crash/NN probe/NN considers/VBZ broken/VBN part/NN
 |
-Canada's/NNS east/JJ coast/NN braces/NNS for/IN Irene's/NNS arrival/JJ
+Canada/NNP '/POS s/PRP east/JJ coast/NN braces/NNS for/IN Irene/NNP '/POS s/PRP arrival/JJ
 |
 Asian/JJ stocks/NNS lower/JJR after/IN Wall/NNP Street/NNP tumbles/VBZ
 |
@@ -929,7 +929,7 @@ Environment/NNP Canada/NNP job/NN cuts/NNS raise/VB concerns/NNS
 |
 Asian/JJ markets/NNS gain/NN as/IN U.S/CD ./. corporate/JJ deals/NNS lift/VB sentiment/NN
 |
-2/NN arrested/VBN in/IN Chinese/JJ toddler's/NNS hit-and-run/JJ death/NN
+2/NN arrested/VBN in/IN Chinese/JJ toddler/NN '/POS s/PRP hit-and-run/JJ death/NN
 |
 Post-tropical/JJ Irene/NNP soaks/NNS Quebec/NNP ,/, Maritimes/NNS
 |
@@ -943,7 +943,7 @@ Sugar/NNP provides/VBZ 20/NN %/NN of/IN calories/NNS Canadians/NNPS consume/VBP
 |
 THE/DT HOUSE/NNP :/: Turmel/NN expects/VBZ Layton/NNP to/TO return/NN
 |
-BP/NNP spill/NN mistakes/NNS cited/VBD in/IN panel's/NNS report/NN
+BP/NNP spill/NN mistakes/NNS cited/VBD in/IN panel/NN '/POS s/PRP report/NN
 |
 Giant/NNP tent/NN to/TO cover/VB Japan/NNP nuclear/JJ reactor/NN
 |
@@ -957,11 +957,11 @@ Massacred/VBD Libyans/NNPS '/POS bodies/NNS found/VBD in/IN Sirte/NN
 |
 Yahoo/NN ousts/NNS CEO/NNP Carol/NNP Bartz/NN
 |
-Yemen's/NNS Saleh/NNP vows/VBZ to/TO cede/VB power/NN in/IN 'coming/VBG days/NNS '/POS
+Yemen/NNP '/POS s/PRP Saleh/NNP vows/VBZ to/TO cede/VB power/NN in/IN '/POS coming/VBG days/NNS '/POS
 |
 Palestine/NNP :/: The/DT end/NN of/IN revolutionary/JJ road/NN
 |
-NHL's/NNS Hockeyville/NN invades/VBZ Newfoundland/NNP
+NHL/NNP '/POS s/PRP Hockeyville/NN invades/VBZ Newfoundland/NNP
 |
 Jeffs/NNS '/POS polygamy/NN trial/JJ jury/NN selection/NN begins/VBZ
 |
@@ -985,7 +985,7 @@ Free/NNP nicotine/NN gum/NN and/CC patches/NNS coming/VBG for/IN B.C/CD ./. smok
 |
 Alberta/NNP Tories/NNPS vote/NN for/IN new/JJ leader/NN and/CC premier/NN
 |
-magalaya/NN Tell/VB your/SPRP grandmother/NN we/FPRP think/VBP she's/NNS awesome/JJ ./.
+magalaya/NN Tell/VB your/SPRP grandmother/NN we/FPRP think/VBP she/TPRP '/POS s/PRP awesome/JJ ./.
 Thanks/NNS !/. ^jro/NN
 |
 Amazon/NNP unveils/VBZ $/$ 199/NN US/FPRP tablet/NN
@@ -1005,29 +1005,29 @@ Winnipeg/NNP Jets/NNP unveil/VB new/JJ logo/NN
 |
 Carney/NNP says/VBZ Europe/NNP must/MD shore/NN up/IN banks/NNS soon/RB
 |
-Llama/NN attack/NN 'a/NN nightmare/NN ,'/NN senior/JJ says/VBZ
+Llama/NN attack/NN '/POS a/DT nightmare/NN ,'/NN senior/JJ says/VBZ
 |
 B.C/CD ./. woman/NN wins/VBZ right/NN to/TO sue/VB children/NNS for/IN support/NN
 |
-Remembering/VBG Nirvana's/NNS Nevermind/VB
+Remembering/VBG Nirvana/NN '/POS s/PRP Nevermind/VB
 |
-Wondering/VBG whether/IN Canada's/NNS grid/NN can/MD handle/VB a/DT heatwave/NN ?/.
-Check/VB out/IN the/DT Power/NNP Switch/NN report/NN on/IN Canada's/NNS electricity/NN system/NN
+Wondering/VBG whether/IN Canada/NNP '/POS s/PRP grid/NN can/MD handle/VB a/DT heatwave/NN ?/.
+Check/VB out/IN the/DT Power/NNP Switch/NN report/NN on/IN Canada/NNP '/POS s/PRP electricity/NN system/NN
 |
-Saudi/NNP Arabia's/NNS King/VBG Abdullah/NNP recalls/VBZ ambassador/NN to/TO Syria/NNP ./.
-Says/VBZ Syria's/NNS crackdown/NN on/IN protesters/NNS disproportionate/JJ
+Saudi/NNP Arabia/NNP '/POS s/PRP King/VBG Abdullah/NNP recalls/VBZ ambassador/NN to/TO Syria/NNP ./.
+Says/VBZ Syria/NNP '/POS s/PRP crackdown/NN on/IN protesters/NNS disproportionate/JJ
 |
 IndyCar/NN driver/NN Wheldon/NN dies/VBZ in/IN Las/NNP Vegas/NNP crash/NN
 |
 Generous/JJ lottery/NN winner/NN loses/VBZ fight/NN with/IN cancer/NN
 |
-1/NN of/IN 3/NN Health/NNP Canada/NNP 'whistleblowers/NNS '/POS reinstated/VBD
+1/NN of/IN 3/NN Health/NNP Canada/NNP '/POS whistleblowers/NNS '/POS reinstated/VBD
 |
 Google/NN buys/VBZ restaurant/NN guide/NN Zagat/NN
 |
 Casey/NNP Anthony/NNP freed/VBN in/IN Florida/NNP
 |
-ANALYSIS/NN |/NN Gadhafi's/NNS fall/NN has/VBZ no/DT whiff/NN of/IN Arab/NNP Spring/VBG :/: Neil/NNP Macdonald/NN on/IN Libyan/JJ despot's/NNS death/NN Libya/NNP
+ANALYSIS/NN |/NN Gadhafi/NNP '/POS s/PRP fall/NN has/VBZ no/DT whiff/NN of/IN Arab/NNP Spring/VBG :/: Neil/NNP Macdonald/NN on/IN Libyan/JJ despot/NN '/POS s/PRP death/NN Libya/NNP
 |
 Teen/NNPS in/IN pumpkin/NN theft/NN charged/VBN with/IN manslaughter/NN
 |
@@ -1055,13 +1055,13 @@ NHLer/NN Rypien/NN remembered/VBD at/IN funeral/JJ
 |
 Layton/NNP wanted/VBD 7-month/NN leadership/NN race/NN ,/, Topp/NN says/VBZ
 |
-Gadhafi's/NNS son/NN again/RB reported/VBD killed/VBN
+Gadhafi/NNP '/POS s/PRP son/NN again/RB reported/VBD killed/VBN
 |
 Steve/NNP Jobs/NNP chose/VBD herbal/JJ medicine/NN ,/, delayed/VBN cancer/NN surgery/NN
 |
 Taliban/NN who/WP downed/VBD U.S/CD ./. chopper/NN killed/VBN by/IN strike/NN
 |
-NDP/NN 'unease/NN '/POS surrounds/VBZ Turmel's/NNS Bloc/NNP secrecy/NN
+NDP/NN '/POS unease/NN '/POS surrounds/VBZ Turmel/NN '/POS s/PRP Bloc/NNP secrecy/NN
 |
 Winnipeg/NNP brawl/NN nets/NNS manslaughter/NN charge/NN against/IN teen/JJ girl/NN
 |
@@ -1073,7 +1073,7 @@ Moammar/NN Gadhafi/NNP reported/VBD captured/VBN
 |
 Ontario/NNP wind/NN power/NN faces/VBZ test/NN over/IN property/NN values/NNS
 |
-Cruise/NNP ship/NN says/VBZ passenger's/NNS body/NN found/VBD near/IN P.E.I/CD ./.
+Cruise/NNP ship/NN says/VBZ passenger/NN '/POS s/PRP body/NN found/VBD near/IN P.E.I/CD ./.
 |
 St/NNP ./. Lawrence/NNP Seaway/NN strike/NN averted/VBN
 |
@@ -1085,20 +1085,20 @@ French/JJ resistance/NN hero/NN Nancy/NNP Wake/VB dies/VBZ
 |
 Republican/NNP debate/NN fiery/JJ as/IN Romney/NN ,/, Perry/NNP square/NN off/IN
 |
-Killer/NNP dad/NN Turcotte's/NNS fate/NN to/TO be/VB decided/VBD
+Killer/NNP dad/NN Turcotte/NN '/POS s/PRP fate/NN to/TO be/VB decided/VBD
 |
 ANALYSIS/NN |/NN Politics/NNP of/IN shipbuilding/VBG mean/VB rough/JJ seas/NNS for/IN Harper/NNP
 |
 QUOTATIONS/NNS :/: Ten/CD voices/NNS on/IN the/DT Palestinian/JJ bid/NN for/IN UN/NNP membership/NN
 |
-Apple's/NNS new/JJ iPhone/NN coming/VBG Tuesday/NNP
+Apple/NNP '/POS s/PRP new/JJ iPhone/NN coming/VBG Tuesday/NNP
 |
 Riot-shocked/VBN London/NNP streets/NNS brace/NN for/IN nightfall/NN
 |
-Calvillo/NN breaks/NNS CFL's/NNS all-time/JJ completions/NNS record/NN
+Calvillo/NN breaks/NNS CFL/NN '/POS s/PRP all-time/JJ completions/NNS record/NN
 |
-3,000/NN soldiers/NNS secure/VB Cairo/NNP ahead/RB of/IN Hosni/NNP Mubarak's/NNS trial/JJ ./.
-What/WP local/JJ TV/NN calls/VBZ 'Trial/JJ of/IN the/DT Century/NNP '/POS starts/VBZ Wednesday/NNP
+3,000/NN soldiers/NNS secure/VB Cairo/NNP ahead/RB of/IN Hosni/NNP Mubarak/NNP '/POS s/PRP trial/JJ ./.
+What/WP local/JJ TV/NN calls/VBZ '/POS Trial/JJ of/IN the/DT Century/NNP '/POS starts/VBZ Wednesday/NNP
 |
 Niagara/NNP Falls/NNP divers/NNS search/NN for/IN missing/VBG woman/NN
 |
@@ -1112,7 +1112,7 @@ Disappearance/NN of/IN glacial/JJ river/NN stuns/NNS B.C/CD ./. hikers/NNS
 |
 Copyright/NNP bill/NN to/TO be/VB reintroduced/VBN
 |
-UPDATE/VB :/: Tobin's/NNS son/NN gets/VBZ 3/NN years/NNS for/IN fatal/JJ crash/NN
+UPDATE/VB :/: Tobin/NNP '/POS s/PRP son/NN gets/VBZ 3/NN years/NNS for/IN fatal/JJ crash/NN
 |
 France/NNP reportedly/RB bombs/NNS Somali/JJ town/NN
 |
@@ -1120,7 +1120,7 @@ Quebec/NNP construction/NN workers/NNS back/RB on/IN the/DT job/NN
 |
 Irene/NNP crews/NNS work/NN to/TO restore/VB power/NN ,/, find/VB Quebecer/NN
 |
-Jets/NNP fans/NNS ready/JJ to/TO 'blow/NN the/DT roof/NN '/POS
+Jets/NNP fans/NNS ready/JJ to/TO '/POS blow/NN the/DT roof/NN '/POS
 |
 First/NNP Nations/NNPS children/NNS still/RB taken/VBN from/IN parents/NNS
 |
@@ -1143,15 +1143,15 @@ Akwesasne/NN area/NN an/DT ecstasy/NN smuggling/VBG hotbed/VBN
 |
 Convicted/VBN killer/NN escapes/NNS healing/VBG lodge/NN
 |
-Sept/NNP ./. 11/NN pegged/VBN as/IN 'national/JJ day/NN of/IN service/NN '/POS in/IN Canada/NNP
+Sept/NNP ./. 11/NN pegged/VBN as/IN '/POS national/JJ day/NN of/IN service/NN '/POS in/IN Canada/NNP
 |
 NDP/NN to/TO name/NN interim/JJ leader/NN
 |
-Giuliani/NNP warns/VBZ U.S/CD ./. economy/NN now/RB a/DT 'security/NN issue/NN '/POS
+Giuliani/NNP warns/VBZ U.S/CD ./. economy/NN now/RB a/DT '/POS security/NN issue/NN '/POS
 |
 Deported/VBN Palestinian/JJ prisoners/NNS face/NN new/JJ life/NN of/IN exile/NN
 |
-Federal/JJ deficit/NN in/IN June/NNP shrinks/VBZ to/TO $/$ 2.2B/CD
+Federal/JJ deficit/NN in/IN June/NNP shrinks/VBZ to/TO $/$ 2.2/CD B/NNP
 |
 Soyuz/NNP space/NN capsule/NN lands/NNS in/IN Kazakhstan/NNP
 |
@@ -1173,7 +1173,7 @@ Crowded/VBN planet/NN :/: Should/MD we/FPRP care/NN how/WRB many/JJ billions/NNS
 |
 Trial/JJ for/IN Italian/JJ earthquake/NN experts/NNS starts/VBZ
 |
-Occupy/VB Toronto/NNP mulls/VBZ 'large/NN impact/NN '/POS event/NN for/IN Monday/NNP
+Occupy/VB Toronto/NNP mulls/VBZ '/POS large/JJ impact/NN '/POS event/NN for/IN Monday/NNP
 |
 Prostate/NN cancer/NN urine/NN test/NN aims/VBZ for/IN better/JJR screen/NN
 |
@@ -1181,9 +1181,9 @@ Russell/NNP Williams/NNP crime/NN story/NN could/MD be/VB feature/NN film/NN
 |
 Red/VBN Arrow/NNP crashes/NNS at/IN U.K/CD ./. air/NN festival/JJ
 |
-Charkaoui/NN believes/VBZ CSIS/NN leak/NN deliberate/JJ ,/, 'disgusting/VBG '/POS
+Charkaoui/NN believes/VBZ CSIS/NN leak/NN deliberate/JJ ,/, '/POS disgusting/JJ '/POS
 |
-Elvis-singing/VBG Chilean/JJ miner/NN gets/VBZ King's/NNS tribute/NN
+Elvis-singing/VBG Chilean/JJ miner/NN gets/VBZ King/VBG '/POS s/PRP tribute/NN
 |
 U.S/CD ./. tackles/VBZ endangered/VBN species/NNS backlog/NN
 |
@@ -1210,15 +1210,15 @@ Montreal/JJ drivers/NNS fear/NN using/VBG bridges/NNS ,/, tunnels/NNS
 |
 1/NN in/IN 6/NN cellphones/NNS have/VBP fecal/JJ E/NN ./. coli/NNS traces/NNS
 |
-Montreal/JJ heart/NN studies/NNS 'withdrawn/NN '/POS
+Montreal/JJ heart/NN studies/NNS '/POS withdrawn/VBN '/POS
 |
-Harper's/NNS Arctic/NNP tour/NN turns/VBZ focus/NNS to/TO health/NN care/NN
+Harper/NNP '/POS s/PRP Arctic/NNP tour/NN turns/VBZ focus/NNS to/TO health/NN care/NN
 |
 Copyright/NNP bill/NN reintroduced/VBN in/IN identical/JJ form/NN
 |
 Dragons/NNP '/POS Den/NNP (CBC/NN TV/NN ):/NN Newest/JJS Dragon/NNP Bruce/NNP Croxon/NN shares/NNS small/JJ business/NNS tips/NNS
 |
-U.S/CD ./. wasted/VBN up/IN to/TO $/$ 60B/NN in/IN Iraq/NNP ,/, Afghanistan/NNP :/: panel/NN
+U.S/CD ./. wasted/VBN up/IN to/TO $/$ 60/NN B/NNP in/IN Iraq/NNP ,/, Afghanistan/NNP :/: panel/NN
 |
 Swedish/JJ poet/NN wins/VBZ Nobel/NNP Prize/NNP in/IN Literature/NNP
 |
@@ -1228,19 +1228,19 @@ Fire/NNP crews/NNS still/RB putting/VBG out/IN fires/NNS in/IN Croydon.Londonrio
 |
 Fire/NNP forces/NNS 2/NN to/TO jump/NN from/IN Winnipeg/NNP home/NN
 |
-iGlennSmith/NN I've/NN included/VBD you/SPRP in/IN the/DT storrify/NN accompanying/VBG my/FPRP CBC/NNP story/NN ,/, check/NN it/TPRP out/IN :/:
+iGlennSmith/NN I/FPRP '/POS ve/NN included/VBD you/SPRP in/IN the/DT storrify/NN accompanying/VBG my/FPRP CBC/NNP story/NN ,/, check/NN it/TPRP out/IN :/:
 |
 17/NN B.C/CD ./. bears/VBZ culled/VBN
 |
-Contagion/NN film/NN 'plausible/NN ,'/NN CDC/NNP says/VBZ
+Contagion/NN film/NN '/POS plausible/JJ ,'/NN CDC/NNP says/VBZ
 |
-VIDEO/NN :/: Greece/NNP was/VBD 'poorly/RB managed/VBD ,'/NN its/TPRP foreign/JJ minister/NN says/VBZ
+VIDEO/NN :/: Greece/NNP was/VBD '/POS poorly/RB managed/VBD ,'/NN its/TPRP foreign/JJ minister/NN says/VBZ
 |
 Murdoch/NNP testimony/NN fails/VBZ to/TO get/VB ahead/RB of/IN scandal/JJ ,/, crisis/NNS management/NN experts/NNS say/VBP ./.
 |
 Passenger/NN plane/NN crashes/NNS in/IN N.W.T/CD ./.
 |
-MT/NN CBCTheNational/JJ :/: Tweet/NN us/FPRP your/SPRP questions/NNS about/IN the/DT U.S/CD ./. debtcrisis/NNS and/CC we/FPRP will/MD answer/NN some/DT on/IN tonight's/NNS show/NN ./.
+MT/NN CBCTheNational/JJ :/: Tweet/NN us/FPRP your/SPRP questions/NNS about/IN the/DT U.S/CD ./. debtcrisis/NNS and/CC we/FPRP will/MD answer/NN some/DT on/IN tonight/RB '/POS s/PRP show/NN ./.
 |
 Ontario/NNP coroner/NN to/TO probe/NN cycling/VBG deaths/NNS
 |
@@ -1269,15 +1269,15 @@ Tropical/JJ storm/NN Lee/NNP smacks/VBZ south/RB Louisiana/NNP
 Canada-U.S/CD ./. border/NN tightened/VBD in/IN decade/NN after/IN 9/NN
 11/NN
 |
-Gatineau/NN student's/NNS burned/VBN body/NN found/VBD behind/IN school/NN
+Gatineau/NN student/NN '/POS s/PRP burned/VBN body/NN found/VBD behind/IN school/NN
 |
-Moody's/NNS reaffirms/VBZ Canada's/NNS triple-A/JJ rating/VBG
+Moody/NNP '/POS s/PRP reaffirms/VBZ Canada/NNP '/POS s/PRP triple-A/JJ rating/VBG
 |
 Convicted/VBN oilpatch/NN bomber/NN Wiebo/NN Ludwig/NNP has/VBZ cancer/NN
 |
 Manitobans/NNS heading/VBG to/TO the/DT polls/NNS
 |
-ANALYSIS/NN :/: iPhone/NN 4S/NN :/: new/JJ features/NNS but/CC an/DT 'underwhelming/VBG '/POS upgrade/VB
+ANALYSIS/NN :/: iPhone/NN 4S/NN :/: new/JJ features/NNS but/CC an/DT '/POS underwhelming/VBG '/POS upgrade/VB
 |
 Teen/NNPS with/IN fake/JJ bomb/NN chained/VBD to/TO neck/NN relieved/VBN by/IN arrest/NN
 |
@@ -1289,42 +1289,42 @@ Obama/NN hosts/NNS 11th-hour/NN debt/NN talks/NNS
 |
 ANALYSIS/NN :/: Post-election/NN deal/JJ a/DT good/JJ bet/NN in/IN Ontario/NNP
 |
-Swiss/JJ bank/NN CEO/NNP quits/VBZ over/IN $/$ 2.3B/CD rogue/JJ trading/VBG loss/NNS
+Swiss/JJ bank/NN CEO/NNP quits/VBZ over/IN $/$ 2.3/CD B/NNP rogue/JJ trading/VBG loss/NNS
 |
 Hobbema/NN ,/, Alta/NNP ./. band/NN leaders/NNS frustrated/VBN by/IN violence/NN
 |
-Women's/NNS topless/JJ court/NN victory/NN 20/NN years/NNS later/RB
+Women/NNP '/POS s/PRP topless/JJ court/NN victory/NN 20/NN years/NNS later/RB
 |
 Workers/NNPS win/VB lottery/NN on/IN day/NN of/IN layoff/NN notice/NN
 |
-Reno/NNP plane's/NNS plunge/NN into/IN crowd/NN kills/VBZ 3/NN ,/, injures/VBZ 50/NN
+Reno/NNP plane/NN '/POS s/PRP plunge/NN into/IN crowd/NN kills/VBZ 3/NN ,/, injures/VBZ 50/NN
 |
-U.S/CD ./. debt/NN downgraded/VBD by/IN Standard/NNP &/CC Poor's/NNS
+U.S/CD ./. debt/NN downgraded/VBD by/IN Standard/NNP &/CC Poor/NNP '/POS s/PRP
 |
 Bomber/NN strikes/NNS NATO/NNP convoy/NN near/IN Kabul/NNP
 |
 RIM/NN denies/VBZ leaving/VBG tablet/NN market/NN
 |
-ANALYSIS/NN |/NN Papandreou's/NNS referendum/NN gamble/NN :/: flirting/VBG with/IN default/NN ,/, or/CC getting/VBG Greeks/NNPS to/TO accept/VB austerity/NN ?/.
+ANALYSIS/NN |/NN Papandreou/NNP '/POS s/PRP referendum/NN gamble/NN :/: flirting/VBG with/IN default/NN ,/, or/CC getting/VBG Greeks/NNPS to/TO accept/VB austerity/NN ?/.
 |
 Syria/NNP accused/VBN of/IN using/VBG hospitals/NNS for/IN torture/NN
 |
-Quebec/NNP premier's/NNS decision/NN on/IN corruption/NN inquiry/NN awaited/VBD
+Quebec/NNP premier/NN '/POS s/PRP decision/NN on/IN corruption/NN inquiry/NN awaited/VBD
 |
 Inflation/NN rate/NN rises/VBZ to/TO 3.1/CD %/NN in/IN August/NNP
 |
 Rex/NNP Murphy/NNP will/MD appear/VB tonight/RB on/IN the/DT program/NN with/IN his/TPRP tribute/NN to/TO the/DT late/JJ Jack/NNP Layton/NNP ./.
 |
-Testimony/NN from/IN Paxton's/NNS alleged/VBN victim/NN delayed/VBN
+Testimony/NN from/IN Paxton/NNP '/POS s/PRP alleged/VBN victim/NN delayed/VBN
 |
 UPDATED/VBN plus/CC with/IN 3/NN iphone/NN models/NNS comparison/NN chart/NN ./.
-Analysis/NNP :/: iPhone/NN 4S/NN :/: new/JJ features/NNS but/CC an/DT 'underwhelming/VBG '/POS upgrade/VB
+Analysis/NNP :/: iPhone/NN 4S/NN :/: new/JJ features/NNS but/CC an/DT '/POS underwhelming/VBG '/POS upgrade/VB
 |
-Obama/NN says/VBZ U.S/CD ./. troops/NNS leaving/VBG Iraq/NNP by/IN year's/NNS end/NN
+Obama/NN says/VBZ U.S/CD ./. troops/NNS leaving/VBG Iraq/NNP by/IN year/NN '/POS s/PRP end/NN
 |
-Australian/JJ 'fake/NN bomb/NN '/POS case/NN leads/VBZ to/TO U.S/CD ./. arrest/NN
+Australian/JJ '/POS fake/JJ bomb/NN '/POS case/NN leads/VBZ to/TO U.S/CD ./. arrest/NN
 |
-LIVE/VB :/: $/$ 33B/NN shipbuilding/VBG announcement/NN cbc.ca/CD news/NNS politics/NNS
+LIVE/VB :/: $/$ 33/NN B/NNP shipbuilding/VBG announcement/NN cbc.ca/CD news/NNS politics/NNS
 |
 Strauss-Kahn/NN assault/NN accuser/NN speaks/VBZ out/IN
 |
@@ -1341,7 +1341,7 @@ Syrian/JJ forces/NNS take/VB over/IN rebel/NN town/NN
 |
 Quebec/NNP Premier/NNP Jean/NNP Charest/NN announces/VBZ corruption/NN inquiry/NN cbc.ca/CD news/NNS canada/NN mo/NN
 |
-Some/DT of/IN jacklayton's/NNS last/JJ words/NNS :/:
+Some/DT of/IN jacklayton/NN '/POS s/PRP last/JJ words/NNS :/:
 "/" My/FPRP friends,love/NN is/VBZ better/JJR than/IN anger/NN ./. Hope/NNP is/VBZ better/JJR than/IN fear/NN ./. Optimism/NN is/VBZ better/JJR than/IN despair/NN ."/CD
 |
 Air/NNP Canada/NNP contract/NN talks/NNS break/VB down/RB
@@ -1362,11 +1362,11 @@ Sino-Forest/NN CEO/NNP resigns/VBZ amid/IN fraud/NN investigation/NN
 |
 South/NNP Korea/NNP landslide/NN leaves/VBZ 17/NN dead/JJ
 |
-'Draconian/NN '/POS anti-terrorism/JJ laws/NNS not/RB needed/VBN ,/, opposition/NN says/VBZ
+'/POS Draconian/JJ '/POS anti-terrorism/JJ laws/NNS not/RB needed/VBN ,/, opposition/NN says/VBZ
 |
 Chris/NNP Hadfield/NN readies/NNS to/TO command/NN space/NN station/NN
 |
-Libya's/NNS future/NN ,/, aid/NN focus/NNS of/IN Paris/NNP talks/NNS
+Libya/NNP '/POS s/PRP future/NN ,/, aid/NN focus/NNS of/IN Paris/NNP talks/NNS
 |
 Several/JJ jurisdictions/NNS recommending/VBG children/NNS limit/NN use/NN
 |
@@ -1382,13 +1382,13 @@ NFL/NNP owners/NNS approve/VB deal/JJ ,/, players/NNS yet/RB to/TO vote/NN
 |
 Obama/NN takes/VBZ debt/NN deal/JJ to/TO public/JJ as/IN deadline/NN looms/VBZ
 |
-Cherry's/NNS apology/NN accepted/VBN by/IN ex-enforcers/NNS
+Cherry/NNP '/POS s/PRP apology/NN accepted/VBN by/IN ex-enforcers/NNS
 |
 Scam/NN victim/NN blames/VBZ inattention/NN by/IN credit/NN union/NN
 |
 TIFF/NN VIDEO/NN :/: Rising/VBG star/NN Michael/NNP Fassbender/NN
 |
-Flaherty/NNP sees/VBZ 'will/NN to/TO act/NN '/POS on/IN world/NN economic/JJ woes/NNS
+Flaherty/NNP sees/VBZ '/POS will/MD to/TO act/NN '/POS on/IN world/NN economic/JJ woes/NNS
 |
 Asian/JJ stocks/NNS fall/NN amid/IN dim/JJ U.S/CD ./. economy/NN prospects/NNS
 |
@@ -1398,13 +1398,13 @@ N.L/CD ./. school/NN boards/NNS cheating/VBG policy/NN irks/VBZ teachers/NNS
 |
 Israel/NNP shuns/VBZ apology/NN for/IN deadly/RB flotilla/NN raid/NN
 |
-'Buy/NN local/JJ '/POS food/NN policies/NNS not/RB at/IN risk/NN in/IN EU/NN deal/JJ :/: Ritz/NNP
+'/POS Buy/VB local/JJ '/POS food/NN policies/NNS not/RB at/IN risk/NN in/IN EU/NN deal/JJ :/: Ritz/NNP
 |
-Bed-sharing/VBG doesn't/NN slow/JJ development/NN ,/, study/NN finds/VBZ
+Bed-sharing/VBG does/VBZ n't/RB slow/JJ development/NN ,/, study/NN finds/VBZ
 |
 Somalia/NNP ,/, Libya/NNP briefings/NNS held/VBN for/IN MPs/NNS
 |
-Retired/VBN Ont/NN ./. man/NN wins/VBZ $/$ 50M/NN lotto/NN prize/NN
+Retired/VBN Ont/NN ./. man/NN wins/VBZ $/$ 50/NN M/NNP lotto/NN prize/NN
 |
 50/NN Occupy/VB Boston/NNP protesters/NNS arrested/VBN
 |
@@ -1414,7 +1414,7 @@ Body/NNP of/IN Canadian/JJ soldier/NN returns/NNS to/TO CFB/NN Trenton/NNP
 |
 B.C/CD ./. woman/NN describes/VBZ 49-day/NN ordeal/JJ in/IN Nevada/NNP
 |
-UPDATE/VB :/: Norway/NNP killer's/NNS motive/NN unclear/JJ as/IN toll/NN climbs/VBZ to/TO 91/NN
+UPDATE/VB :/: Norway/NNP killer/NN '/POS s/PRP motive/NN unclear/JJ as/IN toll/NN climbs/VBZ to/TO 91/NN
 |
 Child/NNP ,/, 5/NN ,/, fatally/RB shot/NN at/IN Hobbema/NN ,/, Alta/NNP .,/CD reserve/NN
 |
@@ -1430,7 +1430,7 @@ British/JJ minister/NN tossed/VBD official/JJ papers/NNS in/IN park/NN trash/NN 
 |
 Quarry/NNP on/IN Ont/NN ./. farmland/NN was/VBD the/DT plan/NN ,/, firm/NN says/VBZ
 |
-Google/NN pays/VBZ $/$ 500M/NN fine/JJ for/IN Canadian/JJ drug/NN ads/NNS
+Google/NN pays/VBZ $/$ 500/NN M/NNP fine/JJ for/IN Canadian/JJ drug/NN ads/NNS
 |
 Greece/NNP faces/VBZ more/JJR strikes/NNS as/IN default/NN looms/VBZ
 |
@@ -1444,7 +1444,7 @@ COC/NN hires/VBZ ex-Harper/NN aide/NN Soudas/NNS
 |
 Hopley/NNP takedown/NN captured/VBN on/IN police/NN radio/NN tape/NN
 |
-As/IN a/DT boxer/NN who's/NNS in/IN the/DT ring/VBG weekly/RB ,/, much/JJ kudos/NNS to/TO SourceNation/NN stopconcussions/NNS and/CC CBCNews/NNS for/IN enhancing/VBG understanding/VBG of/IN head/NN injuries/NNS ./.
+As/IN a/DT boxer/NN who/WP '/POS s/PRP in/IN the/DT ring/VBG weekly/RB ,/, much/JJ kudos/NNS to/TO SourceNation/NN stopconcussions/NNS and/CC CBCNews/NNS for/IN enhancing/VBG understanding/VBG of/IN head/NN injuries/NNS ./.
 |
 Report/NNP on/IN RCMP/NN Taser/NN use/NN on/IN B.C/CD ./. boy/NN coming/VBG
 |
@@ -1452,7 +1452,7 @@ Thai/NNP PM/NNP hopes/VBZ for/IN quick/JJ floodwater/NN drainage/NN
 |
 Former/JJ Warrant/NN singer/NN Jani/NN Lane/NNP found/VBD dead/JJ
 |
-Godson/NN pleads/VBZ guilty/JJ to/TO philanthropist's/NNS murder/NN
+Godson/NN pleads/VBZ guilty/JJ to/TO philanthropist/NN '/POS s/PRP murder/NN
 |
 Abbas/NNP to/TO ask/VB UN/NNP to/TO accept/VB Palestinians/NNPS as/IN full/JJ members/NNS
 |
@@ -1468,7 +1468,7 @@ Bill/NNP goes/VBZ to/TO Obama/NN to/TO sign/NN into/IN law/NN debt/NN
 |
 Jets/NNP welcome/JJ Habs/NNS for/IN landmark/NN game/NN
 |
-Obama/NN urges/VBZ 'shared/VBN sacrifice/NN '/POS to/TO curb/VB debt/NN
+Obama/NN urges/VBZ '/POS shared/VBN sacrifice/NN '/POS to/TO curb/VB debt/NN
 |
 Winnipeg/NNP crime/NN prompts/VBZ Air/NNP Canada/NNP hotel/NN move/NN
 |
@@ -1480,16 +1480,16 @@ Shafia/NN daughters/NNS killed/VBN over/IN boyfriends/NNS ,/, Crown/NNP says/VBZ
 |
 Strauss-Kahn/NN charges/NNS could/MD be/VB dropped/VBD this/DT week/NN
 |
-Canada/NNP will/MD have/VBP to/TO live/VB with/IN 'Buy/NN American/NNP ,'/NN envoy/NN says/VBZ
+Canada/NNP will/MD have/VBP to/TO live/VB with/IN '/POS Buy/VB American/NNP ,'/NN envoy/NN says/VBZ
 |
 Jobless/JJ rate/NN drops/VBZ to/TO 7.2/CD %/NN
 |
 How/WRB much/JJ is/VBZ your/SPRP small/JJ business/NNS worth/JJ ?/.
-It's/NNP a/DT tricky/JJ question/NN ,/, but/CC here/RB are/VBP some/DT expert/NN tips/NNS for/IN finding/VBG out/IN ./.
+It/TPRP '/POS s/PRP a/DT tricky/JJ question/NN ,/, but/CC here/RB are/VBP some/DT expert/NN tips/NNS for/IN finding/VBG out/IN ./.
 |
-Toronto/NNP teen/JJ linked/VBN to/TO girl's/NNS slaying/VBG dies/VBZ from/IN fall/NN
+Toronto/NNP teen/JJ linked/VBN to/TO girl/NN '/POS s/PRP slaying/VBG dies/VBZ from/IN fall/NN
 |
-Bus/NNS driver/NN won't/NN be/VB fired/VBN for/IN writing/VBG while/IN driving/VBG
+Bus/NNS driver/NN wo/MD n't/RB be/VB fired/VBN for/IN writing/VBG while/IN driving/VBG
 |
 Wind/NNP project/NN threatens/VBZ birds/NNS ,/, green/JJ group/NN warns/VBZ
 |
@@ -1497,7 +1497,7 @@ Oilsands/NNS pipeline/NN focus/NNS of/IN White/NNP House/NNP sit-in/NN
 |
 Asian/JJ markets/NNS fall/NN sharply/RB after/IN brutal/JJ Wall/NNP Street/NNP day/NN
 |
-Underwear/NN bomb/NN suspect's/NNS trial/JJ begins/VBZ
+Underwear/NN bomb/NN suspect/VBP '/POS s/PRP trial/JJ begins/VBZ
 |
 Warren/NNP Jeffs/NNS convicted/VBN with/IN Canadian/JJ evidence/NN
 |
@@ -1521,7 +1521,7 @@ Manitoba/NNP RCMP/NN seize/VB phoney/JJ Jets/NNP merchandise/NN
 |
 Charest/NN wants/VBZ Quebec/NNP recognized/VBN as/IN a/DT nation/NN
 |
-Reebok/NNP to/TO pay/VB $/$ 25M/NN over/IN toning/VBG shoe/NN claims/NNS
+Reebok/NNP to/TO pay/VB $/$ 25/NN M/NNP over/IN toning/VBG shoe/NN claims/NNS
 |
 Rogers/NNP asked/VBD to/TO fix/VB game/NN throttling/VBG problem/NN
 |
@@ -1529,7 +1529,7 @@ Fugitive/JJ deported/VBN back/RB to/TO China/NNP
 |
 Delay/NNP in/IN Vancouver/NNP riot/NN charges/NNS a/DT contrast/NN to/TO U.K/CD ./.
 |
-U.S/CD ./. 'supercop/NN '/POS warns/VBZ U.K/CD ./. riot/NN arrests/NNS not/RB enough/RB
+U.S/CD ./. '/POS supercop/NN '/POS warns/VBZ U.K/CD ./. riot/NN arrests/NNS not/RB enough/RB
 |
 Chinese/JJ toddler/NN who/WP fell/VBD 10/NN storeys/NNS wakes/VBZ from/IN coma/NN
 |
@@ -1539,7 +1539,7 @@ Abortion/NNP debate/NN reopened/VBD ,/, Tory/NNP MP/NNP Trost/NN says/VBZ
 |
 Vermont/NNP towns/NNS shocked/VBN by/IN Irene/NNP flooding/VBG
 |
-Slain/VBN Victoria/NNP teen's/NNS family/RB wants/VBZ safety/NN program/NN
+Slain/VBN Victoria/NNP teen/JJ '/POS s/PRP family/RB wants/VBZ safety/NN program/NN
 |
 Man/NN kicked/VBD in/IN head/NN during/IN arrest/NN sues/VBZ RCMP/NN
 |
@@ -1556,7 +1556,7 @@ Thousands/NNS have/VBP fled/VBD south/RB to/TO Mogadishu/NNP ,/, Dadaab/NN refug
 |
 Loonie/NN closes/VBZ below/IN parity/NN with/IN US/FPRP dollar/NN
 |
-Father/NNP recalls/VBZ 'sick/NN feeling/VBG '/POS upon/IN finding/VBG son/NN missing/VBG ./.
+Father/NNP recalls/VBZ '/POS sick/JJ feeling/VBG '/POS upon/IN finding/VBG son/NN missing/VBG ./.
 Says/VBZ he/TPRP puts/VBZ faith/NN in/IN God/NNP ./.
 |
 RIM/NN execs/NNS likely/RB on/IN hot/JJ seat/NN at/IN annual/JJ meeting/VBG
@@ -1576,11 +1576,11 @@ RT/NN marissanelson/NN :/: CBCNews.ca/CD has/VBZ opening/VBG on/IN leadership/NN
 |
 Typhoon/NN Roke/NN threatens/VBZ Japan/NNP disaster/NN zone/NN
 |
-Torture/NN victim/NN appeared/VBD to/TO have/VBP 'advanced/VBN cancer/NN '/POS
+Torture/NN victim/NN appeared/VBD to/TO have/VBP '/POS advanced/VBD cancer/NN '/POS
 |
 Internet/NNP customer/NN names/NNS sought/VBD for/IN Hurt/NNP Locker/NNP suits/NNS
 |
-Gaza-bound/NN ship's/NNS occupants/NNS heading/VBG home/NN
+Gaza-bound/NN ship/NN '/POS s/PRP occupants/NNS heading/VBG home/NN
 |
 Driver/NNP smokes/VBZ joint/JJ at/IN police/NN stop/VB
 |
@@ -1589,9 +1589,9 @@ The/DT casket/NN arriving/VBG now/RB lockerz.com/CD
 |
 BlackBerry/NN PlayBook/NN cleared/VBN for/IN U.S/CD ./. government/NN use/NN
 |
-Veteran's/NNS wife/NN can't/MD legally/RB wear/VB military/JJ medals/NNS
+Veteran/JJ '/POS s/PRP wife/NN ca/MD n't/RB legally/RB wear/VB military/JJ medals/NNS
 |
-Dad/NNP who/WP killed/VBN daughter's/NNS boyfriend/NN to/TO be/VB sentenced/VBN
+Dad/NNP who/WP killed/VBN daughter/NN '/POS s/PRP boyfriend/NN to/TO be/VB sentenced/VBN
 |
 Bangkok/NNP flooding/VBG swells/NNS river/NN to/TO record/NN high/JJ
 |
@@ -1603,7 +1603,7 @@ Air/NNP Canada/NNP flight/NN aborts/NNS takeoff/NN at/IN Heathrow/NNP
 |
 Bolt/NN false/JJ starts/VBZ ,/, eliminated/VBN from/IN 100m/NN final/JJ
 |
-ANALYSIS/NN |/NN Papandreou's/NNS referendum/NN gamble/NN
+ANALYSIS/NN |/NN Papandreou/NNP '/POS s/PRP referendum/NN gamble/NN
 |
 Australian/JJ man/NN claims/NNS to/TO have/VBP bomb/NN in/IN standoff/NN
 |
@@ -1613,7 +1613,7 @@ Pilot/NN treads/VBZ water/NN for/IN 17/NN hours/NNS before/IN rescue/NN
 |
 Marriage/NNP fraud/NN targeted/VBN by/IN Canada/NNP border/NN agency/NN
 |
-THE/DT HOUSE/NNP :/: Libya's/NNS new/JJ Ottawa/NNP envoy/NN rebuilds/VBZ ties/NNS
+THE/DT HOUSE/NNP :/: Libya/NNP '/POS s/PRP new/JJ Ottawa/NNP envoy/NN rebuilds/VBZ ties/NNS
 |
 Keystone/NNP may/MD face/NN Nebraska/NNP legislative/JJ challenge/NN
 |
@@ -1623,13 +1623,13 @@ U.K/CD ./. riot/NN charges/NNS and/CC arrests/NNS keep/VB rising/VBG
 |
 Libyan/JJ military/JJ convoy/NN arrives/VBZ in/IN Niger/NNP
 |
-Air/NNP Canada's/NNS 'frustrated/VBN '/POS bargaining/VBG process/NNS -/:
+Air/NNP Canada/NNP '/POS s/PRP '/POS frustrated/VBN '/POS bargaining/VBG process/NNS -/:
 |
 Anti-Gadhafi/NN leaders/NNS seek/VB access/NNS to/TO frozen/VBN assets/NNS
 |
 Kuwait/NNP to/TO serve/VB as/IN Afghan/JJ staging/VBG base/NN
 |
-FAQ/NN :/: Omar/NNP Khadr's/NNS return/NN to/TO Canada/NNP -/: What's/NNS ahead/RB after/IN Guantanamo/NN ?/.
+FAQ/NN :/: Omar/NNP Khadr/NN '/POS s/PRP return/NN to/TO Canada/NNP -/: What/WP '/POS s/PRP ahead/RB after/IN Guantanamo/NN ?/.
 |
 Reno/NNP air/NN crash/NN death/NN toll/NN hits/NNS 11/NN
 |
@@ -1643,11 +1643,11 @@ Death/NN toll/NN in/IN Tanzania/NN ferry/NN sinking/VBG soars/NNS to/TO 240/NN
 |
 Mr/NNP ./. Bean/NNP actor/NN recovering/VBG after/IN crashing/VBG supercar/NN
 |
-Burma's/NNS Suu/NNP Kyi/NNP tests/NNS limits/NNS of/IN her/TPRP freedom/NN
+Burma/NNP '/POS s/PRP Suu/NNP Kyi/NNP tests/NNS limits/NNS of/IN her/TPRP freedom/NN
 |
 Burma/NNP prisoner/NN release/NN may/MD be/VB imminent/JJ
 |
-Gatineau/NN student's/NNS funeral/JJ draws/VBZ hundreds/NNS
+Gatineau/NN student/NN '/POS s/PRP funeral/JJ draws/VBZ hundreds/NNS
 |
 Party/NNP store/NN bombs/NNS probed/VBD by/IN organized/VBN crime/NN unit/NN
 |
@@ -1655,16 +1655,16 @@ Aung/NNP San/NNP Suu/NNP Kyi/NNP film/NN to/TO premiere/NN at/IN TIFF/NN
 |
 Female/JJ shift/NN workers/NNS may/MD face/NN higher/JJR heart/NN risks/NNS
 |
-Veterans/NNP Affairs/NNP to/TO cut/VB budget/NN by/IN $/$ 226M/NN
+Veterans/NNP Affairs/NNP to/TO cut/VB budget/NN by/IN $/$ 226/NN M/NNP
 |
-Greenpeace/NNP 'genius/NNS '/POS turns/VBZ media/NNS spectacle/NN into/IN action/NN
+Greenpeace/NNP '/POS genius/NNS '/POS turns/VBZ media/NNS spectacle/NN into/IN action/NN
 |
 Average/NNP home/NN price/NN rises/VBZ 6.5/CD %/NN to/TO $/$ 352,600/NN
 |
 U.K/CD ./. police/NN arrest/NN 160/NN in/IN weekend/NN riots/NNS and/CC looting/VBG ./.
 Riots/NNS raged/VBD across/IN north/RB London/NNP after/IN police/NN shot/NN man/NN dead/JJ
 |
-Yukon/NNP First/NNP Nations/NNPS warn/VB they'll/PRP|MD block/NN pipeline/NN
+Yukon/NNP First/NNP Nations/NNPS warn/VB they/TPRP '/POS ll/NN block/NN pipeline/NN
 |
 Dan/NNP Aykroyd/NN nabbed/VBN speeding/VBG on/IN way/NN to/TO Honda/NNP Indy/NN
 |
@@ -1676,15 +1676,15 @@ Mad/NNP Men/NNS ,/, Game/NN of/IN Thrones/NNS to/TO vie/VBP for/IN Emmys/NNS
 |
 Investigators/NNS comb/NN scene/NN of/IN northern/JJ B.C/CD ./. chopper/NN crash/NN
 |
-Moody's/NNS warns/VBZ of/IN possible/JJ U.S/CD ./. debt/NN downgrade/NN
+Moody/NNP '/POS s/PRP warns/VBZ of/IN possible/JJ U.S/CD ./. debt/NN downgrade/NN
 |
-F-35s/NNS '/POS pricetag/NN of/IN $/$ 9B/NN 'more/NN honest/JJ ,'/NN Fantino/NN says/VBZ
+F-35s/NNS '/POS pricetag/NN of/IN $9B/NN '/POS more/JJR honest/JJ ,'/NN Fantino/NN says/VBZ
 |
 India/NNP courts/NNS Canada/NNP on/IN nuclear/JJ partnership/NN
 |
-Winnipegger's/NNS Palestinian/JJ killer/NN to/TO be/VB freed/VBN
+Winnipegger/NN '/POS s/PRP Palestinian/JJ killer/NN to/TO be/VB freed/VBN
 |
-One-stop/JJ special/JJ report/NN page/NN gathering/VBG CBCNews.ca's/CD features/NNS and/CC coverage/NN of/IN the/DT famine/NN in/IN Africa/NNP ./.
+One-stop/JJ special/JJ report/NN page/NN gathering/VBG CBCNews.ca/CD '/POS s/PRP features/NNS and/CC coverage/NN of/IN the/DT famine/NN in/IN Africa/NNP ./.
 |
 Troubled/JJ Alberta/NNP reserve/NN wants/VBZ to/TO evict/VB criminals/NNS
 |
@@ -1732,7 +1732,7 @@ Thousands/NNS of/IN charity/NN workers/NNS earn/VB big/JJ salaries/NNS :/: repor
 |
 Heavy/NNP tornado/NN damage/NN in/IN Lac/NNP Saint-Jean/NN area/NN
 |
-Olson/NNP victim's/NNS mother/NN describes/VBZ family's/NNS pain/NN
+Olson/NNP victim/NN '/POS s/PRP mother/NN describes/VBZ family/RB '/POS s/PRP pain/NN
 |
 ANALYSIS/NN |/NN Neil/NNP Macdonald/NN :/: Extrajudicial/JJ executions/NNS from/IN the/DT sky/NN
 |
@@ -1751,21 +1751,21 @@ Stocks/NNS down/RB as/IN Greece/NNP scrambles/NNS to/TO refinance/VB debt/NN
 |
 Chile/NNP dictatorship/NN victim/NN toll/NN bumped/VBD to/TO 40,018/NN
 |
-U.S/CD ./. to/TO call/VB for/IN Syrian/JJ president's/NNS resignation/NN
+U.S/CD ./. to/TO call/VB for/IN Syrian/JJ president/NN '/POS s/PRP resignation/NN
 |
 Canada-Colombia/NN trade/NN deal/JJ takes/VBZ effect/NN today/NN -/: What/WP the/DT 2/NN countries/NNS trade/NN
 |
 Paxton/NNP smirks/NNS as/IN 2nd/NN alleged/VBN abuse/NN victim/NN testifies/VBZ
 |
-Moody's/NNS downgrades/NNS 2/NN French/JJ banks/NNS
+Moody/NNP '/POS s/PRP downgrades/NNS 2/NN French/JJ banks/NNS
 |
 Ont/NN ./. calls/VBZ inquiry/NN into/IN aboriginal/JJ participation/NN on/IN juries/NNS
 |
-Paxton's/NNS lawyer/NN paints/NNS Crown/NNP witness/NNS as/IN liar/NN
+Paxton/NNP '/POS s/PRP lawyer/NN paints/NNS Crown/NNP witness/NNS as/IN liar/NN
 |
 Russell/NNP Brand/NN denied/VBN entry/NN into/IN Canada/NNP
 |
-NDP/NN caucus/NNS to/TO pick/VB Layton's/NNS fill-in/JJ
+NDP/NN caucus/NNS to/TO pick/VB Layton/NNP '/POS s/PRP fill-in/JJ
 |
 Google/NN brings/VBZ its/TPRP e-books/NNS to/TO Canada/NNP
 |
@@ -1777,47 +1777,47 @@ Carney/NNP roasted/VBN by/IN Wall/NNP Street/NNP banker/NN
 |
 Ontario/NNP tornado/NN confirmed/VBD in/IN Wednesday/NNP storm/NN
 |
-Mayerthorpe/NN killers/NNS won't/NN get/VB top/JJ court/NN appeal/JJ
+Mayerthorpe/NN killers/NNS wo/MD n't/RB get/VB top/JJ court/NN appeal/JJ
 |
 Syria/NNP planting/VBG landmines/NNS on/IN Lebanon/NNP border/NN
 |
 Hosni/NNP Mubarak/NNP trial/JJ set/VBN to/TO resume/VB
 |
-LIVE/VB :/: Canada's/NNS climate/NN change/NN goals/NNS falling/VBG short/JJ
+LIVE/VB :/: Canada/NNP '/POS s/PRP climate/NN change/NN goals/NNS falling/VBG short/JJ
 |
 Dan/NNP Misener/NN :/: New/NNP e-book/NN app/NN allows/VBZ readers/NNS to/TO share/NN their/TPRP marginalia/NNS
 |
-Infant's/NNS body/NN found/VBD in/IN Fraser/NNP River/NNP near/IN Vancouver/NNP
+Infant/JJ '/POS s/PRP body/NN found/VBD in/IN Fraser/NNP River/NNP near/IN Vancouver/NNP
 |
 Abused/VBN and/CC kept/VBD like/IN slaves/NNS ,/, say/VBP B.C/CD ./. domestic/JJ workers/NNS
 |
 Cheap/JJ Trick/NN cancels/VBZ B.C/CD ./. show/NN over/IN stage/NN fright/NN
 |
-'Talking/VBG Eskimo/NNP '/POS wheat/NN board/NN video/NN sparks/VBZ controversy/NN
+'/POS Talking/VBG Eskimo/NNP '/POS wheat/NN board/NN video/NN sparks/VBZ controversy/NN
 |
 VIDEO/NN :/: What/WP happens/VBZ when/WRB billions/NNS in/IN debt/NN payments/NNS are/VBP due/JJ ?/.
 |
 Toronto/NNP air/NN travellers/NNS face/NN long/JJ lines/NNS at/IN Pearson/NNP
 |
-Italy/RB tallies/NNS damage/NN from/IN 'Occupy/NN '/POS violence/NN
+Italy/RB tallies/NNS damage/NN from/IN '/POS Occupy/VB '/POS violence/NN
 |
 Norman/NNP Jewison/NN series/NNS fetes/NNS storied/JJ film/NN career/NN
 |
 Djokovic/NN stuns/NNS Federer/NN in/IN semifinal/JJ thriller/NN
 |
-Paxton's/NNS alleged/VBN victim/NN on/IN stand/VB for/IN 3rd/NN day/NN
+Paxton/NNP '/POS s/PRP alleged/VBN victim/NN on/IN stand/VB for/IN 3rd/NN day/NN
 |
 Obama/NN praises/VBZ Gander/NNP for/IN kindness/NNS
 |
 No/DT jail/NN for/IN Alberta/NNP woman/NN convicted/VBN of/IN infanticide/NN
 |
-Share/NN your/SPRP condolences/NNS for/IN Jack/NNP Layton's/NNS family/RB ./.
+Share/NN your/SPRP condolences/NNS for/IN Jack/NNP Layton/NNP '/POS s/PRP family/RB ./.
 |
 Woman/NNP ,/, 61/NN ,/, begins/VBZ Havana-to-Florida/NN swim/VB
 |
 Canadian/JJ diver/NN Geyson/NN hit/VBD by/IN car/NN in/IN China/NNP
 |
-CLOSE-UP/NN :/: Read/NNP messages/NNS on/IN riot/NN 'peace/NN wall/NN '/POS
+CLOSE-UP/NN :/: Read/NNP messages/NNS on/IN riot/NN '/POS peace/NN wall/NN '/POS
 |
 MT/NN CBCAlerts/NNS :/: Obama/NN calls/VBZ top/JJ Democrats/NNPS in/IN House/NNP ,/, Senate/NNP to/TO White/NNP House/NNP ./.
 Mtg/NN comes/VBZ amid/IN crisis/NNS over/IN U.S/CD ./. debt/NN ceiling/VBG
@@ -1826,7 +1826,7 @@ Missing/JJ British/JJ newlyweds/NNS found/VBD safe/JJ in/IN B.C/CD ./.
 |
 Lee/NNP Majors/NNS dishes/NNS on/IN Six/CD Million/CD Dollar/NN Man/NN role/NN
 |
-ANALYSIS/NN |/NN Alison/NN Redford's/NNS win/VB ,/, and/CC the/DT new/JJ club/NN of/IN female/JJ premiers/NNS
+ANALYSIS/NN |/NN Alison/NN Redford/NNP '/POS s/PRP win/VB ,/, and/CC the/DT new/JJ club/NN of/IN female/JJ premiers/NNS
 |
 Replica/NN AK-47/NNP BB/NN guns/NNS allowed/VBN into/IN Canada/NNP
 |
@@ -1846,21 +1846,21 @@ Caribbean/NNP Airlines/NNPS plane/NN crashes/NNS in/IN Guyana/NNP
 New/NNP 9/NN
 11/NN audio/JJ tapes/NNS made/VBN public/JJ
 |
-Canada's/NNS security/NN :/: Cyber/NNP spying/VBG is/VBZ the/DT new/JJ face/NN of/IN espionage/NN ,/, and/CC the/DT threats/NNS are/VBP getting/VBG more/JJR diverse/JJ
+Canada/NNP '/POS s/PRP security/NN :/: Cyber/NNP spying/VBG is/VBZ the/DT new/JJ face/NN of/IN espionage/NN ,/, and/CC the/DT threats/NNS are/VBP getting/VBG more/JJR diverse/JJ
 |
 Home/NNP prices/NNS show/NN August/NNP increase/NN
 |
 Flaherty/NNP warns/VBZ of/IN risks/NNS to/TO Canadian/JJ economy/NN
 |
-CBCNews.ca/CD column/NN -/: Marshall/NNP McLuhan's/NNS legacy/NN :/: Don't/VB downplay/VB the/DT comic/JJ books/NNS ./.
+CBCNews.ca/CD column/NN -/: Marshall/NNP McLuhan/NNP '/POS s/PRP legacy/NN :/: Do/VBP n't/RB downplay/VB the/DT comic/JJ books/NNS ./.
 |
 Mogadishu/NNP bomb/NN blast/NN kills/VBZ at/IN least/JJS 70/NN
 |
-LIVE/VB CHAT/NN NOW/RB :/: Parliament's/NNS return/NN
+LIVE/VB CHAT/NN NOW/RB :/: Parliament/NNP '/POS s/PRP return/NN
 |
 DNA/NNP components/NNS made/VBN in/IN asteroids/NNS ,/, study/NN suggests/VBZ
 |
-VIDEO/NN :/: Dad/NNP blames/VBZ bullying/VBG on/IN son's/NNS suicide/NN
+VIDEO/NN :/: Dad/NNP blames/VBZ bullying/VBG on/IN son/NN '/POS s/PRP suicide/NN
 |
 Afghan/JJ suicide/NN attack/NN kills/VBZ 5/NN ,/, including/VBG UN/NNP staff/NN
 |
@@ -1872,7 +1872,7 @@ No/DT sign/NN of/IN B.C/CD ./. man/NN missing/VBG in/IN Nevada/NNP
 |
 Cougar/NNP attacks/NNS frighten/VB B.C/CD ./. village/NN
 |
-Copyright/NNP changes/NNS :/: how/WRB they'll/PRP|MD affect/VB users/NNS of/IN digital/JJ content/NN cbc.ca/CD news/NNS canada/NN st/NN
+Copyright/NNP changes/NNS :/: how/WRB they/TPRP '/POS ll/NN affect/VB users/NNS of/IN digital/JJ content/NN cbc.ca/CD news/NNS canada/NN st/NN
 |
 Antibiotic/NN resistance/NN found/VBD in/IN ancient/JJ bacteria/NNS
 |
@@ -1894,14 +1894,14 @@ Swissair/NNP lead/VB investigator/NN rejects/VBZ crash/NN theory/NN
 |
 Conrad/NNP Black/NNP back/RB in/IN jail/NN by/IN Sept/NNP ./. 6/NN :/: report/NN
 |
-Mom/NN on/IN trial/JJ for/IN putting/VBG hot/JJ sauce/NN in/IN child's/NNS mouth/NN
+Mom/NN on/IN trial/JJ for/IN putting/VBG hot/JJ sauce/NN in/IN child/NN '/POS s/PRP mouth/NN
 |
 Climate/NNP change/NN could/MD cost/NN billions/NNS a/DT year/NN by/IN 2020/NN
 |
 NDP/NN leadership/NN race/NN overshadows/VBZ policy/NN
 |
 Digital/JJ divide/VB :/: DTV/NN switch/NN leaving/VBG some/DT in/IN dark/JJ ./.
-Bumps/NNS on/IN Canada's/NNS road/NN to/TO digital/JJ television/NN ./.
+Bumps/NNS on/IN Canada/NNP '/POS s/PRP road/NN to/TO digital/JJ television/NN ./.
 |
 Storm/NN kills/VBZ 3/NN ,/, injures/VBZ dozens/NNS at/IN Belgian/JJ music/NN fest/NN
 |
@@ -1915,13 +1915,13 @@ Tributes/NNS pour/VB in/IN for/IN Steve/NNP Jobs/NNP
 |
 Toronto/NNP Zoo/NNP elephants/NNS to/TO be/VB sent/VBD to/TO sanctuary/NN
 |
-Calvillo/NN passes/VBZ Allen/NNP as/IN pro/FW football's/NNS passing/VBG leader/NN
+Calvillo/NN passes/VBZ Allen/NNP as/IN pro/FW football/NN '/POS s/PRP passing/VBG leader/NN
 |
 U.S/CD ./. reviving/VBG $/$ 5.50/CD tariff/NN on/IN Canadian/JJ travellers/NNS
 |
 Greek/NNP finance/NN minister/NN says/VBZ more/JJR austerity/NN needed/VBN
 |
-Pope/NNP laments/VBZ 'amnesia/NN '/POS about/IN God/NNP
+Pope/NNP laments/VBZ '/POS amnesia/NN '/POS about/IN God/NNP
 |
 TSX/NN dips/NNS under/IN 13,000/NN on/IN U.S/CD ./. debt/NN fears/NNS
 |
@@ -1931,7 +1931,7 @@ Gatineau/NN holds/VBZ vigil/NN for/IN student/NN burned/VBN in/IN woods/NNS
 |
 Angry/JJ Londoners/NNS ,/, and/CC even/RB the/DT police/NN ,/, are/VBP crowd-sourcing/VBG the/DT identification/NN of/IN looters/NNS in/IN londonriots/NNS :/:
 |
-Putin/NN more/JJR popular/JJ ,/, Russia's/NNS Medvedev/NNP says/VBZ
+Putin/NN more/JJR popular/JJ ,/, Russia/NNP '/POS s/PRP Medvedev/NNP says/VBZ
 |
 Commonwealth/NNP report/NN urges/VBZ repeal/JJ of/IN anti-gay/JJ laws/NNS
 |
@@ -1939,18 +1939,18 @@ Hacking/VBG probe/NN leads/VBZ to/TO FBI/NNP raids/NNS in/IN N.Y/CD .,/CD L.A/CD
 |
 Thousands/NNS to/TO attend/VB funeral/JJ for/IN Rangers/NNPS fan/NN
 |
-Gallery/NNP :/: Inside/IN Kenya's/NNS refugee/NN camps/NNS
+Gallery/NNP :/: Inside/IN Kenya/NNP '/POS s/PRP refugee/NN camps/NNS
 |
-Flaherty/NNP :/: more/JJR spending/VBG 'wrong/NN direction/NN to/TO go/VB '/POS on/IN economy/NN ./.
-Ottawa/NNP to/TO act/NN 'pragmatically/RB '/POS if/IN U.S/CD ./. economy/NN gets/VBZ worse/JJR ./.
+Flaherty/NNP :/: more/JJR spending/VBG '/POS wrong/JJ direction/NN to/TO go/VB '/POS on/IN economy/NN ./.
+Ottawa/NNP to/TO act/NN '/POS pragmatically/RB '/POS if/IN U.S/CD ./. economy/NN gets/VBZ worse/JJR ./.
 |
 Japan/NNP PM/NNP feared/VBD nuclear/JJ disaster/NN worse/JJR than/IN Chornobyl/NN
 |
-Google/NN snaps/VBZ up/IN Motorola/NNP Mobility/NN for/IN $/$ 12.5B/CD US/FPRP
+Google/NN snaps/VBZ up/IN Motorola/NNP Mobility/NN for/IN $/$ 12.5/CD B/NNP US/FPRP
 |
 Ottawa/NNP threatens/VBZ to/TO withdraw/VB RCMP/NN service/NN in/IN B.C/CD ./.
 |
-Diamond/NNP heist/NN nets/NNS L.A/CD ./. thieves/NNS $/$ 2M/NN
+Diamond/NNP heist/NN nets/NNS L.A/CD ./. thieves/NNS $2M/NN
 |
 Divers/NNP find/VB Northwest/NNP Passage/NN discovery/NN artifacts/NNS
 |
@@ -1970,7 +1970,7 @@ Smelly/RB socks/NNS could/MD help/VB fight/NN malaria/NN
 |
 S&P/NNP credit/NN downgrade/NN blasted/VBD by/IN U.S/CD ./. officials/NNS
 |
-Trial/JJ of/IN Michael/NNP Jackson's/NNS doctor/NN enters/VBZ 2nd/NN week/NN
+Trial/JJ of/IN Michael/NNP Jackson/NNP '/POS s/PRP doctor/NN enters/VBZ 2nd/NN week/NN
 |
 Blue/NNP Jackets/NNS '/POS Wisniewski/NN gets/VBZ 11-game/NN ban/NN
 |
@@ -1978,7 +1978,7 @@ Markets/NNPS brace/NN for/IN more/JJR volatility/NN
 |
 LIVE/VB :/: Canadians/NNPS urged/VBD to/TO donate/VB to/TO East/NNP Africa/NNP famine/NN fund/NN
 |
-Michael/NNP Jackson's/NNS bedroom/NN to/TO be/VB focus/NNS of/IN trial/JJ testimony/NN
+Michael/NNP Jackson/NNP '/POS s/PRP bedroom/NN to/TO be/VB focus/NNS of/IN trial/JJ testimony/NN
 |
 Joe/NNP Schlesinger/NNP :/: Breivik/NN ,/, Quisling/VBG and/CC the/DT Norwegian/JJ spirit/NN
 |
@@ -1996,19 +1996,19 @@ Obama/NN calls/VBZ on/IN Congress/NNP to/TO act/NN on/IN jobs/NNS bill/NN
 |
 PHOTOS/NNS :/: Coyote/NN checks/NNS out/IN MRU/NN campus/NNS
 |
-China's/NNS ex-president/NN quashes/NNS death/NN rumours/NNS
+China/NNP '/POS s/PRP ex-president/NN quashes/NNS death/NN rumours/NNS
 |
 Feds/NNPS to/TO announce/VB job-creation/NN plan/NN
 |
-Student/NNP arrested/VBN ahead/RB of/IN Pope's/NNS World/NNP Youth/NNP Day/NNP visit/NN
+Student/NNP arrested/VBN ahead/RB of/IN Pope/NNP '/POS s/PRP World/NNP Youth/NNP Day/NNP visit/NN
 |
 ZOOM/VB :/: Read/NNP messages/NNS chalked/VBN on/IN Jack/NNP Layton/NNP memorial/JJ wall/NN
 |
-Parliament/NNP prepares/VBZ for/IN Layton's/NNS lying-in-state/NN
+Parliament/NNP prepares/VBZ for/IN Layton/NNP '/POS s/PRP lying-in-state/NN
 |
 Goran/NN Hadzic/NN pleads/VBZ not/RB guilty/JJ to/TO war/NN crimes/NNS
 |
-Six/CD months/NNS into/IN Japan's/NNS cleanup/NN ,/, radiation/NN a/DT major/JJ worry/VB
+Six/CD months/NNS into/IN Japan/NNP '/POS s/PRP cleanup/NN ,/, radiation/NN a/DT major/JJ worry/VB
 |
 PennyLoafer99/NN Thanks/NNS for/IN your/SPRP feedback/NN !/.
 |
@@ -2022,7 +2022,7 @@ Recession/NN made/VBN the/DT rich/JJ poorer/JJR in/IN Canada/NNP
 |
 Somalia/NNP food/NN aid/NN stolen/VBN ,/, sold/VBN in/IN markets/NNS
 |
-Texas/NNP Gov/NN ./. Perry/NNP doubts/NNS Obama's/NNS birth/NN certificate/NN
+Texas/NNP Gov/NN ./. Perry/NNP doubts/NNS Obama/NN '/POS s/PRP birth/NN certificate/NN
 |
 StatsCan/NN tightens/VBZ early/RB data/NNS release/NN rules/NNS
 |
@@ -2048,8 +2048,8 @@ Lindhout/NN returns/NNS to/TO Africa/NNP after/IN kidnapping/VBG
 |
 Texas/NNP wildfire/NN destroyed/VBN almost/RB 1,600/NN homes/NNS
 |
-Have/VBP you/SPRP seen/VBN Hermain/NN Cain's/NNS new/JJ campaign/NN ad/NN ?/.
-We'd/NN love/NN to/TO hear/VB your/SPRP impressions/NNS :/:
+Have/VBP you/SPRP seen/VBN Hermain/NN Cain/NNP '/POS s/PRP new/JJ campaign/NN ad/NN ?/.
+We/FPRP '/POS d/FW love/NN to/TO hear/VB your/SPRP impressions/NNS :/:
 |
 Strauss-Kahn/NN denies/VBZ violence/NN in/IN sexual/JJ encounter/NN
 |
@@ -2063,5 +2063,5 @@ Crown/NNP prosecutor/NN attacked/VBN outside/IN Prince/NNP George/NNP courthouse
 |
 Helena/NNP Guergis/NNS broke/VBD ethics/NNS rules/NNS ,/, watchdog/NN says/VBZ
 |
-Victim/NN sues/VBZ Russell/NNP Williams/NNP ,/, Ontario/NNP police/NN for/IN $/$ 7M/NN
+Victim/NN sues/VBZ Russell/NNP Williams/NNP ,/, Ontario/NNP police/NN for/IN $7M/NN
 |

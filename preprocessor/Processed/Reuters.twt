@@ -8,9 +8,9 @@ Qantas/NNP to/TO resume/VB flights/NNS after/IN government/NN intervenes/VBZ in/
 |
 7.1/CD magnitude/NN quake/NN strikes/NNS off/IN Alaska/NNP
 |
-Widespread/JJ power/NN outage/NN halts/NNS Chile's/NNS Codelco/NN El/NNP Teniente/NNP mine/NN operations/NNS
+Widespread/JJ power/NN outage/NN halts/NNS Chile/NNP '/POS s/PRP Codelco/NN El/NNP Teniente/NNP mine/NN operations/NNS
 |
-Obama's/NNS approval/JJ rating/VBG on/IN economy/NN hits/NNS new/JJ low/JJ after/IN a/DT bruising/JJ fight/NN with/IN Congress/NNP over/IN spending/VBG
+Obama/NN '/POS s/PRP approval/JJ rating/VBG on/IN economy/NN hits/NNS new/JJ low/JJ after/IN a/DT bruising/JJ fight/NN with/IN Congress/NNP over/IN spending/VBG
 |
 James/NNP Murdoch/NNP recalled/VBD to/TO UK/NNP parliament/NN over/IN hacking/JJ
 |
@@ -31,7 +31,7 @@ FLASH/NN :/: Gaddafi/NN son/NN Khamis/NNS leading/VBG forces/NNS towards/IN cent
 |
 Bank/NNP of/IN America/NNP scaling/VBG back/RB debit/NN card/NN fees/NNS
 |
-Saudi/NNP Arabia's/NNS water/NN needs/VBZ eating/VBG into/IN oil/NN wealth/NN
+Saudi/NNP Arabia/NNP '/POS s/PRP water/NN needs/VBZ eating/VBG into/IN oil/NN wealth/NN
 |
 Three/CD Afghans/NNPS killed/VBN in/IN Kandahar/NNP city/NN suicide/NN attack/NN
 |
@@ -39,7 +39,7 @@ World/NNP renowned/JJ computer/NN hacker/NN KevinMitnick/NN shows/VBZ us/FPRP ho
 |
 Russian/NNP Finance/NNP Minister/NNP Kudrin/NN ousted/VBN
 |
-Venezuela/NNP blocks/NNS Chavez/NNP rival's/NNS presidential/JJ bid/NN
+Venezuela/NNP blocks/NNS Chavez/NNP rival/JJ '/POS s/PRP presidential/JJ bid/NN
 |
 Libyan/JJ PM/NNP says/VBZ Gaddafi/NN died/VBD a/DT few/JJ minutes/NNS before/IN reaching/VBG hospital/JJ
 |
@@ -64,7 +64,7 @@ FLASH/NN :/: New/NNP York/NNP Metro-North/NN Railroad/NNP says/VBZ shutdown/NN f
 |
 Latest/JJS update/VB from/IN Sirte/NN on/IN death/NN of/IN Gaddafi/NN
 |
-Sony's/NNS tablets/NNS may/MD be/VB a/DT tough/JJ sell/VB with/IN price/NN tag/NN
+Sony/NNP '/POS s/PRP tablets/NNS may/MD be/VB a/DT tough/JJ sell/VB with/IN price/NN tag/NN
 |
 Abbas/NNP says/VBZ Palestine/NNP wants/VBZ recognition/NN as/IN state/NN on1967/NN lines/NNS so/SLANG it/TPRP can/MD return/NN to/TO peace/NN talks/NNS with/IN Israel/NNP ,/, will/MD ask/VB for/IN full/JJ UN/NNP membership/NN
 |
@@ -72,23 +72,23 @@ Video/NNP :/: Libyan/JJ spy/NN chief/JJ captured/VBN
 |
 Glum/JJ Fed/VBN considered/VBN even/RB bolder/JJR action/NN in/IN August/NNP
 |
-FLASH/NN :/: Niger/NNP says/VBZ Gaddafi's/NNS son/NN ,/, Saadi/NNP ,/, has/VBZ not/RB been/VBN detained/VBN ,/, is/VBZ under/IN surveillance/NN
+FLASH/NN :/: Niger/NNP says/VBZ Gaddafi/NN '/POS s/PRP son/NN ,/, Saadi/NNP ,/, has/VBZ not/RB been/VBN detained/VBN ,/, is/VBZ under/IN surveillance/NN
 |
 Italy/RB govt/NN wins/VBZ confidence/NN vote/NN on/IN austerity/NN plan/NN in.reuters.com/CD article/NN
 2011/NN
 |
 Russia/NNP says/VBZ close/VB to/TO final/JJ stage/NN on/IN China/NNP gas/NNS deal/JJ
 |
-Nearly/RB 75/NN percent/NN of/IN adults/NNS charged/VBN in/IN last/JJ month's/NNS riots/NNS in/IN England/NNP were/VBD known/VBN criminals/NNS
+Nearly/RB 75/NN percent/NN of/IN adults/NNS charged/VBN in/IN last/JJ month/NN '/POS s/PRP riots/NNS in/IN England/NNP were/VBD known/VBN criminals/NNS
 |
 Bachmann/NNP campaign/NN manager/NN ,/, deputy/NN stepping/VBG down/RB reuters.com/CD article/NN
 2011/NN
 |
 Obama/NN to/TO urge/VB approval/JJ of/IN stop-gap/JJ air/NN ,/, road/NN bills/NNS
 |
-FLASH/NN :/: Autopsy/NN completed/VBN on/IN Muammar/NNP Gaddafi's/NNS body/NN -/: source/NN involved/VBN in/IN autopsy/NN tells/VBZ Reuters/NNP
+FLASH/NN :/: Autopsy/NN completed/VBN on/IN Muammar/NNP Gaddafi/NN '/POS s/PRP body/NN -/: source/NN involved/VBN in/IN autopsy/NN tells/VBZ Reuters/NNP
 |
-Chile's/NNS capital/JJ Santiago/NNP hit/VBD with/IN widespread/JJ power/NN outage/NN
+Chile/NNP '/POS s/PRP capital/JJ Santiago/NNP hit/VBD with/IN widespread/JJ power/NN outage/NN
 |
 Europe/NNP flounders/VBZ ,/, Russia/NNP ready/JJ for/IN new/JJ crisis/NNS :/: Putin/NN
 |
@@ -99,14 +99,14 @@ NATO/NNP says/VBZ to/TO coordinate/VB end/NN to/TO Libya/NNP mission/NN with/IN 
 FLASH/NN :/: Palestinian/JJ President/NNP Abbas/NNP meets/VBZ U.N/CD ./.
 Secretary/NNP General/JJ Ban/NN Ki-Moon/NN to/TO submit/VB statehood/NN application/NN
 |
-Samsung's/NNS big/JJ idea/NN ?/.
+Samsung/NNP '/POS s/PRP big/JJ idea/NN ?/.
 Upsetting/VBG the/DT Apple/NNP cart/NN
 |
 Latest/JJS from/IN the/DT National/JJ Weather/NNP Service/NNP on/IN Hurricane/NNP Irene/NNP
 |
 Apple/NNP to/TO showcase/NN new/JJ iPhone/NN after/IN 15-month/NN hiatus/NNS
 |
-FLASH/NN :/: Fitch/NNP says/VBZ 'AAA/NN '/POS rating/VBG of/IN U.S/CD ./. reflects/VBZ pivotal/JJ role/NN in/IN global/JJ financial/JJ system/NN ;/: flexible/JJ ,/, diversified/JJ and/CC wealthy/JJ economy/NN
+FLASH/NN :/: Fitch/NNP says/VBZ '/POS AAA/NNP '/POS rating/VBG of/IN U.S/CD ./. reflects/VBZ pivotal/JJ role/NN in/IN global/JJ financial/JJ system/NN ;/: flexible/JJ ,/, diversified/JJ and/CC wealthy/JJ economy/NN
 |
 U.S/CD ./.
 Justice/NNP Department/NNP probing/VBG Chinese/JJ accounting/VBG scandal/JJ
@@ -131,9 +131,9 @@ Japanese/JJ economy/NN shrinks/VBZ less/JJR than/IN forecast/NN
 |
 Newsmaker/NN :/: From/IN race/NN to/TO politics/NNS ,/, Herman/NNP Cain/NNP is/VBZ true/JJ outsider/NN
 |
-Libyan/JJ rebels/NNS launch/VB assault/NN on/IN Zawiyah's/NNS oil/NN refinery/NN
+Libyan/JJ rebels/NNS launch/VB assault/NN on/IN Zawiyah/NN '/POS s/PRP oil/NN refinery/NN
 |
-Iran/NNP judiciary/NN denies/VBZ U.S/CD ./. men's/NNS release/NN is/VBZ imminent/JJ
+Iran/NNP judiciary/NN denies/VBZ U.S/CD ./. men/NNS '/POS s/PRP release/NN is/VBZ imminent/JJ
 |
 New/NNP from/IN FelixSalmon/NN at/IN ReutersOpinion/NN :/: On/IN George/NNP Soros/NNP ,/, OccupyWallStreet/NN ,/, and/CC Reuters/NNP
 |
@@ -145,9 +145,9 @@ Rajaratnam/NN sentenced/VBN to/TO 11/NN years/NNS in/IN prison/NN
 |
 New/NNP ReutersOpinion/NN from/IN JackShafer/NN :/: Politicos/NNS rush/NN to/TO cane/NN Herman/NNP Cain/NNP
 |
-Timeline/NN :/: Libya's/NNS uprising/VBG against/IN Muammar/NNP Gaddafi/NN
+Timeline/NN :/: Libya/NNP '/POS s/PRP uprising/VBG against/IN Muammar/NNP Gaddafi/NN
 |
-Analysis/NNP :/: Fragile/NNP economy/NN to/TO dodge/VBP Hurricane/NNP Irene's/NNS punch/NN
+Analysis/NNP :/: Fragile/NNP economy/NN to/TO dodge/VBP Hurricane/NNP Irene/NNP '/POS s/PRP punch/NN
 |
 New/NNP ReutersOpinion/NN :/: Facebook/NN makes/VBZ us/FPRP embrace/VB creepy/JJ ,/, by/IN kpkelleher/NN
 |
@@ -161,7 +161,7 @@ Greek/NNP gloom/NN rocks/NNS markets/NNS ,/, troubles/NNS lenders/NNS
 |
 French/JJ credit/NN review/NN threatens/VBZ euro/NN zone/NN rescues/NNS
 |
-U.S/CD ./. civilian/JJ surge/NN to/TO Afghanistan/NNP cost/NN $/$ 2/NN billion/CD :/: report/NN
+U.S/CD ./. civilian/JJ surge/NN to/TO Afghanistan/NNP cost/NN $2/NN billion/CD :/: report/NN
 |
 Gold/NNP climbs/VBZ to/TO record/NN above/IN $/$ 1,910/NN on/IN growth/NN fears/NNS
 |
@@ -185,9 +185,9 @@ Follow/VB our/FPRP Reuters/NNP reporters/NNS tweeting/VBG Hurricane/NNP Irene/NN
 |
 Exclusive/JJ :/: CFTC/NNP takes/VBZ wait-and-see/JJ approach/NN on/IN Volcker/NNP rule/NN
 |
-Apple/NNP may/MD invest/VB $/$ 1/NN billion/CD in/IN Sharp/NNP LCD/NN plant/NN :/: MF/NNP Global/JJ
+Apple/NNP may/MD invest/VB $1/NN billion/CD in/IN Sharp/NNP LCD/NN plant/NN :/: MF/NNP Global/JJ
 |
-Brazil's/NNS $/$ 12/NN billion/CD iPad/NN deal/JJ is/VBZ in/IN trouble/NN :/: sources/NNS
+Brazil/NNP '/POS s/PRP $/$ 12/NN billion/CD iPad/NN deal/JJ is/VBZ in/IN trouble/NN :/: sources/NNS
 |
 FLASH/NN :/: Magnitude/NN 6.1/CD quake/NN hits/NNS southeastern/JJ Turkey/NNP ,/, 6km/NN from/IN city/NN of/IN Van/NNP :/: USGS/NN
 |
@@ -207,7 +207,7 @@ FLASH/NN :/: U.S/CD ./. aviation/NN authorities/NNS evacuate/VB control/NN tower
 |
 Republican/NNP debates/NNS :/: this/DT time/NN ,/, TV/NN jousts/NNS matter/NN
 |
-UBS/NNP rogue/JJ trader/NN loses/VBZ $/$ 2/NN billion/CD
+UBS/NNP rogue/JJ trader/NN loses/VBZ $2/NN billion/CD
 |
 Egypt/NNP summons/NNS Israeli/JJ ambassador/NN in/IN Cairo/NNP ,/, demands/NNS probe/NN into/IN killings/NNS of/IN Egyptian/JJ security/NN at/IN border/NN -/: State/NNP TV/NN
 |
@@ -220,7 +220,7 @@ RT/NN ReutersUS/NN Arizona/NNP Air/NNP Force/NNP Base/NNP locked/VBN down/RB ove
 Hurricane/NNP Irene/NNP downgraded/VBD to/TO a/DT category/NN 1/NN ,/, with/IN sustained/VBN winds/NNS of/IN 90/NN mph/NN ./.
 Latest/JJS updates/NNS on/IN our/FPRP live/VB blog/NN :/:
 |
-Regulators/NNS raid/NN Google's/NNS South/NNP Korea/NNP office/NN soup.ps/CD
+Regulators/NNS raid/NN Google/NN '/POS s/PRP South/NNP Korea/NNP office/NN soup.ps/CD
 qQgVjZ/NN
 |
 Sarkozy/NN says/VBZ euro/NN zone/NN talks/NNS stuck/VBN ,/, flies/VBZ to/TO Germany/NNP
@@ -229,7 +229,7 @@ FLASH/NN :/: Nokia/NNP launches/VBZ the/DT Nokia/NNP 101/NN and/CC Nokia/NNP 100
 |
 FLASH/NN :/: White/NNP House/NNP sends/VBZ jobs/NNS plan/NN legislation/NN to/TO Capitol/NNP Hill/NNP
 |
-Belgium/NNP says/VBZ to/TO buy/VB Dexia's/NNS Belgian/JJ unit/NN for/IN $/$ 5.4/CD billion/CD
+Belgium/NNP says/VBZ to/TO buy/VB Dexia/NN '/POS s/PRP Belgian/JJ unit/NN for/IN $/$ 5.4/CD billion/CD
 |
 Particles/NNS recorded/VBN moving/VBG faster/RBR than/IN light/NN :/: CERN/NN
 |
@@ -240,7 +240,7 @@ Facebook/NN to/TO delay/NN IPO/NNP until/IN late/JJ 2012/NN :/: report/NN
 Obama/NN gets/VBZ slight/JJ boost/VB from/IN jobs/NNS speech/NN :/: Reuters/NNP
 Ipsos/NNS poll/NN
 |
-Insight/NNP :/: Murdoch's/NNS tough/JJ guy/NN Carlucci/NNP under/IN pressure/NN
+Insight/NNP :/: Murdoch/NNP '/POS s/PRP tough/JJ guy/NN Carlucci/NNP under/IN pressure/NN
 |
 House/NNP Democrats/NNPS eye/NN super/JJ committee/NN tax/NN options/NNS
 |
@@ -258,7 +258,7 @@ FLASH/NN :/: NY/NN judge/NN dismisses/VBZ request/NN for/IN a/DT special/JJ pros
 |
 Libya/NNP declares/VBZ "/" liberation/NN "/" amid/IN fears/NNS of/IN unrest/NN
 |
-FLASH/NN :/: 32/NN people/NNS close/VB to/TO Libya's/NNS Muammar/NNP Gaddafi/NN fled/VBD to/TO Niger/NNP in/IN 10/NN days/NNS -/: Al/NNP Arabiya/NN TV/NN citing/VBG NIger/NN govt/NN
+FLASH/NN :/: 32/NN people/NNS close/VB to/TO Libya/NNP '/POS s/PRP Muammar/NNP Gaddafi/NN fled/VBD to/TO Niger/NNP in/IN 10/NN days/NNS -/: Al/NNP Arabiya/NN TV/NN citing/VBG NIger/NN govt/NN
 |
 Syrian/JJ forces/NNS kill/VB eight/CD near/IN Homs/NNS :/: activists/NNS
 |
@@ -274,7 +274,7 @@ FLASH/NN :/: Mayor/NNP Bloomberg/NNP takes/VBZ the/DT stand/NN in/IN trial/JJ of
 |
 Nine/CD killed/VBN at/IN Nevada/NNP air/NN race/NN crash/NN :/: authorities/NNS
 |
-Syrian/JJ forces/NNS raid/NN town/NN ,/, Assad's/NNS foes/NNS unite/VB
+Syrian/JJ forces/NNS raid/NN town/NN ,/, Assad/NNP '/POS s/PRP foes/NNS unite/VB
 |
 FLASH/NN :/: U.S/CD ./.
 National/JJ Hurricane/NNP Center/NNP says/VBZ tropical/JJ storm/NN warning/VBG for/IN the/DT East/NNP Coast/NNP of/IN the/DT United/VBN States/NNPS has/VBZ been/VBN discontinued/VBN -/: NHC/NN
@@ -307,14 +307,14 @@ Yahoo/NN CEO/NNP Bartz/NN says/VBZ fired/VBN over/IN phone/NN :/: source/NN
 |
 Analysis/NNP :/: Russia/NNP still/RB lags/VBZ on/IN democracy/NN 20/NN years/NNS after/IN coup/NN
 |
-Analysis/NNP :/: Why/WRB would/MD anyone/VB want/VBP to/TO be/VB Yahoo's/NNS CEO/NNP ?/.
+Analysis/NNP :/: Why/WRB would/MD anyone/VB want/VBP to/TO be/VB Yahoo/NN '/POS s/PRP CEO/NNP ?/.
 |/NN Reuters/NNP
 |
 Google/NN Said/VBD to/TO Reach/NNP $/$ 500/NN Million/CD Settlement/NN With/IN Government/NNP via/IN NYTimes/NNS
 |
 Germany/NNP ,/, France/NNP split/NN on/IN bank/NN aid/NN before/IN summit/NN
 |
-FLASH/NN :/: Awlaki/NN was/VBD "/" chief/JJ of/IN external/JJ operations/NNS "/" for/IN Qaeda's/NNS Yemen/NNP branch/NN ,/, planned/VBN and/CC directed/VBN attacks/NNS on/IN U.S/CD ./. interests/NNS -/: U.S/CD ./. official/JJ
+FLASH/NN :/: Awlaki/NN was/VBD "/" chief/JJ of/IN external/JJ operations/NNS "/" for/IN Qaeda/NN '/POS s/PRP Yemen/NNP branch/NN ,/, planned/VBN and/CC directed/VBN attacks/NNS on/IN U.S/CD ./. interests/NNS -/: U.S/CD ./. official/JJ
 |
 U.S/CD ./. should/MD focus/NNS on/IN Afghanistan/NNP ,/, not/RB Pakistan/NNP -/: army/NN chief/JJ
 |
@@ -322,11 +322,11 @@ Alleged/JJ Iran/NNP plot/NN may/MD have/VBP violated/VBD U.N/CD ./. treaty/NN
 |
 Wall/NNP Street/NNP on/IN track/NN for/IN worst/JJS quarter/NN in/IN 3/NN years/NNS
 |
-Egyptian/JJ foreign/JJ minister/NN says/VBZ recognizes/VBZ Libya's/NNS National/JJ Transitional/JJ Council/NNP -/: State/NNP TV/NN
+Egyptian/JJ foreign/JJ minister/NN says/VBZ recognizes/VBZ Libya/NNP '/POS s/PRP National/JJ Transitional/JJ Council/NNP -/: State/NNP TV/NN
 |
 Egypt/NNP begins/VBZ trial/JJ over/IN February/NNP protest/NN camel/NN charge/NN
 |
-FLASH/NN :/: Obama/NN condems/NNS brutality/NN in/IN Syria/NNP ,/, says/VBZ violations/NNS of/IN rights/NNS of/IN Syrians/NNPS reveal/VB Assad/NNP govt's/NNS "/" flagrant/JJ disrespect/NN "/" for/IN Syrians/NNPS '/POS dignity/NN
+FLASH/NN :/: Obama/NN condems/NNS brutality/NN in/IN Syria/NNP ,/, says/VBZ violations/NNS of/IN rights/NNS of/IN Syrians/NNPS reveal/VB Assad/NNP govt/NN '/POS s/PRP "/" flagrant/JJ disrespect/NN "/" for/IN Syrians/NNPS '/POS dignity/NN
 |
 Wall/NNP Street/NNP posts/NNS first/JJ two-week/JJ surge/NN since/IN July/RB
 |
@@ -343,15 +343,15 @@ Twitter/NN now/RB has/VBZ 100/NN million/CD active/JJ users/NNS
 |
 Senate/NNP panel/NN approves/VBZ long-delayed/JJ trade/NN deals/NNS with/IN South/NNP Korea/NNP ,/, Colombia/NNP and/CC Panama/NNP
 |
-Bankruptcy/NNP casts/VBZ doubt/NN on/IN Corzine's/NNS severance/NN deal/JJ
+Bankruptcy/NNP casts/VBZ doubt/NN on/IN Corzine/NNP '/POS s/PRP severance/NN deal/JJ
 |
-Video/NNP :/: Should/MD Guardian/NNP journalists/NNS reveal/VB their/TPRP sources/NNS ?/. sirharryevans/NNS talks/NNS to/TO The/DT Guardian's/NNS Geoffrey/NNP Robertson/NNP
+Video/NNP :/: Should/MD Guardian/NNP journalists/NNS reveal/VB their/TPRP sources/NNS ?/. sirharryevans/NNS talks/NNS to/TO The/DT Guardian/NNP '/POS s/PRP Geoffrey/NNP Robertson/NNP
 |
 Latest/JJS update/VB :/: Earthquake/NN rattles/VBZ East/NNP Coast/NNP ,/, no/DT deaths/NNS
 |
 UBS/NNP starts/VBZ probe/NN into/IN $/$ 2.3/CD billion/CD rogue/JJ trade/NN loss/NNS
 |
-Senior/JJ policeman/NN targeted/VBN in/IN car/NN bomb/NN attack/NN in/IN Pakistan's/NNS Karachi/NN
+Senior/JJ policeman/NN targeted/VBN in/IN car/NN bomb/NN attack/NN in/IN Pakistan/NNP '/POS s/PRP Karachi/NN
 |
 FLASH/NN :/: U.S/CD ./.
 Coast/NNP Guard/NNP says/VBZ New/NNP York/NNP Harbor/NNP open/JJ with/IN some/DT restrictions/NNS as/IN Hurricane/NNP Irene/NNP hits/NNS East/NNP Coast/NNP
@@ -385,7 +385,7 @@ Mark/NNP Cuban/JJ charges/NNS against/IN SEC/NNP unfounded/JJ :/: source/NN
 |
 Wall/NNP St/NNP tumbles/VBZ after/IN data/NNS shows/VBZ no/DT jobs/NNS growth/NN
 |
-Love/NNP him/TPRP or/CC hate/VBP him/TPRP ,/, Groupon's/NNS Mason/NNP makes/VBZ a/DT splash/NN ,/, write/VB edwininla/NN and/CC rtrswalibarr/NN
+Love/NNP him/TPRP or/CC hate/VBP him/TPRP ,/, Groupon/NN '/POS s/PRP Mason/NNP makes/VBZ a/DT splash/NN ,/, write/VB edwininla/NN and/CC rtrswalibarr/NN
 |
 Greece/NNP braces/NNS for/IN more/JJR austerity/NN to/TO avert/VB default/NN
 |
@@ -393,7 +393,7 @@ World/NNP bank/NN to/TO invest/VB in/IN new/JJ hedge/VB fund/NN
 |
 Confirmed/VBD IndyCar/NN Dan/NNP Wheldon/NN has/VBZ died/VBD from/IN injuries/NNS sustained/VBN in/IN Las/NNP Vegas/NNP crash/NN
 |
-Al/NNP Qaeda/NN No/DT 2's/NNS death/NN not/RB yet/RB confirmed/VBD :/: Pakistan/NNP
+Al/NNP Qaeda/NN No/DT 2/NN '/POS s/PRP death/NN not/RB yet/RB confirmed/VBD :/: Pakistan/NNP
 |
 Not/RB subtly/RB ,/, Obama/NN campaign/NN prepares/VBZ for/IN Romney/NN race/NN
 |
@@ -417,11 +417,11 @@ Biden/NNP :/: Wall/NNP St/NNP protests/NNS show/NN Americans/NNPS are/VBP angry/
 |
 Sony/NNP says/VBZ to/TO recall/VB 1.6/CD million/CD LCD/NN TVs/NNS globally/RB
 |
-Analysis/NNP :/: Libya's/NNS NTC/NNP struggles/NNS to/TO stay/VB the/DT "/" good/JJ guys/NNS "/"
+Analysis/NNP :/: Libya/NNP '/POS s/PRP NTC/NNP struggles/NNS to/TO stay/VB the/DT "/" good/JJ guys/NNS "/"
 |
 FLASH/NN :/: Magnitude/NN 4.2/CD earthquake/NN shakes/VBZ San/NNP Francisco/NNP Bay/NNP Area/NNP -/: USGS/NN
 |
-Moody's/NNS cut/VB Italy/RB ratings/NNS by/IN 3/NN notches/NNS
+Moody/NNP '/POS s/PRP cut/VB Italy/RB ratings/NNS by/IN 3/NN notches/NNS
 |
 Pakistan/NNP Taliban/NN considers/VBZ peace/NN talks/NNS :/: report/NN
 |
@@ -439,13 +439,13 @@ In/IN home/NN of/IN Arab/NNP Spring/VBG ,/, a/DT desire/NN for/IN more/JJR
 |
 FLASH/NN :/: Fed/VBN says/VBZ intends/VBZ to/TO buy/VB by/IN end/NN of/IN June/NNP 2012/NN $/$ 400/NN billion/CD of/IN treasuries/NNS in/IN 6-to-30/NN year/NN range/NN
 |
-U.S/CD ./. has/VBZ not/RB ceded/VBD sovereignty/NN to/TO China/NNP ,/, says/VBZ Heritage's/NNS Derek/NNP Scissors/NNS :/:
+U.S/CD ./. has/VBZ not/RB ceded/VBD sovereignty/NN to/TO China/NNP ,/, says/VBZ Heritage/NNP '/POS s/PRP Derek/NNP Scissors/NNS :/:
 |
-Rebels/NNS and/CC Gaddafi/NN forces/NNS battle/NN at/IN Ras/NNS Ajdir/NN on/IN Libya's/NNS border/NN with/IN Tunisia/NNP -/: Al/NNP Jazeera/NN
+Rebels/NNS and/CC Gaddafi/NN forces/NNS battle/NN at/IN Ras/NNS Ajdir/NN on/IN Libya/NNP '/POS s/PRP border/NN with/IN Tunisia/NNP -/: Al/NNP Jazeera/NN
 |
-FLASH/NN :/: ICC/NNP prosecutor/NN says/VBZ Gaddafi's/NNS son/NN through/IN intermediaries/NNS maintains/VBZ innocence/NN
+FLASH/NN :/: ICC/NNP prosecutor/NN says/VBZ Gaddafi/NN '/POS s/PRP son/NN through/IN intermediaries/NNS maintains/VBZ innocence/NN
 |
-GE's/NNS Immelt/NN :/: Restoring/VBG confidence/NN key/JJ to/TO recovery/NN
+GE/NNP '/POS s/PRP Immelt/NN :/: Restoring/VBG confidence/NN key/JJ to/TO recovery/NN
 |
 Israel/NNP ,/, Hamas/NNS agree/VB prisoner/NN swap/NN to/TO free/JJ Shalit/NN
 |
@@ -463,11 +463,11 @@ Gaddafi/NN vows/VBZ to/TO fight/NN ,/, Libya/NNP conference/NN begins/VBZ
 |
 Turkey/NNP vows/VBZ to/TO take/VB legal/JJ action/NN against/IN Israel/NNP
 |
-Argentina's/NNS Kirchner/NN kept/VBD "/" alive/JJ "/" year/NN after/IN death/NN
+Argentina/NNP '/POS s/PRP Kirchner/NN kept/VBD "/" alive/JJ "/" year/NN after/IN death/NN
 |
 AT&T/NNP economic/JJ model/NN failed/VBD to/TO sway/VB antitrust/JJ chiefs/NNS
 |
-Somalia's/NNS al/JJ Shabaab/NN vows/VBZ huge/JJ blast/NN in/IN Kenya/NNP
+Somalia/NNP '/POS s/PRP al/JJ Shabaab/NN vows/VBZ huge/JJ blast/NN in/IN Kenya/NNP
 |
 Yahoo/NN "/" cross/VB talk/VB "/" ban/NN jolts/NNS bidders/NNS ,/, by/IN NadiaSpeaks/NNS
 |
@@ -484,20 +484,20 @@ World/NNP intrigued/VBN by/IN
 |
 Libya/NNP loyalist/NN TV/NN channel/NN Al-Orouba/NN broadcasting/VBG speech/NN by/IN Gaddafi/NN
 |
-Michael/NNP Jackson's/NNS doctor/NN on/IN trial/JJ in/IN singer's/NNS death/NN
+Michael/NNP Jackson/NNP '/POS s/PRP doctor/NN on/IN trial/JJ in/IN singer/NN '/POS s/PRP death/NN
 |
 U.S/CD ./.
 Postal/JJ Service/NNP plan/NN would/MD save/VB $/$ 20/NN billion/CD :/: White/NNP House/NNP
 |
-Video/NNP :/: Samsung/NNP launches/VBZ new/JJ smartphone/NN powered/VBN by/IN Google's/NNS latest/JJS Android/NN operating/VBG system/NN
+Video/NNP :/: Samsung/NNP launches/VBZ new/JJ smartphone/NN powered/VBN by/IN Google/NN '/POS s/PRP latest/JJS Android/NN operating/VBG system/NN
 |
-PIMCO's/NNS Gross/NNP says/VBZ U.S/CD ./. banks/NNS need/VBN further/JJ capitalization/NN
+PIMCO/NN '/POS s/PRP Gross/NNP says/VBZ U.S/CD ./. banks/NNS need/VBN further/JJ capitalization/NN
 |
 Gunman/NN fires/NNS at/IN U.S/CD ./. embassy/NN in/IN Sarajevo/NN :/: witness/NNS
 |
 Starbucks/NNS starts/VBZ fund/NN to/TO spur/VB U.S/CD ./. job/NN creation/NN
 |
-Libyan/JJ rebel/NN groups/NNS have/VBP surrounded/VBN Gaddafi's/NNS Bab/NN al-Aziziya/NN compound/NN in/IN Tripoli/NNP -/: Al/NNP Jazeera/NN correspondent/NN
+Libyan/JJ rebel/NN groups/NNS have/VBP surrounded/VBN Gaddafi/NN '/POS s/PRP Bab/NN al-Aziziya/NN compound/NN in/IN Tripoli/NNP -/: Al/NNP Jazeera/NN correspondent/NN
 |
 New/NNP ReutersOpinion/NN from/IN Bethany/NN McLean/NNP :/: Did/VBD accounting/VBG help/VB sink/VB Corzines/NNS MF/NNP Global/JJ ?/.
 |
@@ -505,7 +505,7 @@ FLASH/NN :/: Pakistan/NNP Prime/NNP Minister/NNP tells/VBZ political/JJ leaders/
 |
 Libya/NNP government/NN forces/NNS corner/NN Gaddafi/NN loyalists/NNS in/IN Sirte/NN
 |
-Analysis/NNP :/: Happy/NNP talk/VB doesn't/NN mean/VB compromise/NN in/IN Congress/NNP
+Analysis/NNP :/: Happy/NNP talk/VB does/VBZ n't/RB mean/VB compromise/NN in/IN Congress/NNP
 |
 Italy/RB keeps/VBZ EU/NN waiting/VBG on/IN eve/NN of/IN crucial/JJ summit/NN
 |
@@ -527,7 +527,7 @@ Fed/VBN prepared/VBN to/TO use/NN tools/NNS to/TO spur/VB growth/NN :/: Bernanke
 |
 FLASH/NN :/: Buildings/NNS shaking/VBG in/IN Washington/NNP ,DC/NN area/NN
 |
-Analysis/NNP :/: Putin/NN invokes/VBZ history's/NNS lions/NNS for/IN return/NN to/TO Kremlin/NNP
+Analysis/NNP :/: Putin/NN invokes/VBZ history/NN '/POS s/PRP lions/NNS for/IN return/NN to/TO Kremlin/NNP
 |
 Gazans/NNS sign/NN up/IN for/IN jobs/NNS in/IN post-Gaddafi/NN Libya/NNP
 |
@@ -545,7 +545,7 @@ Magnitude/NN 4.5/CD earthquake/NN shakes/VBZ eastern/JJ Japan/NNP
 |
 Video/NNP :/: felixsalmon/NN and/CC mccarthyryanj/NN present/JJ Counterparties/NNS
 |
-Fed's/NNS Hoenig/NN says/VBZ doesn't/NN see/VB recession/NN looming/VBG
+Fed/VBN '/POS s/PRP Hoenig/NN says/VBZ does/VBZ n't/RB see/VB recession/NN looming/VBG
 |
 Competitors/NNS circle/NN around/IN as/IN Netflix/NN stumbles/VBZ
 |
@@ -561,7 +561,7 @@ Gingrich/NNP proposes/VBZ updated/VBN Contract/NNP with/IN America/NNP
 |
 Greek/NNP default/NN would/MD destroy/VB faith/NN in/IN Europe/NNP :/: Merkel/NNP
 |
-Dean/NNP of/IN St/NNP Paul's/NNS Cathedral/JJ quits/VBZ over/IN protest/NN camp/NN
+Dean/NNP of/IN St/NNP Paul/NNP '/POS s/PRP Cathedral/JJ quits/VBZ over/IN protest/NN camp/NN
 |
 Samsung/NNP delays/NNS new/JJ Android/NN model/NN release/NN after/IN Steve/NNP Jobs/NNP death/NN
 |
@@ -597,7 +597,7 @@ Gaddafi/NN calls/VBZ on/IN Libyans/NNPS to/TO march/NN on/IN Tripoli/NNP
 |
 Video/NNP :/: A/DT look/NN back/RB at/IN the/DT Gaddafi/NN era/NN
 |
-FLASH/NN :/: French/JJ prosecutor's/NNS office/NN drops/VBZ inquiry/NN into/IN French/JJ writer's/NNS complaint/NN against/IN Strauss-Kahn/NN
+FLASH/NN :/: French/JJ prosecutor/NN '/POS s/PRP office/NN drops/VBZ inquiry/NN into/IN French/JJ writer/NN '/POS s/PRP complaint/NN against/IN Strauss-Kahn/NN
 |
 BlackBerry/NN problems/NNS hit/VBD four/CD continents/NNS
 |
@@ -608,7 +608,7 @@ Q&A/NN :/: What/WP happens/VBZ to/TO Apple/NNP after/IN Steve/NNP Jobs/NNP ?/.
 Perry/NNP criticizes/VBZ Obama/NN for/IN "/" dangerous/JJ "/"
 Mideast/NNP policy/NN
 |
-Analysis/NNP :/: Bernanke's/NNS twist/NN may/MD do/VBP little/JJ for/IN jobs/NNS
+Analysis/NNP :/: Bernanke/NN '/POS s/PRP twist/NN may/MD do/VBP little/JJ for/IN jobs/NNS
 |
 FBI/NNP searching/VBG Solyndra/NN offices/NNS in/IN California/NNP
 |
@@ -627,7 +627,7 @@ Italy/RB austerity/NN nears/VBZ approval/JJ as/IN pressure/NN mounts/NNS
 |
 FLASH/NN :/: NATO/NNP air/NN strikes/NNS ,/, NTC/NNP shelling/VBG kill/VB 151/NN civilians/NNS in/IN Gaddafi/NN hometown/NN Sirte/NN on/IN Wednesday/NNP and/CC Thursday/NNP -/: Gaddafi/NN spokesman/NN to/TO Reuters/NNP
 |
-Special/JJ report/NN :/: Crunch/VB time/NN at/IN America's/NNS richest/JJS union/NN
+Special/JJ report/NN :/: Crunch/VB time/NN at/IN America/NNP '/POS s/PRP richest/JJS union/NN
 |
 FLASH/NN :/: Dow/NNP ,/, S&P/NNP fall/NN 4/NN percent/NN ,/, Nasdaq/NNP down/RB 4.8/CD percent/NN
 |
@@ -639,26 +639,26 @@ Opinion/NNP :/: Why/WRB the/DT wealthy/JJ dont/NN object/NN to/TO Obamas/NNS "/"
 |
 FLASH/NN :/: United/VBN States/NNPS withdraws/VBZ ambassador/NN to/TO Syria/NNP ,/, Robert/NNP Ford/NNP ,/, over/IN security/NN concerns/NNS -/: Western/JJ diplomats/NNS
 |
-FLASH/NN :/: Russia/NNP ,/, China/NNP to/TO be/VB represented/VBN at/IN Thursday's/NNS Friends/NNS of/IN Libya/NNP conference/NN in/IN Paris/NNP -/: French/JJ government/NN source/NN
+FLASH/NN :/: Russia/NNP ,/, China/NNP to/TO be/VB represented/VBN at/IN Thursday/NNP '/POS s/PRP Friends/NNS of/IN Libya/NNP conference/NN in/IN Paris/NNP -/: French/JJ government/NN source/NN
 |
 Gaddafi/NN defiant/JJ as/IN government/NN said/VBD to/TO be/VB talking/VBG with/IN rebels/NNS
 |
 Libyan/JJ rebels/NNS enter/VB Tripoli/NNP :/: witness/NNS
 |
-Key/NNP elements/NNS of/IN Obama's/NNS $/$ 447/NN billion/CD jobs/NNS plan/NN
+Key/NNP elements/NNS of/IN Obama/NN '/POS s/PRP $/$ 447/NN billion/CD jobs/NNS plan/NN
 |
 The/DT New/NNP York/NNP Mercantile/NNP Exchange/NNP (NYMEX/NN )/) plans/NNS to/TO open/JJ for/IN trade/NN on/IN Monday/NNP
 |
 Slim/NNP hope/NN for/IN more/JJR survivors/NNS from/IN Zanzibar/JJ ferry/NN
 |
-McConnell/NNP slams/VBZ Obama's/NNS plan/NN ,/, "/" it/TPRP is/VBZ not/RB a/DT recipe/NN for/IN economic/JJ or/CC job/NN growth-or/NN even/RB meaningful/JJ deficit/NN reduction/NN "/" reuters.com/CD article/NN
+McConnell/NNP slams/VBZ Obama/NN '/POS s/PRP plan/NN ,/, "/" it/TPRP is/VBZ not/RB a/DT recipe/NN for/IN economic/JJ or/CC job/NN growth-or/NN even/RB meaningful/JJ deficit/NN reduction/NN "/" reuters.com/CD article/NN
 2011/NN
 |
 Harvard/NNP is/VBZ most/RBS discussed/VBN university/NN on/IN Web/NNP -/: survey/NN
 |
 President/NNP Obama/NN to/TO announce/VB double-barreled/VBN economic/JJ package/NN to/TO boost/VB jobs/NNS and/CC cut/VB deficits/NNS
 |
-If/IN you'd/NN like/IN to/TO know/VB when/WRB new/JJ Reuters/NNP opinion/NN pieces/NNS land/NN ,/, follow/VB ReutersOpinion/NN
+If/IN you/SPRP '/POS d/FW like/IN to/TO know/VB when/WRB new/JJ Reuters/NNP opinion/NN pieces/NNS land/NN ,/, follow/VB ReutersOpinion/NN
 |
 FLASH/NN :/: NATO/NNP is/VBZ bombing/VBG Gaddafi/NN compound/NN in/IN Tripoli/NNP ,/, Al-Arabiya/NN TV/NN reports/NNS citing/VBG rebel/NN sources/NNS
 |
@@ -676,7 +676,7 @@ FLASH/NN :/: Justice/NNP Dept/NN files/NNS to/TO block/NN AT&T/NNP planned/VBN a
 |
 FLASH/NN :/: Israel/NNP PM/NNP Netanyahu/NN decides/VBZ to/TO speed/VBN up/IN settlement/NN construction/NN in/IN parts/NNS of/IN West/NNP Bank/NNP -Official/JJ statement/NN
 |
-BlackBerry/NN maker's/NNS missteps/NNS stir/VB talk/VB of/IN its/TPRP sale/NN
+BlackBerry/NN maker/NN '/POS s/PRP missteps/NNS stir/VB talk/VB of/IN its/TPRP sale/NN
 |
 ESPN/NNP and/CC Hank/NNP Williams/NNP Jr/NNP ./. part/NN ways/NNS on/IN Monday/NNP Night/NNP Football/NNP
 |
@@ -690,7 +690,7 @@ Amtrak/NNP train/NN hits/NNS farm/NN vehicle/NN in/IN Nebraska/NNP ,/, several/J
 |
 Accused/VBN LulzSec/NN hacker/NN Cody/NNP Kretsinger/NN pleads/VBZ not/RB guilty/JJ in/IN breach/NN of/IN Sony/NNP computers/NNS
 |
-PIMCO's/NNS Bill/NNP Gross/NNP says/VBZ decline/NN in/IN Treasury/NNP yields/NNS to/TO 60-year/NN lows/NNS reflect/VB a/DT high/JJ probability/NN of/IN recession/NN
+PIMCO/NN '/POS s/PRP Bill/NNP Gross/NNP says/VBZ decline/NN in/IN Treasury/NNP yields/NNS to/TO 60-year/NN lows/NNS reflect/VB a/DT high/JJ probability/NN of/IN recession/NN
 |
 Whirlpool/NNP to/TO axe/NN jobs/NNS as/IN demand/NN softens/VBZ
 |
@@ -727,7 +727,7 @@ Bones/NNS of/IN Australian/JJ bush/NN icon/NN Ned/VBN Kelly/RB identified/VBN
 |
 Fewer/JJR American/NNP adults/NNS are/VBP smoking/VBG cigarettes/NNS ,/, and/CC those/DT who/WP still/RB smoke/NN have/VBP cut/VB back/RB
 |
-FLASH/NN :/: Magnitude/NN 6.8/CD quake/NN strikes/NNS off/IN Canada's/NNS Vancouver/NNP Island/NNP -USGS/NN
+FLASH/NN :/: Magnitude/NN 6.8/CD quake/NN strikes/NNS off/IN Canada/NNP '/POS s/PRP Vancouver/NNP Island/NNP -USGS/NN
 |
 FLASH/NN :/: Libyan/JJ Prime/NNP Minister/NNP Jibril/NNP confirms/VBZ that/IN Muammar/NNP Gaddafi/NN is/VBZ dead/JJ
 |
@@ -755,7 +755,7 @@ Microsoft/NNP to/TO launch/VB Mango/NN smartphones/NNS with/IN Nokia/NNP ,/, Sam
 |
 FLASH/NN :/: Clinton/NNP stresses/NNS U.S/CD ./. not/RB in/IN negotiations/NNS with/IN Haqqanis/NNS ;/: U.S/CD ./. official/JJ describes/VBZ meeting/VBG as/IN "/" a/DT straw/NN in/IN the/DT wind/NN "/"
 |
-Two/CD bombs/NNS kill/VB at/IN least/JJS 34/NN in/IN Iraq's/NNS Kut/NN :/: officials/NNS
+Two/CD bombs/NNS kill/VB at/IN least/JJS 34/NN in/IN Iraq/NNP '/POS s/PRP Kut/NN :/: officials/NNS
 |
 Lawyers/NNS dispute/NN leaked/VBN medical/JJ report/NN claiming/VBG "/" rape/NN "/" caused/VBN injuries/NNS to/TO Strauss-Kahn/NN accuser/NN
 |
@@ -763,7 +763,7 @@ Arctic/NNP has/VBZ great/JJ riches/NNS ,/, but/CC greater/JJR challenges/NNS
 |
 Analysis/NNP :/: Diplomatic/JJ woes/NNS pile/NN up/IN for/IN isolated/VBN Israel/NNP
 |
-FLASH/NN :/: Zambia's/NNS Michael/NNP Sata/NN sworn/VBN in/IN as/IN new/JJ president/NN
+FLASH/NN :/: Zambia/NNP '/POS s/PRP Michael/NNP Sata/NN sworn/VBN in/IN as/IN new/JJ president/NN
 |
 Netflix/NN to/TO split/NN DVD/NN and/CC streaming/VBG services/NNS |/NN Reuters/NNP
 |
@@ -773,7 +773,7 @@ Protesters/NNS in/IN Italy/RB scuffle/NN with/IN police/NN ,/, burn/VB flags/NNS
 |
 World/NNP stock/NN markets/NNS will/MD recover/VB next/JJ year/NN from/IN a/DT nightmarish/JJ 2011/NN ,/, poll/NN shows/VBZ
 |
-Moody's/NNS to/TO assess/VB France's/NNS outlook/NN over/IN next/JJ 3/NN months/NNS
+Moody/NNP '/POS s/PRP to/TO assess/VB France/NNP '/POS s/PRP outlook/NN over/IN next/JJ 3/NN months/NNS
 |
 Sony/NNP slashes/NNS forecast/NN to/TO fourth/JJ straight/JJ loss/NNS
 |
@@ -785,7 +785,7 @@ Air/NNP travel/NN braces/NNS for/IN East/NNP Coast/NNP storm/NN shutdown/NN
 |
 Dollar/NN yen/NNS jumps/NNS more/JJR than/IN 3/NN percent/NN on/IN intervention/NN
 |
-BofA/NN looking/VBG to/TO cut/VB $/$ 5/NN billion/CD in/IN annual/JJ costs/NNS
+BofA/NN looking/VBG to/TO cut/VB $5/NN billion/CD in/IN annual/JJ costs/NNS
 |
 FLASH/NN :/: U.S/CD ./. still/RB believes/VBZ Gaddafi/NN has/VBZ not/RB left/VBN Libya/NNP -Pentagon/NN
 |
@@ -796,7 +796,7 @@ Exclusive/JJ :/: News/NNP Corp/NNP executives/NNS mull/VB chance/NN James/NNP Mu
 Photos/NNS fire/NN at/IN Shell/NNP oil/NN refinery/NN in/IN Singapore/NNP ./.
 Photographers/NNP on/IN way/NN -/: will/MD update/VB
 |
-FLASH/NN :/: Senate/NNP Democrats/NNPS plan/NN to/TO force/NN vote/NN this/DT week/NN on/IN a/DT portion/NN of/IN Obama's/NNS $/$ 447/NN billion/CD jobs/NNS bill/NN -Senior/NN aide/NN
+FLASH/NN :/: Senate/NNP Democrats/NNPS plan/NN to/TO force/NN vote/NN this/DT week/NN on/IN a/DT portion/NN of/IN Obama/NN '/POS s/PRP $/$ 447/NN billion/CD jobs/NNS bill/NN -Senior/NN aide/NN
 |
 Fernandez/NNP favored/VBN for/IN re-election/NN as/IN Argentina/NNP votes/NNS
 |
@@ -812,9 +812,9 @@ U.S/CD ./. safer/JJR 10/NN years/NNS after/IN 9/NN
 11/NN ,/, but/CC at/IN what/WP cost/NN ?/. reuters.com/CD article/NN
 2011/NN
 |
-Gaddafi's/NNS former/JJ No/DT ./. 2/NN defects/NNS :/: Libya/NNP rebels/NNS
+Gaddafi/NN '/POS s/PRP former/JJ No/DT ./. 2/NN defects/NNS :/: Libya/NNP rebels/NNS
 |
-New/NNP Jersey's/NNS Chris/NNP Christie/NNP to/TO endorse/VB Mitt/NN Romney/NN
+New/NNP Jersey/NNP '/POS s/PRP Chris/NNP Christie/NNP to/TO endorse/VB Mitt/NN Romney/NN
 |
 Americans/NNPS Thomas/NNP Sargent/NNP and/CC Christopher/NNP Sims/NNP share/NN Nobel/NNP prize/NN in/IN economics/NNS
 |
@@ -826,7 +826,7 @@ reuters.com/CD article/NN
 Magnitude/NN 5.9/CD earthquake/NN strikes/NNS U.S/CD ./.
 East/NNP Coast/NNP and/CC Canada/NNP from/IN Virginia/NNP to/TO Toronto/NNP
 |
-CNN's/NNS mchancecnn/NN reports/NNS that/IN all/DT journalists/NNS have/VBP been/VBN freed/VBN from/IN the/DT Hotel/NNP Rixos/NNS in/IN Tripoli/NNP
+CNN/NNP '/POS s/PRP mchancecnn/NN reports/NNS that/IN all/DT journalists/NNS have/VBP been/VBN freed/VBN from/IN the/DT Hotel/NNP Rixos/NNS in/IN Tripoli/NNP
 |
 Special/JJ Report/NNP :/: Crisis/NNP grips/NNS North/NNP Korean/JJ rice/NN bowl/NN
 |
@@ -876,9 +876,9 @@ Violent/JJ anti-austerity/NN protests/NNS grip/NN Greek/NNP capital/JJ
 |
 Occupy/VB Wall/NNP St/NNP ,/, the/DT start/NN of/IN a/DT new/JJ protest/NN era/NN ?/.
 |
-Turkey's/NNS post-quake/JJ relief/NN races/NNS against/IN winter/NN
+Turkey/NNP '/POS s/PRP post-quake/JJ relief/NN races/NNS against/IN winter/NN
 |
-One/CD of/IN Gaddafi's/NNS sons/NNS ,/, Al-Mutassim/NN ,/, is/VBZ in/IN Bab/NN Al-Azizya/NN compound/NN in/IN Tripoli/NNP -/: Al-Arabiya/NN TV/NN
+One/CD of/IN Gaddafi/NN '/POS s/PRP sons/NNS ,/, Al-Mutassim/NN ,/, is/VBZ in/IN Bab/NN Al-Azizya/NN compound/NN in/IN Tripoli/NNP -/: Al-Arabiya/NN TV/NN
 |
 Fighting/VBG spreads/VBZ in/IN Yemen/NNP capital/JJ ,/, seven/CD killed/VBN
 |
@@ -888,7 +888,7 @@ Apple/NNP is/VBZ worth/JJ as/IN much/JJ as/IN all/DT euro/NN zone/NN banks/NNS
 |
 Groupon/NN planning/VBG to/TO launch/VB IPO/NNP roadshow/NN next/JJ week/NN :/: source/NN
 |
-FLASH/NN :/: Libya's/NNS deputy/NN chief/JJ of/IN intelligence/NN quits/VBZ ,/, declares/VBZ allegiance/NN to/TO rebels/NNS -Arabiya/NN TV/NN
+FLASH/NN :/: Libya/NNP '/POS s/PRP deputy/NN chief/JJ of/IN intelligence/NN quits/VBZ ,/, declares/VBZ allegiance/NN to/TO rebels/NNS -Arabiya/NN TV/NN
 |
 Water/NNP use/NN rising/VBG faster/RBR than/IN world/NN population/NN
 |
@@ -902,7 +902,7 @@ Warren/NNP Buffett/NNP shows/VBZ again/RB that/IN his/TPRP name/NN and/CC money/
 |
 Gaddafi/NN forces/NNS fire/NN Scud/NN missile/NN :/: U.S/CD ./. official/JJ
 |
-Apple's/NNS board/NN needs/VBZ to/TO step/NN up/IN to/TO new/JJ era/NN
+Apple/NNP '/POS s/PRP board/NN needs/VBZ to/TO step/NN up/IN to/TO new/JJ era/NN
 |
 Tijuana/NNP violence/NN slows/VBZ as/IN one/CD cartel/NN takes/VBZ control/NN reuters.com/CD article/NN
 2011/NN
@@ -914,22 +914,22 @@ Analysis/NNP :/: Investors/NNS eye/NN promise/NN ,/, pitfalls/NNS in/IN post-Gad
 |
 SEC/NNP charges/NNS ex-Goldman/NN employee/NN with/IN insider/NN trading/VBG
 |
-Iran's/NNS "/" nuclear/JJ partner/NN "/"
+Iran/NNP '/POS s/PRP "/" nuclear/JJ partner/NN "/"
 Russia/NNP seeks/VBZ to/TO revive/VB global/JJ talks/NNS
 |
 Consumer/NNP spending/VBG rose/VBD at/IN its/TPRP fastest/JJS pace/NN in/IN five/CD months/NNS in/IN July/RB ,/, calming/VBG recession/NN fears/NNS
 |
 Asian/JJ stock/NN fall/NN ,/, dollar/NN firm/NN on/IN Europe/NNP woes/NNS
 |
-Michele/NNP Bachmann/NNP may/MD be/VB Mitt/NN Romney's/NNS top/JJ asset/NN in/IN race/NN
+Michele/NNP Bachmann/NNP may/MD be/VB Mitt/NN Romney/NN '/POS s/PRP top/JJ asset/NN in/IN race/NN
 |
-Son/NNP seeks/VBZ to/TO boost/VB Gaddafi's/NNS Tripoli/NNP fightback/NN
+Son/NNP seeks/VBZ to/TO boost/VB Gaddafi/NN '/POS s/PRP Tripoli/NNP fightback/NN
 |
 Consumer/NNP morale/NN ,/, home/NN prices/NNS steady/JJ at/IN low/JJ level/NN
 |
 Obama/NN to/TO unveil/VB measures/NNS to/TO boost/VB rural/JJ jobs/NNS
 |
-Zynga's/NNS IPO/NNP due/JJ week/NN before/IN Thanksgiving/VBG ,/, sources/NNS tell/VB clarebaldwin/NN and/CC rtrswalibarr/NN
+Zynga/NN '/POS s/PRP IPO/NNP due/JJ week/NN before/IN Thanksgiving/VBG ,/, sources/NNS tell/VB clarebaldwin/NN and/CC rtrswalibarr/NN
 |
 California/NNP lawmakers/NNS save/VB scandal-plagued/JJ city/NN
 |
@@ -937,9 +937,9 @@ Banks/NNP should/MD tie/NN more/JJR employees/NNS '/POS pay/VB to/TO risk/NN :/:
 |
 Greeks/NNPS seek/VB to/TO escape/VB debt/NN crisis/NNS abroad/RB
 |
-FLASH/NN :/: Medvedev/NNP :/: Kudrin's/NNS statements/NNS improper/JJ ,/, there/EX is/VBZ only/RB one/CD correct/JJ course/NN of/IN action/NN :/: to/TO resign/VB
+FLASH/NN :/: Medvedev/NNP :/: Kudrin/NN '/POS s/PRP statements/NNS improper/JJ ,/, there/EX is/VBZ only/RB one/CD correct/JJ course/NN of/IN action/NN :/: to/TO resign/VB
 |
-Richard/NNP Branson/NNP sets/NNS his/TPRP eye/NN on/IN India's/NNS tiger/NN survival/JJ
+Richard/NNP Branson/NNP sets/NNS his/TPRP eye/NN on/IN India/NNP '/POS s/PRP tiger/NN survival/JJ
 |
 Second/JJ large/JJ blast/NN heard/VBN in/IN Kenyan/JJ capital/JJ -/: Reuters/NNP witness/NNS
 |
@@ -953,7 +953,7 @@ Taliban/NN says/VBZ won/VBD Rabbani/NN trust/NN in/IN order/NN to/TO kill/VB him
 |
 Live/NNP coverage/NN of/IN the/DT euro/NN zone/NN debt/NN crisis/NNS -/:
 |
-Japan's/NNS finmin/NN Noda/NN wins/VBZ vote/NN to/TO become/VB next/JJ PM/NNP
+Japan/NNP '/POS s/PRP finmin/NN Noda/NN wins/VBZ vote/NN to/TO become/VB next/JJ PM/NNP
 |
 Pope/NNP prays/VBZ for/IN Sept/NNP 11/NN victims/NNS ,/, condemns/VBZ hate/VBP crimes/NNS
 |
@@ -971,7 +971,7 @@ French/JJ banks/NNS hit/VBD as/IN SocGen/NN ditches/NNS assets/NNS
 FLASH/NN :/: Clashes/NNS reported/VBD between/IN Tunisian/NNP army/NN and/CC armed/VBN men/NNS near/IN borders/NNS with/IN Libya/NNP and/CC Algeria/NNP -Tunisian/NN state/NN news/NNS agency/NN TAP/VB
 |
 Djokovic/NN wins/VBZ the/DT U.S/CD ./.
-Open/NNP men's/NNS championship/NN over/IN Rafael/NNP Nadal/JJ in/IN four/CD sets/NNS ./. usopen/NN
+Open/NNP men/NNS '/POS s/PRP championship/NN over/IN Rafael/NNP Nadal/JJ in/IN four/CD sets/NNS ./. usopen/NN
 |
 Germany/NNP mocked/VBN for/IN 55-billion/NN euro/NN bank/NN accounts/NNS error/NN
 |
@@ -981,7 +981,7 @@ Police/NNP question/NN Strauss-Kahn/NN in/IN French/JJ assault/NN case/NN
 |
 German/JJ MPs/NNS back/RB euro/NN crisis/NNS powers/NNS ,/, Merkel/NNP support/NN unclear/JJ
 |
-AL-JAZEERA/NN INTERVIEW/NN WITH/IN GADDAFI'S/NN SON/NN MOHAMMED/NN CUT/VB OFF/IN AFTER/IN HE/TPRP SAYS/VBZ GUNMEN/NNS SURROUNDED/VBN HIS/NNP HOUSE/NNP
+AL-JAZEERA/NN INTERVIEW/NN WITH/IN GADDAFI/NN '/POS S/NNP SON/NN MOHAMMED/NN CUT/VB OFF/IN AFTER/IN HE/TPRP SAYS/VBZ GUNMEN/NNS SURROUNDED/VBN HIS/NNP HOUSE/NNP
 |
 Greece/NNP slaps/VBZ new/JJ tax/NN on/IN property/NN to/TO cut/VB deficit/NN
 |
@@ -1001,7 +1001,7 @@ Execution/NNP looms/VBZ for/IN Georgia/NNP inmate/NN denied/VBN polygraph/NN
 |
 Fed/VBN hawks/NNS offer/NN sharply/RB differing/VBG reasons/NNS for/IN opposing/VBG move/NN to/TO freeze/NN interest/NN rates/NNS for/IN two/CD years/NNS
 |
-What/WP is/VBZ in/IN Greece's/NNS new/JJ austerity/NN law/NN
+What/WP is/VBZ in/IN Greece/NNP '/POS s/PRP new/JJ austerity/NN law/NN
 |
 U.S/CD ./. "/" reads/VBZ riot/NN act/NN "/" to/TO Syria/NNP after/IN envoy/NN attacked/VBN
 |
@@ -1011,7 +1011,7 @@ Samsung/NNP expands/VBZ sales/NNS ban/NN requests/NNS against/IN Apple/NNP iPhon
 |
 More/RBR than/IN 100/NN burnt/VBN to/TO death/NN in/IN Kenya/NNP fire/NN :/: reports/NNS
 |
-RT/NN LaurenLaCapra/NN :/: Bank/NNP of/IN America/NNP &/CC Merrill/NNP being/VBG sued/VBD for/IN over/IN $/$ 30.85/CD billion/CD by/IN FHFA/NN ,/, according/VBG to/TO court/NN filings/NNS $/$ BAC/NN
+RT/NN LaurenLaCapra/NN :/: Bank/NNP of/IN America/NNP &/CC Merrill/NNP being/VBG sued/VBD for/IN over/IN $/$ 30.85/CD billion/CD by/IN FHFA/NN ,/, according/VBG to/TO court/NN filings/NNS $BAC/NN
 |
 Palestinian/JJ man/NN injures/VBZ seven/CD in/IN Tel/NNP Aviv/NNP :/: police/NN
 |
@@ -1027,7 +1027,7 @@ Al/NNP Qaeda/NN shadow/NN of/IN former/JJ self/NN 10/NN years/NNS after/IN 9/NN
 |
 China/NNP dissident/JJ Ai/VBP Weiwei/NN launches/VBZ scathing/JJ attack/NN on/IN government/NN
 |
-Libya's/NNS new/JJ rulers/NNS confront/VB perilous/JJ transition/NN
+Libya/NNP '/POS s/PRP new/JJ rulers/NNS confront/VB perilous/JJ transition/NN
 |
 Lawmakers/NNS debate/NN housing/VBG finance/NN reform/NN
 |
@@ -1055,13 +1055,13 @@ FLASH/NN :/: Taliban/NN leader/NN Fazlullah/NN will/MD soon/RB wage/NN war/NN ag
 |
 President/NNP Obama/NN :/: U.S/CD ./. stronger/JJR 10/NN years/NNS after/IN September/NNP 11/NN attacks/NNS
 |
-2012/NN election/NN to/TO be/VB the/DT most/RBS expensive/JJ ever/RB ,/, with/IN a/DT total/JJ price/NN tag/NN of/IN $/$ 6/NN billion/CD
+2012/NN election/NN to/TO be/VB the/DT most/RBS expensive/JJ ever/RB ,/, with/IN a/DT total/JJ price/NN tag/NN of/IN $6/NN billion/CD
 |
-FLASH/NN :/: Libya's/NNS NTC/NNP to/TO announce/VB liberation/NN of/IN Libya/NNP on/IN Saturday/NNP -/: NTC/NNP official/JJ
+FLASH/NN :/: Libya/NNP '/POS s/PRP NTC/NNP to/TO announce/VB liberation/NN of/IN Libya/NNP on/IN Saturday/NNP -/: NTC/NNP official/JJ
 |
-Syria's/NNS Assad/NNP warns/VBZ of/IN "/" earthquake/NN "/" if/IN West/NNP intervenes/VBZ
+Syria/NNP '/POS s/PRP Assad/NNP warns/VBZ of/IN "/" earthquake/NN "/" if/IN West/NNP intervenes/VBZ
 |
-FLASH/NN :/: Libya's/NNS Jibril/NNP says/VBZ medical/JJ report/NN showed/VBD it/TPRP was/VBD unclear/JJ if/IN bullet/NN to/TO Gaddafi's/NNS head/NN was/VBD fired/VBN by/IN govt/NN forces/NNS or/CC his/TPRP own/JJ side/NN
+FLASH/NN :/: Libya/NNP '/POS s/PRP Jibril/NNP says/VBZ medical/JJ report/NN showed/VBD it/TPRP was/VBD unclear/JJ if/IN bullet/NN to/TO Gaddafi/NN '/POS s/PRP head/NN was/VBD fired/VBN by/IN govt/NN forces/NNS or/CC his/TPRP own/JJ side/NN
 |
 Herman/NNP Cain/NNP says/VBZ foes/NNS "/" trying/VBG to/TO destroy/VB me/FPRP "/"
 |
@@ -1081,13 +1081,13 @@ Egypt/NNP brokers/NNS end/NN to/TO Israel-Gaza/NN flare-up/NN :/: officials/NNS
 |
 With/IN Gaddafi/NN dead/JJ ,/, Libyans/NNPS wary/JJ of/IN the/DT enemy/NN within/IN
 |
-FLASH/NN :/: Al/NNP Jazeera/NN says/VBZ brigade/NN in/IN charge/NN of/IN Gaddafi's/NNS security/NN surrenders/NNS and/CC lays/VBZ down/RB arms/NNS
+FLASH/NN :/: Al/NNP Jazeera/NN says/VBZ brigade/NN in/IN charge/NN of/IN Gaddafi/NN '/POS s/PRP security/NN surrenders/NNS and/CC lays/VBZ down/RB arms/NNS
 |
 Analysis/NNP :/: Obama/NN risks/NNS hurting/VBG 2012/NN push/VB with/IN economy/NN warnings/NNS
 |
 Egypt/NNP vows/VBZ to/TO try/VB those/DT who/WP targeted/VBN Israel/NNP mission/NN
 |
-Analysis/NNP :/: Iran/NNP case/NN sign/NN of/IN U.S/CD drugs/NNS agency's/NNS new/JJ security/NN role/NN
+Analysis/NNP :/: Iran/NNP case/NN sign/NN of/IN U.S/CD drugs/NNS agency/NN '/POS s/PRP new/JJ security/NN role/NN
 |
 Blog/NN :/: The/DT IAAF/NN 2011/NN World/NNP Championships/NNS in/IN Daegu/NN ,/, South/NNP Korea/NNP How/WRB we/FPRP won/VBD the/DT story/NN blogs.reuters.com/CD photo/NN
 2011/NN
@@ -1100,7 +1100,7 @@ Security/NNP Council/NNP will/MD discuss/VB Palestinian/JJ statehood/NN applicat
 |
 Video/NNP :/: Amazon/NNP CEO/NNP Jeff/NNP Bezos/NNS takes/VBZ the/DT stage/NN to/TO unveil/VB a/DT number/NN of/IN new/JJ products/NNS including/VBG the/DT Kindle/NN Fire/NNP tablet/NN ./.
 |
-FLASH/NN :/: Moody's/NNS downgrades/NNS Italy's/NNS government/NN bond/NN rating/VBG to/TO A2/NN with/IN negative/JJ outlook/NN
+FLASH/NN :/: Moody/NNP '/POS s/PRP downgrades/NNS Italy/RB '/POS s/PRP government/NN bond/NN rating/VBG to/TO A2/NN with/IN negative/JJ outlook/NN
 |
 U.S/CD ./. to/TO submit/VB UN/NNP Security/NNP Council/NNP Resolution/NNP today/NN to/TO unfreeze/NN $/$ 1.5/CD billion/CD Libyan/JJ assets/NNS for/IN humanitarian/JJ needs/VBZ -/: diplomat/NN
 |
@@ -1121,7 +1121,7 @@ Niger/NNP faces/VBZ local/JJ anger/NN if/IN it/TPRP delivers/VBZ Gaddafi/NN son/
 Bachmann/NNP woos/VBZ California/NNP ,/, flaunts/VBZ business/NNS savvy/JJ in.reuters.com/CD article/NN
 2011/NN
 |
-Analysis/NNP :/: Amazon's/NNS Bezos/NNS stares/NNS down/RB Wall/NNP Street/NNP again/RB
+Analysis/NNP :/: Amazon/NNP '/POS s/PRP Bezos/NNS stares/NNS down/RB Wall/NNP Street/NNP again/RB
 |
 RIM/NN replaces/VBZ head/NN of/IN developer/NN relations/NNS
 |
@@ -1129,7 +1129,7 @@ After/IN WikiLeaks/NNS ,/, U.S/CD ./. tries/VBZ to/TO shield/NN classified/VBN d
 |
 Hurricane/NNP Irene/NNP rakes/NNS up/IN East/NNP Coast/NNP ,/, shutting/VBG down/RB New/NNP York/NNP
 |
-Is/VBZ Rock'N'Roll/NN the/DT new/JJ stimulus/NNS ?/.
+Is/VBZ Rock/NNP '/POS N/NN '/POS Roll/NNP the/DT new/JJ stimulus/NNS ?/.
 That/DT ,/, at/IN least/JJS ,/, is/VBZ the/DT message/NN from/IN the/DT Moogfest/NN ,/, says/VBZ rob1cox/NN r.reuters.com/CD mum74s/NNS
 |
 FEMA/NNP press/NNS conference/NN at/IN 11:30am/NN EST/NNP ,/, New/NNP York/NNP mayor/NN MikeBloomberg/NN press/NNS conference/NN at/IN 12:15pm/NN EST/NNP ,/, watch/VB them/TPRP here/RB :/:
@@ -1138,7 +1138,7 @@ Bachmann/NNP and/CC Perry/NNP -/: a/DT beautiful/JJ 2012/NN rivalry/NN
 |
 Apple/NNP hunted/VBN lost/VBD item/NN --/: clue/NN points/NNS to/TO new/JJ iPhone/NN
 |
-Russia's/NNS finance/NN chief/JJ rebels/NNS over/IN Putin/NN plan/NN
+Russia/NNP '/POS s/PRP finance/NN chief/JJ rebels/NNS over/IN Putin/NN plan/NN
 |
 HP/NNP executive/NN says/VBZ PC/NN business/NNS to/TO remain/VB world/NN No.1/CD
 |
@@ -1152,13 +1152,13 @@ Apple/NNP sells/VBZ 4/NN million/CD iPhone/NN 4S/NN in/IN 3/NN days/NNS
 |
 NATO/NNP war/NN plane/NN intercepts/NNS scud/NN missile/NN fired/VBN from/IN Sirat/NN City/NNP in/IN Libya/NNP ,/, Al-Jazeera/NN reports/NNS
 |
-Libya's/NNS Gaddafi/NN caught/VBN hiding/VBG like/IN a/DT "/" rat/NN "/"
+Libya/NNP '/POS s/PRP Gaddafi/NN caught/VBN hiding/VBG like/IN a/DT "/" rat/NN "/"
 |
 FLASH/NN :/: US/FPRP BP/NNP oil/NN spill/NN investigators/NNS say/VBP central/JJ cause/NN of/IN blowout/NN was/VBD failure/NN of/IN a/DT cement/NN barrier/NN in/IN the/DT production/NN casing/VBG string/VBG
 |
-Gaddafi's/NNS killing/VBG fuels/NNS Syria's/NNS Friday/NNP protests/NNS
+Gaddafi/NN '/POS s/PRP killing/VBG fuels/NNS Syria/NNP '/POS s/PRP Friday/NNP protests/NNS
 |
-Google's/NNS South/NNP Korean/JJ office/NN raided/VBN by/IN regulators/NNS :/: source/NN
+Google/NN '/POS s/PRP South/NNP Korean/JJ office/NN raided/VBN by/IN regulators/NNS :/: source/NN
 |
 FLASH/NN :/: Gaddafi/NN wounded/VBN and/CC captured/VBN near/IN Sirte/NN as/IN tried/VBD to/TO flee/VB in/IN convoy/NN which/WDT attacked/VBN by/IN NATO/NNP -/: NTC/NNP official/JJ
 |
@@ -1196,7 +1196,7 @@ FLASH/NN :/: Sounds/VBZ of/IN gunfire/NN ,/, explosions/NNS becoming/VBG more/JJ
 |
 U.S/CD ./. urges/VBZ Syria/NNP to/TO end/NN campaign/NN against/IN envoy/NN Ford/NNP
 |
-Revenge/NN on/IN Murray's/NNS mind/NN after/IN reaching/VBG last/JJ 16/NN
+Revenge/NN on/IN Murray/NNP '/POS s/PRP mind/NN after/IN reaching/VBG last/JJ 16/NN
 |
 Obama/NN to/TO call/VB for/IN urgent/JJ steps/NNS on/IN U.S/CD ./. economy/NN in.reuters.com/CD article/NN
 2011/NN
@@ -1323,7 +1323,7 @@ Syrian/JJ force/NN backed/VBN by/IN tanks/NNS ,/, helicopters/NNS storm/NN strat
 |
 Plants/NNS take/VB in/IN more/JJR CO2/NN than/IN thought/VBD ,/, study/NN finds/VBZ
 |
-FLASH/NN :/: Muammar/NNP Gaddafi/NN and/CC son/NN Mo'tassim/NN buried/VBN at/IN dawn/NN in/IN secret/JJ location/NN -/: NTC/NNP officials/NNS
+FLASH/NN :/: Muammar/NNP Gaddafi/NN and/CC son/NN Mo/NNP '/POS tassim/NN buried/VBN at/IN dawn/NN in/IN secret/JJ location/NN -/: NTC/NNP officials/NNS
 |
 New/NNP Orleans/NNP holding/VBG up/IN under/IN Tropical/JJ Storm/NN Lee/NNP
 |
@@ -1360,7 +1360,7 @@ Ecclestone/NN has/VBZ hinted/VBD to/TO reporters/NNS including/VBG colleague/NN 
 |
 President/NNP Obama/NN to/TO unveil/VB jobs/NNS plan/NN in/IN address/NNS to/TO Congress/NNP -/: on/IN the/DT same/JJ night/NN as/IN GOP/NNP debate/NN
 |
-Newsmaker/NN :/: Cook's/NNS vision/NN center/NN stage/NN after/IN Jobs/NNP '/POS departure/NN
+Newsmaker/NN :/: Cook/NNP '/POS s/PRP vision/NN center/NN stage/NN after/IN Jobs/NNP '/POS departure/NN
 |
 Limits/NNPS on/IN supplemental/JJ Medicare/NNP plans/NNS eyed/VBD
 |
@@ -1393,7 +1393,7 @@ Freddie/NNP Mac/NNP CEO/NNP to/TO resign/VB ,/, regulator/NN says/VBZ
 |
 FLASH/NN :/: Mideast/NNP quartet/NN proposes/VBZ preparatory/JJ meeting/VBG between/IN Israel/NNP and/CC Palestinians/NNPS within/IN one/CD month/NN ,/, to/TO agree/VB talks/NNS agenda/NN
 |
-Police/NNP say/VBP the/DT head/NN of/IN Afghanistan's/NNS High/NNP Peace/NNP Council/NNP ,/, former/JJ President/NNP Burhanuddin/NN Rabbani/NN ,/, has/VBZ been/VBN killed/VBN
+Police/NNP say/VBP the/DT head/NN of/IN Afghanistan/NNP '/POS s/PRP High/NNP Peace/NNP Council/NNP ,/, former/JJ President/NNP Burhanuddin/NN Rabbani/NN ,/, has/VBZ been/VBN killed/VBN
 |
 Exclusive/JJ :/: Democrats/NNPS push/VB tax/NN hikes/NNS first/JJ in/IN deficit/NN talks/NNS
 |
@@ -1402,20 +1402,20 @@ Hurricane/NNP Irene/NNP to/TO hit/VBD cities/NNS ,/, resorts/NNS on/IN U.S/CD ./
 FLASH/NN :/: New/NNP Jersey/NNP Governor/NNP Christie/NNP tells/VBZ NBC/NNP damage/NN from/IN Irene/NNP likely/RB in/IN billions/NNS of/IN dollars/NNS "/" if/IN not/RB in/IN tens/NNS of/IN billions/NNS "/"
 |
 Exclusive/JJ :/: Vast/JJ majority/NN of/IN 9/NN
-11/NN Commission's/NNS investigative/JJ records/NNS remain/VB sealed/VBN at/IN the/DT National/JJ Archives/NNPS i/NN (cont/NN )/) deck.ly/RB
+11/NN Commission/NNP '/POS s/PRP investigative/JJ records/NNS remain/VB sealed/VBN at/IN the/DT National/JJ Archives/NNPS i/NN (cont/NN )/) deck.ly/RB
 ~M8ZCq/NN
 |
 FLASH/NN :/: UK/NNP Defence/NN Secretary/NNP Liam/NN Fox/NNP resigns/VBZ
 |
 James/NNP Murdoch/NNP turns/VBZ down/RB bonus/NNS after/IN NOTW/NN scandal/JJ
 |
-Japan's/NNS finance/NN minister/NN Yoshihiko/NN Noda/NN to/TO be/VB new/JJ PM/NNP
+Japan/NNP '/POS s/PRP finance/NN minister/NN Yoshihiko/NN Noda/NN to/TO be/VB new/JJ PM/NNP
 |
 Executive/NNP Board/NNP member/NN Juergen/NNP Stark/NNP to/TO leave/VB ECB/NN over/IN bond-buying/VBG
 |
-Libya's/NNS rebel/NN council/NN says/VBZ no/DT negotiations/NNS under/IN way/NN with/IN Gaddafi/NN ,/, not/RB really/RB sure/JJ where/WRB he/TPRP is/VBZ
+Libya/NNP '/POS s/PRP rebel/NN council/NN says/VBZ no/DT negotiations/NNS under/IN way/NN with/IN Gaddafi/NN ,/, not/RB really/RB sure/JJ where/WRB he/TPRP is/VBZ
 |
-FLASH/NN :/: U.S/CD ./. secretary/NN of/IN state/NN Clinton/NNP says/VBZ U.S/CD ./. respects/NNS Syrian/JJ people's/NNS wish/VBP that/IN no/DT foreign/JJ country/NN intervene/VB in/IN their/TPRP struggle/NN
+FLASH/NN :/: U.S/CD ./. secretary/NN of/IN state/NN Clinton/NNP says/VBZ U.S/CD ./. respects/NNS Syrian/JJ people/NNS '/POS s/PRP wish/VBP that/IN no/DT foreign/JJ country/NN intervene/VB in/IN their/TPRP struggle/NN
 |
 Analysis/NNP :/: U.S/CD ./. ducks/NNS recession/NN for/IN now/RB ,/, but/CC Europe/NNP threatens/VBZ
 |
@@ -1449,7 +1449,7 @@ RT/NN ReutersMoney/NN :/: Five/CD ways/NNS income/NN inequality/NN happened/VBD 
 Video/NNP :/: Peshawar/NN counts/NNS cost/NN of/IN 9/NN
 11/NN
 |
-Saudi/NNP prince/NN backs/NNS cleric's/NNS bounty/NN offer/NN for/IN Israeli/JJ soldier/NN
+Saudi/NNP prince/NN backs/NNS cleric/NN '/POS s/PRP bounty/NN offer/NN for/IN Israeli/JJ soldier/NN
 |
 U.N/CD ./. envoys/NNS discuss/VB lifting/VBG Libya/NNP no-fly-zone/NN
 |
@@ -1461,13 +1461,13 @@ Rick/NNP Perry/NNP passes/VBZ Mitt/NN Romney/NN among/IN Republicans/NNPS in/IN 
 |
 German/JJ Chancellor/NNP Merkel/NNP tops/NNS powerful/JJ women/NNS list/NN
 |
-Michele/NNP Bachmann's/NNS campaign/NN said/VBD she/TPRP was/VBD only/RB joking/VBG when/WRB she/TPRP described/VBN Hurricane/NNP Irene/NNP as/IN a/DT warning/VBG from/IN God/NNP
+Michele/NNP Bachmann/NNP '/POS s/PRP campaign/NN said/VBD she/TPRP was/VBD only/RB joking/VBG when/WRB she/TPRP described/VBN Hurricane/NNP Irene/NNP as/IN a/DT warning/VBG from/IN God/NNP
 |
 FLASH/NN :/: U.S/CD ./. official/JJ says/VBZ Chinese/JJ vice/NN president/NN Xi/NN expressed/VBN confidence/NN in/IN fundamentals/NNS of/IN U.S/CD ./. economy/NN
 |
 Claims/NNPS and/CC trade/NN data/NNS suggest/VBP modest/JJ improvement/NN
 |
-FLASH/NN :/: Japanese/JJ finance/NN minister/NN Azumi/NN says/VBZ intervened/VBD in/IN currency/NN market/NN ,/, won't/NN comment/VB on/IN size/NN of/IN intervention/NN
+FLASH/NN :/: Japanese/JJ finance/NN minister/NN Azumi/NN says/VBZ intervened/VBD in/IN currency/NN market/NN ,/, wo/MD n't/RB comment/VB on/IN size/NN of/IN intervention/NN
 |
 RT/NN ReutersScience/NN Space/NNP probe/NN detects/VBZ a/DT planet/NN with/IN a/DT double/JJ sunset/NN
 |
@@ -1482,13 +1482,13 @@ FLASH/NN :/: Fed/VBN cuts/NNS forecast/NN for/IN 2012/NN GDP/NNP growth/NN ,/, r
 |
 Exclusive/JJ from/IN SarahNLynch/NN :/: SEC/NNP warns/VBZ staff/NN their/TPRP stocks/NNS data/NNS was/VBD exposed/VBN
 |
-President/NNP Obama's/NNS job/NN approval/JJ ratings/NNS plunges/NNS to/TO a/DT new/JJ low/JJ
+President/NNP Obama/NN '/POS s/PRP job/NN approval/JJ ratings/NNS plunges/NNS to/TO a/DT new/JJ low/JJ
 |
 Analysis/NNP :/: Death/NN of/IN deputy/NN chief/JJ deals/NNS heavy/JJ blow/NN to/TO al/JJ Qaeda/NN
 |
 McCourt/NN offered/VBN $/$ 1.2/CD billion/CD for/IN Dodgers/NNP :/: report/NN
 |
-India's/NNS hunger/NN striker/NN says/VBZ ready/JJ to/TO die/VB for/IN anti-graft/NN cause/NN
+India/NNP '/POS s/PRP hunger/NN striker/NN says/VBZ ready/JJ to/TO die/VB for/IN anti-graft/NN cause/NN
 |
 From/IN a/DT single/JJ hashtag/NN ,/, a/DT protest/NN circled/VBD the/DT world/NN
 |
@@ -1511,7 +1511,7 @@ Sarkozy/NN backs/NNS down/RB on/IN ECB/NN crisis/NNS role/NN
 |
 Senate/NNP to/TO consider/VB House/NNP patent/NN bill/NN
 |
-Libya/NNP forces/NNS say/VBP closing/VBG in/IN on/IN Gaddafi's/NNS son/NN
+Libya/NNP forces/NNS say/VBP closing/VBG in/IN on/IN Gaddafi/NN '/POS s/PRP son/NN
 |
 France/NNP ,/, Belgium/NNP set/VBN to/TO finalize/NN Dexia/NN break-up/NN
 |
@@ -1533,16 +1533,16 @@ qJ6daR/NN
 |
 RIM/NN shares/NNS jump/NN on/IN Icahn/NNP stake/NN talk/VB
 |
-France's/NNS Sarkozy/NN says/VBZ will/MD not/RB intervene/VB in/IN Syria/NNP without/IN United/VBN Nations/NNPS resolution/NN
+France/NNP '/POS s/PRP Sarkozy/NN says/VBZ will/MD not/RB intervene/VB in/IN Syria/NNP without/IN United/VBN Nations/NNPS resolution/NN
 |
-Tomorrow/NN I'll/NN be/VB your/SPRP voice/NN for/IN CAFreeland's/NNS interview/NN of/IN GE/NNP Chairman/NNP
+Tomorrow/NN I/FPRP '/POS ll/NN be/VB your/SPRP voice/NN for/IN CAFreeland/NN '/POS s/PRP interview/NN of/IN GE/NNP Chairman/NNP
 CEO/NNP Jeff/NNP Immelt/NN ./.
 Got/VBD a/DT question/NN for/IN Jeff/NNP ?/.
 Tag/NN it/TPRP with/IN Newsmaker/NN
 |
 FLASH/NN :/: 6-magnitude/NN earthquake/NN in/IN northern/JJ Argentina/NNP -/: USGS/NN
 |
-Analysis/NNP :/: Gaddafi's/NNS death/NN a/DT warning/VBG to/TO Syrian/JJ ,/, Yemeni/JJ leaders/NNS
+Analysis/NNP :/: Gaddafi/NN '/POS s/PRP death/NN a/DT warning/VBG to/TO Syrian/JJ ,/, Yemeni/JJ leaders/NNS
 |
 Lenders/NNS give/VB lukewarm/JJ approval/JJ to/TO Greek/NNP aid/NN tranche/NN
 |
@@ -1557,7 +1557,7 @@ Equities/NNPS and/CC euro/NN pummeled/VBD by/IN euro/NN zone/NN worries/NNS reut
 |
 South/NNP Carolina/NNP to/TO hold/VB presidential/JJ primary/JJ on/IN January/NNP 21/NN
 |
-White/NNP House/NNP :/: Iran's/NNS Quds/NNS force/NN involved/VBN in/IN plot/NN
+White/NNP House/NNP :/: Iran/NNP '/POS s/PRP Quds/NNS force/NN involved/VBN in/IN plot/NN
 |
 FLASH/NN :/: Former/JJ McKinsey/NNP chief/JJ Rajat/NN Gupta/NNP placed/VBN under/IN arrest/NN ,/, is/VBZ in/IN Federal/JJ custody/NN -/: FBI/NNP
 |
@@ -1578,19 +1578,19 @@ Turkey/NNP hosts/NNS Afghanistan-Pakistan/NN talks/NNS
 |
 30-yr/NN mortgage/NN drops/VBZ below/IN 4/NN percent/NN for/IN first/JJ time/NN
 |
-Gaddafi's/NNS death/NN -/: who/WP pulled/VBD the/DT trigger/NN ?/.
+Gaddafi/NN '/POS s/PRP death/NN -/: who/WP pulled/VBD the/DT trigger/NN ?/.
 |
 FLASH/NN :/: EU/NN
 IMF/NNP approve/VB next/JJ aid/NN tranche/NN for/IN Greece/NNP -euro/NN zone/NN source/NN
 |
-HP's/NNS board/NN considers/VBZ ousting/VBG CEO/NNP :/: report/NN
+HP/NNP '/POS s/PRP board/NN considers/VBZ ousting/VBG CEO/NNP :/: report/NN
 |
 Hurricane/NNP Irene/NNP losses/NNS less/JJR than/IN once/RB feared/VBD reuters.com/CD article/NN
 2011/NN
 |
-New/NNP evidence/NN of/IN phonehacking/VBG at/IN Rupert/NNP Murdoch's/NNS News/NNP of/IN the/DT World/NNP points/NNS to/TO cover-up/NN
+New/NNP evidence/NN of/IN phonehacking/VBG at/IN Rupert/NNP Murdoch/NNP '/POS s/PRP News/NNP of/IN the/DT World/NNP points/NNS to/TO cover-up/NN
 |
-Latest/JJS update/VB from/IN Tripoli/NNP :/: Price/NNP on/IN Gaddafi's/NNS head/NN as/IN fighting/VBG goes/VBZ on/IN
+Latest/JJS update/VB from/IN Tripoli/NNP :/: Price/NNP on/IN Gaddafi/NN '/POS s/PRP head/NN as/IN fighting/VBG goes/VBZ on/IN
 |
 Rebel/NN reinforcements/NNS make/VB Tripoli/NNP by/IN sea/NN :/: activist/NN
 |
@@ -1600,7 +1600,7 @@ Miss/NNP Angola/NNP crowned/VBN Miss/NNP Universe/NNP in/IN Brazil/NNP
 |
 Chinese/JJ and/CC Russian/NNP firms/NNS fare/NN worst/JJS in/IN bribery/NN index/NN
 |
-FLASH/NN :/: France/NNP leads/VBZ other/JJ Western/JJ nations/NNS in/IN walk-out/NN as/IN Iran's/NNS Ahmadinejad/NN addresses/NNS United/VBN Nations/NNPS
+FLASH/NN :/: France/NNP leads/VBZ other/JJ Western/JJ nations/NNS in/IN walk-out/NN as/IN Iran/NNP '/POS s/PRP Ahmadinejad/NN addresses/NNS United/VBN Nations/NNPS
 |
 Greece/NNP heads/NNS for/IN standstill/JJ before/IN austerity/NN vote/NN
 |
@@ -1608,13 +1608,13 @@ NYC/NN transit/NN information/NN available/JJ on/IN our/FPRP Reuters/NNP Irene/N
 |
 FLASH/NN :/: U.S/CD ./. congressional/JJ bipartisan/JJ deficit-reduction/NN panel/NN to/TO hold/VB first/JJ meeting/VBG on/IN Thursday/NNP
 |
-Iran's/NNS Ahmadinejad/NN slams/VBZ West/NNP over/IN Sept/NNP ./. 11/NN attacks/NNS
+Iran/NNP '/POS s/PRP Ahmadinejad/NN slams/VBZ West/NNP over/IN Sept/NNP ./. 11/NN attacks/NNS
 |
 AOL/NN shares/NNS down/RB over/IN 5/NN percent/NN after/IN conflicting/VBG reports/NNS about/IN a/DT possible/JJ tie-up/NN between/IN AOL/NN and/CC Yahoo/NN
 |
-FLASH/NN :/: Moody's/NNS takes/VBZ negative/JJ rating/VBG actions/NNS on/IN most/RBS Japanese/JJ banks/NNS following/VBG sovereign/JJ downgrade/NN
+FLASH/NN :/: Moody/NNP '/POS s/PRP takes/VBZ negative/JJ rating/VBG actions/NNS on/IN most/RBS Japanese/JJ banks/NNS following/VBG sovereign/JJ downgrade/NN
 |
-FLASH/NN :/: Libyan/JJ gov't/NN spokesman/NN says/VBZ "/" armed/VBN people/NNS have/VBP sneaked/VBD into/IN Tripoli/NNP "/" but/CC have/VBP been/VBN dealt/VBN with/IN ,/, adds/VBZ that/IN
+FLASH/NN :/: Libyan/JJ gov/NN '/POS t/NN spokesman/NN says/VBZ "/" armed/VBN people/NNS have/VBP sneaked/VBD into/IN Tripoli/NNP "/" but/CC have/VBP been/VBN dealt/VBN with/IN ,/, adds/VBZ that/IN
 "/" Tripoli/NNP is/VBZ safe/JJ "/"
 :/: State/NNP TV/NN
 |
@@ -1624,7 +1624,7 @@ FLASH/NN :/: Freddie/NNP Mac/NNP CEO/NNP Charles/NNP
 "/" Ed/NNP "/"
 Haldeman/NNP Jr/NNP ./. to/TO resign/VB ,/, regulator/NN says/VBZ
 |
-RT/NN ReutersUS/NN :/: Infographic/NN :/: Key/NNP elements/NNS of/IN Obama's/NNS $/$ 447/NN billion/CD jobs/NNS plan/NN
+RT/NN ReutersUS/NN :/: Infographic/NN :/: Key/NNP elements/NNS of/IN Obama/NN '/POS s/PRP $/$ 447/NN billion/CD jobs/NNS plan/NN
 |
 FLASH/NN :/: Libyan/JJ rebels/NNS offer/NN amnesty/NN for/IN anyone/NN who/WP captures/VBZ or/CC kills/VBZ Gaddafi/NN -/: rebel/NN council/NN chairman/NN
 |
@@ -1632,7 +1632,7 @@ House/NNP panel/NN subpoenas/NNS failed/VBD gun/NN sting/VBG documents/NNS
 |
 U.S/CD ./. hopes/VBZ regional/JJ talks/NNS will/MD stabilize/VB Afghanistan/NNP
 |
-sladey66/NN Thanks/NNS ,/, we're/NN fixing/VBG
+sladey66/NN Thanks/NNS ,/, we/FPRP '/POS re/NN fixing/VBG
 |
 Opportunity/NNP for/IN Samsung/NNP ,/, HTC/NN as/IN iPhone/NN 4S/NN disappoints/VBZ
 |
@@ -1646,7 +1646,7 @@ Flash/NN :/: Tsunami/NNS Advisory/NNP lifted/VBD for/IN northeast/NN Japan/NNP -
 |
 Gaddafi/NN said/VBD to/TO be/VB hiding/VBG near/IN Algeria/NNP border/NN ,/, according/VBG to/TO a/DT senior/JJ Libyan/JJ military/JJ official/JJ
 |
-Condoleezza/NN Rice/NNP rejects/VBZ Cheney's/NNS "/" attack/NN on/IN my/FPRP integrity/NN "/"
+Condoleezza/NN Rice/NNP rejects/VBZ Cheney/NNP '/POS s/PRP "/" attack/NN on/IN my/FPRP integrity/NN "/"
 |
 Irene/NNP shut/VBN down/RB northeast/NN U.S/CD .,/CD but/CC New/NNP York/NNP spared/VBN
 |
@@ -1655,7 +1655,7 @@ IPSOS/NN poll/NN
 |
 FLASH/NN :/: Apple/NNP says/VBZ Steve/NNP Jobs/NNP has/VBZ died/VBD ./.
 |
-Herman/NNP Cain's/NNS biggest/JJS campaign/NN challenger/NN may/MD be/VB time/NN
+Herman/NNP Cain/NNP '/POS s/PRP biggest/JJS campaign/NN challenger/NN may/MD be/VB time/NN
 |
 Murdoch/NNP expands/VBZ internal/JJ inquiry/NN of/IN UK/NNP papers/NNS
 |
@@ -1667,16 +1667,16 @@ Exclusive/JJ :/: Lockheed/VBN lobbies/NNS anew/RB for/IN new/JJ Taiwan/NNP F-16s
 |
 Documents/NNS show/NN links/NNS between/IN CIA/NNP ,/, Libyan/JJ spy/NN unit/NN
 |
-Yesterday's/NNS US/FPRP Census/NNP Bureau's/NNS report/NN in/IN graphic/JJ form/NN ./.
+Yesterday/NN '/POS s/PRP US/FPRP Census/NNP Bureau/NNP '/POS s/PRP report/NN in/IN graphic/JJ form/NN ./.
 See/VB the/DT changes/NNS in/IN poverty/NN ,/, health/NN insurance/NN and/CC income/NN :/:
 |
-Interactive/NNP :/: How/WRB Republicans/NNPS view/NN Herman/NNP Cain's/NNS "/" smoking/VBG "/" ad/NN
+Interactive/NNP :/: How/WRB Republicans/NNPS view/NN Herman/NNP Cain/NNP '/POS s/PRP "/" smoking/VBG "/" ad/NN
 |
 Insight/NNP :/: The/DT madness/NNS of/IN Wall/NNP Street/NNP
 |
-St/NNP Paul's/NNS ,/, caught/VBN between/IN God/NNP and/CC Mammon/NN in/IN tent/NN protest/NN
+St/NNP Paul/NNP '/POS s/PRP ,/, caught/VBN between/IN God/NNP and/CC Mammon/NN in/IN tent/NN protest/NN
 |
-Gaddafi's/NNS body/NN is/VBZ latest/JJS war/NN trophy/NN for/IN Misrata/NN
+Gaddafi/NN '/POS s/PRP body/NN is/VBZ latest/JJS war/NN trophy/NN for/IN Misrata/NN
 |
 Gunmen/NNS kill/VB seven/CD people/NNS in/IN southern/JJ Israel/NNP in/IN three/CD attacks/NNS along/IN the/DT Egyptian/JJ border/NN
 |
@@ -1684,13 +1684,13 @@ FLASH/NN :/: Convicted/VBN Lockerbie/NNP bomber/NN Abdel/NN Baset/NN Al-Megrahi/
 |
 Assad/NNP says/VBZ Syria/NNP unrest/NN has/VBZ became/VBD more/JJR militant/JJ
 |
-Analysis/NNP :/: Will/MD Obama's/NNS foreign/JJ policy/NN success/NNS help/VB in/IN 2012/NN ?/.
+Analysis/NNP :/: Will/MD Obama/NN '/POS s/PRP foreign/JJ policy/NN success/NNS help/VB in/IN 2012/NN ?/.
 |
-Libya's/NNS Saif/NN al-Islam/NN bids/NNS to/TO escape/VB father's/NNS fate/NN
+Libya/NNP '/POS s/PRP Saif/NN al-Islam/NN bids/NNS to/TO escape/VB father/NN '/POS s/PRP fate/NN
 |
 al-Megrahi/NN tells/VBZ Reuters/NNP he/TPRP has/VBZ at/IN most/RBS a/DT few/JJ months/NNS to/TO live/VB ,/, says/VBZ Lockerbie/NNP facts/NNS will/MD be/VB revealed/VBD in/IN a/DT few/JJ months/NNS
 |
-FLASH/NN :/: Libyan/JJ rebel/NN flag/NN raised/VBN over/IN Libya's/NNS embassy/NN in/IN Algeria/NNP -/: Reuters/NNP reporter/NN
+FLASH/NN :/: Libyan/JJ rebel/NN flag/NN raised/VBN over/IN Libya/NNP '/POS s/PRP embassy/NN in/IN Algeria/NNP -/: Reuters/NNP reporter/NN
 |
 Yang/NNP eyes/NNS Yahoo/NN buyout/NN with/IN private/JJ equity/NN
 |
@@ -1698,9 +1698,9 @@ Counter-terrorism/NN consultants/NNS and/CC Yemen/NNP experts/NNS weigh/VB in/IN
 |
 FLASH/NN :/: Dollar/NN yen/NNS rises/VBZ more/JJR than/IN 4/NN percent/NN as/IN Japan/NNP continues/VBZ intervening/VBG in/IN FX/NN market/NN
 |
-Vermont/NNP flooded/VBN after/IN Irene's/NNS torrential/JJ rains/NNS
+Vermont/NNP flooded/VBN after/IN Irene/NNP '/POS s/PRP torrential/JJ rains/NNS
 |
-Exclusive/JJ :/: Swift/NNP Trade's/NNS U.S/CD ./. broker/NN may/MD face/NN FINRA/NN charges/NNS reuters.com/CD article/NN
+Exclusive/JJ :/: Swift/NNP Trade/NNP '/POS s/PRP U.S/CD ./. broker/NN may/MD face/NN FINRA/NN charges/NNS reuters.com/CD article/NN
 2011/NN
 |
 FLASH/NN :/: All/DT crew/NN on/IN hijacked/VBN Italian/JJ ship/NN freed/VBN by/IN British/JJ ,/, U.S/CD ./. special/JJ forces/NNS -/: Italy/RB foreign/JJ ministry/NN spokesman/NN
@@ -1709,9 +1709,9 @@ Libyans/NNPS urged/VBD to/TO unite/VB after/IN death/NN of/IN Gaddafi/NN
 |
 New/NNP labels/NNS make/VB picking/VBG health/NN insurance/NN plans/NNS easier/JJR
 |
-Syria's/NNS Assad/NNP says/VBZ expects/VBZ parliament/NN vote/NN in/IN February/NNP
+Syria/NNP '/POS s/PRP Assad/NNP says/VBZ expects/VBZ parliament/NN vote/NN in/IN February/NNP
 |
-Gaddafi/NN killed/VBN as/IN Libya's/NNS revolt/NN claims/NNS hometown/NN
+Gaddafi/NN killed/VBN as/IN Libya/NNP '/POS s/PRP revolt/NN claims/NNS hometown/NN
 |
 Greece/NNP to/TO default/NN but/CC not/RB leave/VB euro/NN zone/NN -/: Fitch/NNP
 |
@@ -1728,7 +1728,7 @@ Groupon/NN mulls/VBZ raising/VBG IPO/NNP price/NN
 |
 FLASH/NN :/: UK/NNP high/JJ court/NN says/VBZ WikiLeaks/NNS '/POS Julian/NNP Assange/NN should/MD be/VB extradited/VBN to/TO Sweden/NNP over/IN alleged/VBN sex/NN crimes/NNS
 |
-Mexico's/NNS Calderon/NNP defends/VBZ war/NN on/IN drug/NN cartels/NNS
+Mexico/NNP '/POS s/PRP Calderon/NNP defends/VBZ war/NN on/IN drug/NN cartels/NNS
 |
 U.S/CD ./. 10-year/NN Treasury/NNP notes/NNS yield/VB below/IN 2/NN percent/NN for/IN first/JJ time/NN
 |
@@ -1748,7 +1748,7 @@ Gaddafi/NN and/CC son/NN buried/VBN at/IN dawn/NN :/: NTC/NNP officials/NNS reut
 |
 Libya/NNP "/" liberated/VBN ,"/NN but/CC Gaddafi/NN still/RB unburied/VBN
 |
-At/IN the/DT heart/NN of/IN Wall/NNP St/NNP dwells/VBZ a/DT fundamental/JJ conflict/NN ,/, JC/NN Chandor/NN discusses/VBZ his/TPRP new/JJ film/NN 'Margin/NN Call/VB '/POS with/IN Rob1Cox/NN ./.
+At/IN the/DT heart/NN of/IN Wall/NNP St/NNP dwells/VBZ a/DT fundamental/JJ conflict/NN ,/, JC/NN Chandor/NN discusses/VBZ his/TPRP new/JJ film/NN '/POS Margin/NN Call/VB '/POS with/IN Rob1Cox/NN ./.
 |
 FLASH/NN :/: Magnitude/NN 7.0/CD earthquake/NN hits/NNS southwest/RB of/IN Ica/NN ,/, Peru/NNP -USGS/NN says/VBZ
 |
@@ -1756,7 +1756,7 @@ Despondent/JJ Greeks/NNPS call/VB referendum/NN plan/NN "/" blackmail/NN "/"
 |
 Hurricane/NNP Irene/NNP is/VBZ now/RB Tropical/JJ Storm/NN Irene/NNP ,/, downgraded/VBD as/IN maximum/JJ sustained/VBN winds/NNS fall/NN to/TO 65/NN mph/NN
 |
-INDIA/NN INSIGHT/NN :/: Navigating/VBG the/DT obstacle/NN course/NN of/IN India's/NNS SimCities/NNS blogs.reuters.com/CD india/NN
+INDIA/NN INSIGHT/NN :/: Navigating/VBG the/DT obstacle/NN course/NN of/IN India/NNP '/POS s/PRP SimCities/NNS blogs.reuters.com/CD india/NN
 2011/NN
 10/NN by/IN Lyndee/NN Prickitt/NN
 |
@@ -1771,7 +1771,7 @@ In/IN India/NNP ,/, Karzai/NN reaches/VBZ out/IN to/TO brother/NN Pakistan/NNP
 |
 Witness/VB :/: Surviving/VBG a/DT big/JJ hurricane/NN in/IN the/DT big/JJ city/NN
 |
-Exclusive/JJ :/: Steve/NNP Cohen's/NNS fund/NN to/TO get/VB into/IN reinsurance/NN business/NNS
+Exclusive/JJ :/: Steve/NNP Cohen/NNP '/POS s/PRP fund/NN to/TO get/VB into/IN reinsurance/NN business/NNS
 |
 FLASH/NN :/: Head/NNP of/IN Libya/NNP rebel/NN council/NN says/VBZ ready/JJ to/TO stop/VB fighting/VBG on/IN condition/NN Gaddafi/NN announces/VBZ departure/NN :/: report/NN
 |
@@ -1781,7 +1781,7 @@ Treasury/NNP issues/NNS $/$ 1.6/CD billion/CD in/IN last/JJ round/NN of/IN small
 |
 FLASH/NN :/: Car/NNP rammed/VBD UN/NNP building/VBG in/IN Nigeria/NNP and/CC exploded/VBD -/: security/NN sources/NNS
 |
-It's/NNP official/JJ JPMorgan/NN Chase/NNP &/CC Co/NNP surpassed/VBN Bank/NNP of/IN America/NNP Corp/NNP as/IN the/DT largest/JJS U.S/CD ./. bank/NN by/IN assets/NNS --/: $/$ JPM/NN $/$ BAC/NN
+It/TPRP '/POS s/PRP official/JJ JPMorgan/NN Chase/NNP &/CC Co/NNP surpassed/VBN Bank/NNP of/IN America/NNP Corp/NNP as/IN the/DT largest/JJS U.S/CD ./. bank/NN by/IN assets/NNS --/: $JPM/NN $BAC/NN
 |
 Read/NNP the/DT letter/NN that/IN may/MD blow/NN open/JJ the/DT phone-hacking/VBG investigation/NN and/CC suggests/VBZ a/DT cover-up/NN
 |
@@ -1793,7 +1793,7 @@ Israel/NNP embassy/NN papers/NNS thrown/VBN from/IN Cairo/NNP windows/NNS
 |
 FLASH/NN :/: NY/NN orders/NNS mandatory/JJ evacuation/NN of/IN people/NNS living/VBG in/IN low-lying/JJ areas/NNS of/IN city/NN -Mayor/NN Bloomberg/NNP
 |
-Photos/NNS Honda/NNP MotoGP's/NNS Simoncelli/NN has/VBZ died/VBD after/IN crash/NN during/IN Malaysian/JJ Grand/NNP Prix/NNP ./. yfrog.com/CD g0tepzj/NN
+Photos/NNS Honda/NNP MotoGP/NN '/POS s/PRP Simoncelli/NN has/VBZ died/VBD after/IN crash/NN during/IN Malaysian/JJ Grand/NNP Prix/NNP ./. yfrog.com/CD g0tepzj/NN
 |
 GM/NNP aims/VBZ to/TO move/NN pension/NN risk/NN off/IN table/NN |/NN Reuters/NNP reuters.com/CD article/NN
 2011/NN
@@ -1806,7 +1806,7 @@ Egyptians/NNPS wait/VB at/IN border/NN for/IN Israel/NNP prisoner/NN swap/NN
 |
 Gaddafi/NN gave/VBD a/DT speech/NN urging/VBG his/TPRP people/NNS to/TO "/" liberate/VB Libya/NNP ,/, inch/NN by/IN inch/NN ,/, from/IN traitors/NNS and/CC NATO/NNP ."/CD
 |
-376/NN killed/VBN on/IN both/DT sides/NNS ;/: estimated/VBN 1,000/NN injured/VBN Saturday/NNP &/CC Sunday/NNP ,/, official/JJ in/IN Gaddafi's/NNS gov't/NN told/VBD Reuters/NNP on/IN condition/NN of/IN anonymity/NN
+376/NN killed/VBN on/IN both/DT sides/NNS ;/: estimated/VBN 1,000/NN injured/VBN Saturday/NNP &/CC Sunday/NNP ,/, official/JJ in/IN Gaddafi/NN '/POS s/PRP gov/NN '/POS t/NN told/VBD Reuters/NNP on/IN condition/NN of/IN anonymity/NN
 |
 FLASH/NN :/: Research/NNP in/IN Motion/NNP advises/VBZ some/DT clients/NNS that/IN it/TPRP does/VBZ not/RB expect/VBP e-mail/NN backlog/NN to/TO clear/JJ until/IN Thursday/NNP morning/VBG on/IN U.S/CD ./. east/JJ coast/NN
 |
@@ -1816,7 +1816,7 @@ Anti-Wall/NN St/NNP movement/NN has/VBZ potential/JJ political/JJ punch/NN
 |
 Five/CD things/NNS to/TO look/VB for/IN in/IN Republican/NNP debate/NN
 |
-Federal/JJ appeals/NNS court/NN throws/VBZ out/IN Virginia's/NNS challenge/NN to/TO health/NN care/NN law/NN
+Federal/JJ appeals/NNS court/NN throws/VBZ out/IN Virginia/NNP '/POS s/PRP challenge/NN to/TO health/NN care/NN law/NN
 |
 Suspicious/JJ item/NN found/VBD at/IN Dulles/NNP Airport/NNP near/IN Washington/NNP
 |
@@ -1844,9 +1844,9 @@ Special/JJ Report/NNP :/:
 |
 Bernanke/NN says/VBZ Fed/VBN ready/JJ to/TO do/VBP more/JJR to/TO aid/NN economy/NN
 |
-Christine/NNP O'Donnell/NNP explains/VBZ Piers/NNP Morgan/NNP walkout/NN
+Christine/NNP O/NNP '/POS Donnell/NNP explains/VBZ Piers/NNP Morgan/NNP walkout/NN
 |
-Libya's/NNS NTC/NNP retakes/NNS airport/NN in/IN Gaddafi/NN home/NN town/NN
+Libya/NNP '/POS s/PRP NTC/NNP retakes/NNS airport/NN in/IN Gaddafi/NN home/NN town/NN
 |
 Cantor/NNP says/VBZ concerned/VBN about/IN Wall/NNP St/NNP ./. "/" mobs/NNS "/"
 |
@@ -1855,7 +1855,7 @@ Pakistan/NNP PM/NNP cancels/VBZ U.S/CD ./. visit/NN due/JJ to/TO floods/NNS
 Bernanke/NN says/VBZ Fed/VBN would/MD act/VB if/IN inflation/NN falls/VBZ
 |
 FLASH/NN :/: U.S/CD ./. delegation/NN walks/VBZ out/IN of/IN U.N/CD ./.
-General/JJ Assembly/RB as/IN Iran's/NNS Ahmadinejad/NN delivers/VBZ address/NNS
+General/JJ Assembly/RB as/IN Iran/NNP '/POS s/PRP Ahmadinejad/NN delivers/VBZ address/NNS
 |
 Dow/NNP and/CC S&P/NNP 500/NN end/NN up/IN ,/, Nasdaq/NNP down/RB
 |
@@ -1887,9 +1887,9 @@ Analysis/NNP :/: States/NNPS lobby/NN against/IN Medicaid/NNP cuts/NNS in/IN Con
 |
 Wall/NNP Street/NNP ends/NNS worst/JJS quarter/NN since/IN 2008/NN
 |
-Poll/NNP woes/NNS don't/VB slow/JJ Obama's/NNS campaign/NN money/NN train/NN
+Poll/NNP woes/NNS do/VBP n't/RB slow/JJ Obama/NN '/POS s/PRP campaign/NN money/NN train/NN
 |
-NYC/NN mayor/NN MichaelBloomberg's/NNS press/NNS conference/NN LIVE/VB NOW/RB on/IN our/FPRP Reuters/NNP live/VB blog/NN
+NYC/NN mayor/NN MichaelBloomberg/NN '/POS s/PRP press/NNS conference/NN LIVE/VB NOW/RB on/IN our/FPRP Reuters/NNP live/VB blog/NN
 |
 Starbucks/NNS CEO/NNP urges/VBZ citizens/NNS to/TO back/RB anti-gridlock/NN move/NN
 |
@@ -1899,18 +1899,18 @@ UBS/NNP raises/VBZ rogue/JJ equity/NN trade/NN losses/NNS to/TO $/$ 2.3/CD billi
 |
 FLASH/NN :/: Russian/NNP President/NNP Medvedev/NNP begins/VBZ talks/NNS with/IN North/NNP Korean/JJ leader/NN Kim/NNP Jong-il/NN in/IN Siberia/NNP -/: Ria/NN news/NNS agency/NN
 |
-Head/NNP of/IN Anglican/NNP church/NN confronts/VBZ Zimbabwe's/NNS Mugabe/NNP
+Head/NNP of/IN Anglican/NNP church/NN confronts/VBZ Zimbabwe/NNP '/POS s/PRP Mugabe/NNP
 |
 HSBC/NN to/TO cut/VB 3,000/NN jobs/NNS in/IN Hong/NNP Kong/NNP reuters.com/CD article/NN
 2011/NN
 |
 Wall/NNP Street/NNP giving/VBG down/RB ,/, but/CC Romney/NN leads/VBZ U.S/CD ./. pack/NN
 |
-FLASH/NN :/: Apple/NNP says/VBZ Tim/NNP Cook/NNP is/VBZ the/DT company's/NNS new/JJ CEO/NNP
+FLASH/NN :/: Apple/NNP says/VBZ Tim/NNP Cook/NNP is/VBZ the/DT company/NN '/POS s/PRP new/JJ CEO/NNP
 |
 FLASH/NN :/: Saudi/NNP Arabia/NNP Crown/NNP Prince/NNP Sultan/NNP dies/VBZ -/: CNN/NNP
 |
-Large/JJ turnout/NN in/IN Tunisia's/NNS Arab/NNP Spring/VBG election/NN
+Large/JJ turnout/NN in/IN Tunisia/NNP '/POS s/PRP Arab/NNP Spring/VBG election/NN
 |
 Stocks/NNS rise/NN on/IN Wall/NNP Street/NNP cues/NNS ;/: franc/NN tumbles/VBZ
 |
@@ -1920,9 +1920,9 @@ HP/NNP confirms/VBZ Whitman/NNP to/TO replace/VB Apotheker/NN as/IN CEO/NNP
 |
 Banks/NNP downgraded/VBD as/IN EU/NN squabbles/NNS over/IN next/JJ bailout/NN
 |
-Watch/NN BarackObama's/NNS statement/NN on/IN Hurricane/NNP Irene/NNP LIVE/VB NOW/RB here/RB :/:
+Watch/NN BarackObama/NN '/POS s/PRP statement/NN on/IN Hurricane/NNP Irene/NNP LIVE/VB NOW/RB here/RB :/:
 |
-Alibaba's/NNS Ma/NNP says/VBZ he's/NNS not/RB the/DT reason/NN for/IN Bartz's/NNS departure/NN
+Alibaba/NN '/POS s/PRP Ma/NNP says/VBZ he/TPRP '/POS s/PRP not/RB the/DT reason/NN for/IN Bartz/NN '/POS s/PRP departure/NN
 |
 BofA/NN sued/VBD by/IN shareholder/NN over/IN $/$ 10/NN billion/CD AIG/NNP loss/NNS
 |
@@ -1935,7 +1935,7 @@ qqMHxb/NN via/IN BloombergNews/NNS
 |
 Analysis/NNP :/: Experts/NNS skeptical/JJ of/IN Strauss-Kahn/NN immunity/NN claim/NN
 |
-Three/CD NTC/NNP officials/NNS say/VBP Gaddafi's/NNS son/NN Motassim/NN has/VBZ been/VBN captured/VBN in/IN Sirte/NN and/CC is/VBZ being/VBG held/VBN in/IN Benghazi/NN
+Three/CD NTC/NNP officials/NNS say/VBP Gaddafi/NN '/POS s/PRP son/NN Motassim/NN has/VBZ been/VBN captured/VBN in/IN Sirte/NN and/CC is/VBZ being/VBG held/VBN in/IN Benghazi/NN
 |
 Real-time/JJ updates/NNS of/IN Libya/NNP Tripoli/NNP on/IN our/FPRP Reuters/NNP live/VB blog/NN
 |
@@ -1946,7 +1946,7 @@ FLASH/NN :/: Libyan/JJ rebel/NN envoy/NN says/VBZ does/VBZ not/RB know/VB where/
 China/NNP :/: Currency/NN law/NN would/MD hurt/VBN U.S/CD ./. jobs/NNS growth/NN
 |
 FLASH/NN :/: Fourth/NNP U.S/CD ./.
-Circuit/NNP Court/NNP of/IN Appeals/NNPS rejects/VBZ Virginia's/NNS challenge/NN to/TO health/NN care/NN law/NN -court/NN ruling/VBG
+Circuit/NNP Court/NNP of/IN Appeals/NNPS rejects/VBZ Virginia/NNP '/POS s/PRP challenge/NN to/TO health/NN care/NN law/NN -court/NN ruling/VBG
 |
 Winners/NNS and/CC losers/NNS in/IN the/DT Google-Motorola/NN deal/JJ
 |
@@ -1963,7 +1963,7 @@ Syria/NNP to/TO pull/VB military/JJ out/IN from/IN cities/NNS :/: Arab/NNP Leagu
 |
 NTC/NNP says/VBZ ,/, citing/VBG forensic/JJ report/NN ,/, it/TPRP was/VBD bullet/NN to/TO the/DT head/NN that/IN done/VBN for/IN Muammar/NNP Libya/NNP
 |
-IMF's/NNS Lagarde/NN :/: report/NN of/IN $/$ 273.2/CD billion/CD bank/NN hole/NN misleading/JJ
+IMF/NNP '/POS s/PRP Lagarde/NN :/: report/NN of/IN $/$ 273.2/CD billion/CD bank/NN hole/NN misleading/JJ
 |
 Ridiculed/VBN crystal/JJ work/NN wins/VBZ Nobel/NNP for/IN Israeli/JJ
 |
@@ -1977,7 +1977,7 @@ Statement/NN from/IN NBCUniversal/JJ regarding/VBG hacking/JJ of/IN NBCNews/NNS 
 |
 FLASH/NN :/: Steve/NNP Jobs/NNP resigns/VBZ as/IN CEO/NNP of/IN Apple/NNP
 |
-Myanmar's/NNS Suu/NNP Kyi/NNP could/MD seek/VB parliament/NN seat/NN
+Myanmar/NN '/POS s/PRP Suu/NNP Kyi/NNP could/MD seek/VB parliament/NN seat/NN
 |
 British/JJ driver/NN Dan/NNP Wheldon/NN dies/VBZ after/IN Indy/NN crash/NN
 |
@@ -1993,7 +1993,7 @@ FLASH/NN :/: Libyan/JJ interim/JJ council/NN official/JJ declares/VBZ to/TO the/
 |
 Bosnia/NN U.S/CD ./. embassy/NN attacker/NN says/VBZ he/TPRP acted/VBD alone/RB :/: lawyer/NN
 |
-Prince's/NNS death/NN sets/NNS challenge/NN to/TO ageing/VBG Saudi/NNP royals/NNS
+Prince/NNP '/POS s/PRP death/NN sets/NNS challenge/NN to/TO ageing/VBG Saudi/NNP royals/NNS
 |
 FLASH/NN CORRECTED/VBN :/: Magnitude/NN 7.1/CD quake/NN strikes/NNS southeast/RB of/IN Atka/NN ,/, Alaska/NNP (not/NN southeast/RB of/IN Alaska/NNP )/) -/: USGS/NN
 |
@@ -2005,8 +2005,8 @@ Egypt/NNP Christians/NNPS mourn/VB dead/JJ after/IN clashes/NNS kill/VB 25/NN
 |
 Wall/NNP Street/NNP protesters/NNS arrested/VBN during/IN march/NN through/IN New/NNP York/NNP
 |
-Bank/NNP of/IN America/NNP plans/NNS to/TO charge/NN some/DT debit/NN card/NN users/NNS a/DT $/$ 5/NN monthly/RB fee/NN bloom.bg/CD
-qsYiY2/NN $/$ BAC/NN
+Bank/NNP of/IN America/NNP plans/NNS to/TO charge/NN some/DT debit/NN card/NN users/NNS a/DT $5/NN monthly/RB fee/NN bloom.bg/CD
+qsYiY2/NN $BAC/NN
 |
 RIM/NN rises/VBZ on/IN new/JJ BlackBerrys/NNS ,/, changing/VBG landscape/NN
 |
@@ -2026,7 +2026,7 @@ Disaster/NN aid/NN hits/NNS brick/NN wall/NN in/IN Congress/NNP
 |
 Green-glowing/VBG cats/NNS are/VBP new/JJ tool/NN in/IN AIDS/NNP research/NN
 |
-Live/NNP coverage/NN of/IN President/NNP Obama's/NNS deficit/NN reduction/NN address/NNS and/CC Treasury/NNP Secretary/NNP Tim/NNP Geithner's/NNS press/NNS conference/NN :/:
+Live/NNP coverage/NN of/IN President/NNP Obama/NN '/POS s/PRP deficit/NN reduction/NN address/NNS and/CC Treasury/NNP Secretary/NNP Tim/NNP Geithner/NN '/POS s/PRP press/NNS conference/NN :/:
 |
 Tim/NNP Cook/NNP e-mails/NNS Apple/NNP employees/NNS :/:
 "/" Apple/NNP is/VBZ not/RB going/VBG to/TO change/NN "/"
@@ -2061,7 +2061,7 @@ Obama/NN faces/VBZ skepticism/NN from/IN swing/VBG voters/NNS :/: poll/NN
 |
 Ex-fund/NN tycoon/NN Rajaratnam/NN set/VBN to/TO hear/VB sentence/NN
 |
-Did/VBD Netflix's/NNS very/RB bad/JJ day/NN create/VB value/NN ?/.
+Did/VBD Netflix/NN '/POS s/PRP very/RB bad/JJ day/NN create/VB value/NN ?/.
 |
 Fed/VBN to/TO pause/NN ,/, sow/VBP seeds/NNS for/IN more/JJR easing/VBG
 |
@@ -2073,19 +2073,19 @@ CEOs/NNS earned/VBD more/JJR last/JJ year/NN than/IN their/TPRP companies/NNS pa
 Large/JJ Libyan/JJ convoy/NN arrives/VBZ in/IN Niger/NNP :/: sources/NNS reuters.com/CD article/NN
 2011/NN
 |
-India/NNP to/TO launch/VB "/" world/NN 's/POS cheapest/JJS "/" tablet/NN computer/NN for/IN $/$ 35/NN
+India/NNP to/TO launch/VB "/" world/NN '/POS s/PRP cheapest/JJS "/" tablet/NN computer/NN for/IN $/$ 35/NN
 |
 U.N/CD ./. will/MD take/VB weeks/NNS on/IN Palestinian/JJ bid/NN :/: Abbas/NNP
 |
 U.S/CD ./. gold/NN rebounds/VBZ 1/NN percent/NN after/IN sell-off/NN
 |
-Showdown/NNP averted/VBN in/IN New/NNP York's/NNS Wall/NNP Street/NNP protests/NNS
+Showdown/NNP averted/VBN in/IN New/NNP York/NNP '/POS s/PRP Wall/NNP Street/NNP protests/NNS
 |
 Suicide/NN car/NN bomb/NN kills/VBZ 3/NN in/IN Somali/JJ capital/JJ
 |
 Strauss-Kahn/NN back/RB in/IN France/NNP within/IN days/NNS :/: Socialist/NNP leader/NN Aubry/NN
 |
-FLASH/NN :/: Tunisia's/NNS secularist/NN PDP/NN party/NN concedes/VBZ election/NN defeat/NN ,/, says/VBZ will/MD be/VB in/IN opposition/NN
+FLASH/NN :/: Tunisia/NNP '/POS s/PRP secularist/NN PDP/NN party/NN concedes/VBZ election/NN defeat/NN ,/, says/VBZ will/MD be/VB in/IN opposition/NN
 |
 Poet/NNP to/TO beat/VB ex-IRA/NN commander/NN for/IN Irish/JJ president/NN
 |
@@ -2100,12 +2100,12 @@ DM/NN
 @/IN or/CC facebook.com/CD
 ReutersMoney/NN
 |
-SABMiller/NN goes/VBZ hostile/JJ with/IN $/$ 10/NN billion/CD Foster's/NNS bid/NN
+SABMiller/NN goes/VBZ hostile/JJ with/IN $/$ 10/NN billion/CD Foster/NNP '/POS s/PRP bid/NN
 |
 EXCLUSIVE/JJ -/: Haqqanis/NNS to/TO follow/VB Taliban/NN on/IN Afghan/JJ peace/NN in.reuters.com/CD article/NN
 2011/NN
 |
-Compare/VB :/: Amazon's/NNS Fire/NNP versus/IN Apple's/NNS iPad/NN 2/NN
+Compare/VB :/: Amazon/NNP '/POS s/PRP Fire/NNP versus/IN Apple/NNP '/POS s/PRP iPad/NN 2/NN
 |
 Witness/VB :/: My/FPRP weekend/NN at/IN
 "/" The/DT Hague/NNP Hilton/NNP "/"

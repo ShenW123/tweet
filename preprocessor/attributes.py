@@ -32,12 +32,13 @@ def get_attributes(twt):
     past_tense_verbs = str(get_number_occurances("VBD", twt))
     attributes.append(past_tense_verbs)
     
-    #future_tense_verbs = #TODO: 'll, will, gonna, going+to+VB all are future tense
+    future_tense_verbs = str(len(re.findall("(going/VBG to/TO\s+\S+\/VB)|(will/MD\s+\S+\/VB)|(\'/POS+ll/NN\s+\S+\/VB)|(gonna/VBG\s+\S+\/VB)", twt, re.IGNORECASE)))
+    attributes.append(future_tense_verbs)
     
     commas = str(get_number_occurances(",", twt))
     attributes.append(commas)
     
-    colons_semicolons = str(get_number_occurances(":", twt))
+    colons_semicolons = str(len(re.findall("(:/:)|(;/:)", twt)))
     attributes.append(colons_semicolons)
     
     dashes = str(len(re.findall('(-)', twt)))
@@ -46,7 +47,11 @@ def get_attributes(twt):
     parentheses = str(get_number_occurances("\(", twt))
     attributes.append(parentheses)
     
-    #ellipses #TODO: problem is that colons_semicolons tags contain ellipses as well...
+    ellipses = str(len(re.findall("(.../:)", twt)))
+    attributes.append(ellipses)
+    
+    incorrect_ellipses = str(len(re.findall("(\W+/NN)", twt)))
+    attributes.append(incorrect_ellipses)
     
     common_singular_nouns = str(get_number_occurances("NN", twt))
     attributes.append(common_singular_nouns)

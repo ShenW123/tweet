@@ -29,7 +29,7 @@ Hudak/NN pledges/NNS to/TO slash/VB red/JJ tape/NN horror/NN show/NN at/IN victi
 |
 Turning/VBG York/NNP Regions/NNS garbage/NN into/IN vegetables/NNS
 |
-Google/NN to/TO buy/VB Motorola/NNP for/IN $/$ 12.5B/CD
+Google/NN to/TO buy/VB Motorola/NNP for/IN $/$ 12.5/CD B/NNP
 |
 NDP-linked/VBN firms/NNS got/VBD federal/JJ cash/NN for/IN Laytons/NNS funeral/JJ
 |
@@ -220,7 +220,7 @@ You/SPRP can/MD fix/VB that/IN
 |
 Ford/NNP backs/NNS down/RB on/IN library/NN closures/NNS
 |
-Conservative/NNP liken/VBP Herman/NNP Cain's/NNS troubles/NNS to/TO 'high-tech/NN lynching/VBG '/POS
+Conservative/NNP liken/VBP Herman/NNP Cain/NNP '/POS s/PRP troubles/NNS to/TO '/POS high-tech/JJ lynching/VBG '/POS
 |
 Police/NNP find/VB body/NN of/IN female/JJ after/IN boy/NN falls/VBZ on/IN 401/NN
 |
@@ -236,7 +236,7 @@ NATO/NNP agrees/VBZ to/TO end/NN Libya/NNP operation/NN on/IN Oct/NNP ./. 31/NN
 |
 Victims/NNS family/RB pleads/VBZ for/IN help/VB in/IN hunt/NN for/IN killer/NN after/IN weekend/NN shooting/VBG
 |
-Hume/NNP :/: Ford's/NNS great/JJ ad/NN idea/NN ,/, but/CC why/WRB stop/VB at/IN gyms/NNS ?/.
+Hume/NNP :/: Ford/NNP '/POS s/PRP great/JJ ad/NN idea/NN ,/, but/CC why/WRB stop/VB at/IN gyms/NNS ?/.
 |
 Food/NNP allergies/NNS linked/VBN to/TO ethnicity/NN :/: study/NN
 |
@@ -246,9 +246,9 @@ Oshawa/NN man/NN missing/VBG after/IN empty/JJ boat/NN found/VBD
 |
 Health/NNP care/NN and/CC economy/NN are/VBP Ontarians/NNS biggest/JJS concerns/NNS ,/, poll/NN finds/VBZ
 |
-Shania/NN Twain's/NNS stalking/VBG trial/JJ derailed/VBD as/IN accused/VBN asks/VBZ to/TO plead/VB guilty/JJ
+Shania/NN Twain/NNP '/POS s/PRP stalking/VBG trial/JJ derailed/VBD as/IN accused/VBN asks/VBZ to/TO plead/VB guilty/JJ
 |
-Ottawa/NNP plant/NN workers/NNS win/VB $/$ 7m/NN weeks/NNS before/IN jobs/NNS set/VBN to/TO end/NN
+Ottawa/NNP plant/NN workers/NNS win/VB $7m/NN weeks/NNS before/IN jobs/NNS set/VBN to/TO end/NN
 |
 City/NNP librarian/NN assesses/VBZ eyebrow-raising/VBG cuts/NNS
 |
@@ -264,7 +264,7 @@ Griffin/NNP :/: In/IN Brett/NNP Lawrie/NN ,/, Jays/NNPS may/MD have/VBP found/VB
 |
 Lesbians/NNS booted/VBN from/IN Tim/NNP Hortons/NNS for/IN going/VBG beyond/IN displays/NNS of/IN affection/NN
 |
-See/VB the/DT photo/NN :/: Queens/NNP U/SLANG docs/NNS stunned/VBD by/IN man's/NNS face/NN in/IN a/DT tumour/NN
+See/VB the/DT photo/NN :/: Queens/NNP U/SLANG docs/NNS stunned/VBD by/IN man/NN '/POS s/PRP face/NN in/IN a/DT tumour/NN
 |
 Teen/NNPS charged/VBN after/IN dirt/NN bike/NN ,/, cop/NN cruiser/NN collide/NN
 |
@@ -283,7 +283,7 @@ Subways/NNS moving/VBG after/IN water/NN main/JJ break/VB halts/NNS Danforth/NNP
 |
 Suspect/JJ identified/VBN in/IN Nuit/NNP Blanche/NNP shooting/VBG
 |
-Cash-for-gold/NN skirmish/NN leads/VBZ to/TO $/$ 3/NN million/CD lawsuit/NN
+Cash-for-gold/NN skirmish/NN leads/VBZ to/TO $3/NN million/CD lawsuit/NN
 |
 Bizarre/JJ standoff/NN ends/NNS as/IN Indian/NNP anti-corruption/NN guru/NN strikes/NNS deal/JJ
 |
@@ -410,13 +410,13 @@ Up-skirt/NN photos/NNS snapped/VBD at/IN CNE/NN air/NN show/NN :/: police/NN
 |
 As/IN Indians/NNPS rally/RB against/IN corruption/NN ,/, flustered/VBN PM/NNP targets/NNS hunger/NN strike/NN activist/NN
 |
-Goodbye/NNP October/NNP ,/, it's/NNS time/NN for/IN Movember/NN
+Goodbye/NNP October/NNP ,/, it/TPRP '/POS s/PRP time/NN for/IN Movember/NN
 |
 Teen/NNPS missing/VBG from/IN SickKids/NNS hospital/JJ
 |
-Toxicology/NNP tests/NNS show/NN no/DT illegal/JJ drugs/NNS in/IN Amy/NNP Winehouse's/NNS body/NN
+Toxicology/NNP tests/NNS show/NN no/DT illegal/JJ drugs/NNS in/IN Amy/NNP Winehouse/NN '/POS s/PRP body/NN
 |
-'Lost/NN '/POS star/NN arrested/VBN for/IN allegedly/RB punching/VBG female/JJ bus/NNS driver/NN
+'/POS Lost/JJ '/POS star/NN arrested/VBN for/IN allegedly/RB punching/VBG female/JJ bus/NNS driver/NN
 |
 Jewish/JJ prof/NN forced/VBN to/TO defend/VB himself/PRP against/IN anti-Semitism/NN claims/NNS
 |
@@ -481,7 +481,7 @@ Sage/NNP advice/NN from/IN a/DT successful/JJ hockey/NN parent/NN
 |
 After/IN nearly/RB a/DT century/NN ,/, Canadian/JJ Jewish/JJ Congress/NNP winds/NNS down/RB
 |
-The/DT family/RB that/IN has/VBZ sued/VBD everyone/NN from/IN McDonald's/NNS to/TO a/DT mayor/NN
+The/DT family/RB that/IN has/VBZ sued/VBD everyone/NN from/IN McDonald/NNP '/POS s/PRP to/TO a/DT mayor/NN
 |
 Police/NNP presence/NN quiets/NNS London/NNP ,/, but/CC riots/NNS flare/NN across/IN UK/NNP ,/, killing/VBG three/CD
 |
@@ -517,7 +517,7 @@ Rebels/NNS say/VBP they/TPRP have/VBP Moammar/NN Gadhafi/NNP surrounded/VBN
 |
 Olive/NNP :/: U.S/CD ./. will/MD take/VB a/DT long/JJ time/NN to/TO dig/VB out/IN of/IN this/DT hole/NN
 |
-Jays/NNPS fail/VB to/TO sign/NN top/JJ pick/VB ,/, here's/NNS why/WRB they're/NN not/RB worried/VBN
+Jays/NNPS fail/VB to/TO sign/NN top/JJ pick/VB ,/, here/RB '/POS s/PRP why/WRB they/TPRP '/POS re/NN not/RB worried/VBN
 |
 At/IN Laytons/NNS home/NN and/CC office/NN ,/, shared/VBN grief/NN and/CC orange/JJ flowers/NNS
 |
@@ -563,7 +563,7 @@ Dying/VBG man/NN said/VBD friend/NN doused/VBD him/TPRP with/IN gasoline/NN ,/, 
 |
 Oakland/NNP Raiders/NNPS owner/NN Al/NNP Davis/NNP dies/VBZ at/IN age/NN 82/NN
 |
-Queens/NNP Park/NNP lacking/VBG respect/NN for/IN the/DT north/RB ,/, says/VBZ NDP's/NNS Horwath/NNP
+Queens/NNP Park/NNP lacking/VBG respect/NN for/IN the/DT north/RB ,/, says/VBZ NDP/NN '/POS s/PRP Horwath/NNP
 |
 TTC/NN streetcar/NN derails/NNS at/IN Spadina/NN and/CC College/NNP
 |
@@ -597,11 +597,11 @@ VIDEO/NN :/: Typhoon/NN forces/NNS evacuation/NN of/IN a/DT million/CD people/NN
 |
 Islamist/NN fighters/NNS leave/VB Mogadishu/NNP in/IN gain/NN for/IN embattled/JJ Somalian/NN government/NN
 |
-'Dancing/VBG With/IN the/DT Stars/NNP '/POS pairs/NNS revealed/VBD
+'/POS Dancing/VBG With/IN the/DT Stars/NNP '/POS pairs/NNS revealed/VBD
 |
 Baby/NNP survives/VBZ fall/NN from/IN 8th-floor/NN Paris/NNP apartment/NN :/: An/DT 18-month-old/NN boy/NN has/VBZ survived/VBD a/DT fall/NN from/IN an/DT eighth-floor/JJ wi/NN .../:
 |
-Teens/NNS think/VBP they'll/PRP|MD earn/VB $/$ 90,000/NN a/DT year/NN by/IN age/NN 30/NN
+Teens/NNS think/VBP they/TPRP '/POS ll/NN earn/VB $/$ 90,000/NN a/DT year/NN by/IN age/NN 30/NN
 |
 Reports/NNS on/IN missing/VBG weapons/NNS personal/JJ information/NN ,/, York/NNP police/NN say/VBP
 |
@@ -632,7 +632,7 @@ Its/TPRP not/RB science/NN fiction/NN :/: NASA/NNP funding/VBG tractor/NN beam/N
 |
 Worker/NNP dies/VBZ at/IN Brampton/NN construction/NN site/NN
 |
-Bloody/NNP knives/NNS shown/VBN in/IN mayor's/NNS ex/FW brother-in-law's/NNS trial/JJ
+Bloody/NNP knives/NNS shown/VBN in/IN mayor/NN '/POS s/PRP ex/FW brother-in-law/NN '/POS s/PRP trial/JJ
 |
 Ex-wife/NN chases/NNS Hells/NNP Angel/NNP biker/NN for/IN child/NN support/NN
 |
@@ -644,7 +644,7 @@ Cash-strapped/JJ Ford/NNP to/TO meet/VB with/IN McGuinty/NN
 |
 Conviction/NN tossed/VBD out/IN over/IN police/NN brutality/NN :/: Ontario/NNP appeal/JJ judge/NN rips/NNS SIUs/NNS probe/NN of/IN assault/NN complaint/NN after/IN su/NN .../:
 |
-'Violent/NN '/POS sexual/JJ assaults/NNS spark/VB warning/VBG of/IN North/NNP York/NNP predator/NN
+'/POS Violent/JJ '/POS sexual/JJ assaults/NNS spark/VB warning/VBG of/IN North/NNP York/NNP predator/NN
 |
 LIVE/VB :/: Rugby/NN World/NNP Cup/NNP -/: New/NNP Zealand/NNP vs/NNP ./. France/NNP
 |
@@ -746,10 +746,10 @@ Another/DT gruesome/JJ attack/NN on/IN children/NNS at/IN daycare/NN in/IN China
 |
 Will/MD protest/NN movement/NN Occupy/VB the/DT World/NNP Series/NNP ?/.
 |
-Maple/NNP Leafs/NNS job/NN hunting/VBG :/: There's/NNS really/RB only/RB one/CD spot/NN up/IN for/IN grabs/NNS
+Maple/NNP Leafs/NNS job/NN hunting/VBG :/: There/EX '/POS s/PRP really/RB only/RB one/CD spot/NN up/IN for/IN grabs/NNS
 |
 Santa/NNP Claus/NNP parade/NN goes/VBZ high/JJ tech/NN :/: Tired/JJ of/IN Santa/NNP knowing/VBG your/SPRP location/NN and/CC constantly/RB judging/VBG you/SPRP ?/.
-There's/NNS an/DT app/NN .../:
+There/EX '/POS s/PRP an/DT app/NN .../:
 |
 Live/NNP :/: MPs/NNS pay/VB tribute/NN to/TO Jack/NNP Layton/NNP as/IN Parliament/NNP open/JJ
 |
@@ -835,7 +835,7 @@ Quebec/NNP NDP/NN MPs/NNS stay/VB silent/JJ on/IN their/TPRP political/JJ past/J
 |
 Outrage/NN in/IN China/NNP over/IN shocking/JJ video/NN of/IN toddler/NN left/VBN to/TO die/VB on/IN road/NN
 |
-Stephen/NNP Lewis's/NNS eulogy/NN to/TO Jack/NNP Layton/NNP
+Stephen/NNP Lewis/NNP '/POS s/PRP eulogy/NN to/TO Jack/NNP Layton/NNP
 |
 Live/NNP :/: TSX/NN surging/VBG at/IN midday/NN ,/, Dow/NNP also/RB seeing/VBG gains/NNS
 |
@@ -923,7 +923,7 @@ RIM/NN faces/VBZ class-action/JJ lawsuit/NN over/IN BlackBerry/NN outage/NN
 |
 Two-week-old/NN baby/NN rescued/VBN from/IN rubble/NN in/IN Turkey/NNP
 |
-World's/NNS population/NN hits/NNS 7/NN billion/CD
+World/NNP '/POS s/PRP population/NN hits/NNS 7/NN billion/CD
 |
 Dog/NNP bit/NN police/NN employee/NN before/IN attacking/VBG student/NN
 |
@@ -1018,7 +1018,7 @@ Video/NNP :/: Bystanders/NNS lift/VB burning/VBG car/NN off/IN unconscious/JJ mo
 |
 Woman/NNP told/VBD to/TO call/VB ambulance/NN after/IN breaking/VBG leg/NN at/IN hospital/JJ
 |
-Pride/NNP ,/, tears/NNS as/IN Tunisians/NNS in/IN Canada/NNP vote/NN in/IN first/JJ 'real/JJ '/POS election/NN
+Pride/NNP ,/, tears/NNS as/IN Tunisians/NNS in/IN Canada/NNP vote/NN in/IN first/JJ '/POS real/JJ '/POS election/NN
 |
 Obama/NN :/: No/DT shortcut/NN to/TO ending/VBG Israelis-Palestinians/NNS conflict/NN
 |
@@ -1070,7 +1070,7 @@ Courthouse/NN guards/NNS investigated/VBN for/IN accepting/VBG baseballs/NNS sig
 |
 Mariam/NNP Makhniashvilis/NNS brother/NN located/VBN :/: Less/RBR than/IN 11/NN hours/NNS after/IN he/TPRP was/VBD reported/VBD missing/VBG ,/, the/DT 17-year-old/NN brother/NN .../:
 |
-SpongeBob/NN is/VBZ bad/JJ for/IN your/SPRP kid's/NNS brain/NN :/: study/NN
+SpongeBob/NN is/VBZ bad/JJ for/IN your/SPRP kid/NN '/POS s/PRP brain/NN :/: study/NN
 |
 Conrad/NNP Black/NNP enters/VBZ Miami/NNP prison/NN to/TO finish/VB sentence/NN
 |
@@ -1095,11 +1095,11 @@ Explosions/NNS kill/VB 10/NN in/IN Baghdad/NNP
 Djokovic-Nadal/JJ ,/, Serena-Stosur/NN in/IN U.S/CD ./.
 Open/NNP finals/NNS
 |
-Sarah/NNP Palin/NN won't/NN run/VB in/IN 2012/NN
+Sarah/NNP Palin/NN wo/MD n't/RB run/VB in/IN 2012/NN
 |
 Top/JJ 5/NN ways/NNS to/TO lock/VB up/IN your/SPRP bike/NN
 |
-Libyan/JJ rebels/NNS enter/VB Tripolis/NNS Green/NNP Square/NNP as/IN Gadhafi's/NNS defences/NNS collapse/NN
+Libyan/JJ rebels/NNS enter/VB Tripolis/NNS Green/NNP Square/NNP as/IN Gadhafi/NNP '/POS s/PRP defences/NNS collapse/NN
 |
 Crews/NNP scramble/NN to/TO find/VB survivors/NNS as/IN Turkish/JJ earthquake/NN toll/NN climbs/VBZ
 |
@@ -1107,7 +1107,7 @@ New/NNP McGuinty/NN ad/NN attacks/NNS Tories/NNPS on/IN health/NN care/NN
 |
 BlackBerry/NN glitch/NN spreads/VBZ to/TO Canada/NNP ,/, users/NNS are/VBP cut/VB off/IN for/IN a/DT third/JJ day/NN
 |
-Shania/NN Twain's/NNS stalking/VBG trial/JJ derailed/VBD as/IN accused/VBN asks/VBZ to/TO plead/VB guilty/JJ
+Shania/NN Twain/NNP '/POS s/PRP stalking/VBG trial/JJ derailed/VBD as/IN accused/VBN asks/VBZ to/TO plead/VB guilty/JJ
 |
 Private/JJ garbage/NN pickup/NN coming/VBG sooner/RBR than/IN expected/VBN
 |
@@ -1139,7 +1139,7 @@ Live/NNP :/: Leafs/NNS chat/NN with/IN Damien/NN Cox/NNP
 |
 Cox/NNP :/: Cup/NNP champs/NNS give/VB Leafs/NNS early/RB season/NN lesson/NN
 |
-Sorry/JJ folks/NNS ,/, Toronto's/NNS still/RB the/DT worst/JJS city/NN in/IN Canada/NNP for/IN commuting/VBG
+Sorry/JJ folks/NNS ,/, Toronto/NNP '/POS s/PRP still/RB the/DT worst/JJS city/NN in/IN Canada/NNP for/IN commuting/VBG
 |
 Flaherty/NNP to/TO stick/VB by/IN budget-balancing/VBG plan/NN
 |
@@ -1244,7 +1244,7 @@ S&P/NNP fires/NNS back/RB amid/IN criticism/NN over/IN downgrade/NN
 |
 TSX/NN rally/RB continues/VBZ but/CC Dow/NNP plunges/NNS
 |
-The/DT Daily/RB Exchange/NNP :/: It's/NNP all/DT done/VBN but/CC getting/VBG out/IN the/DT vote/NN
+The/DT Daily/RB Exchange/NNP :/: It/TPRP '/POS s/PRP all/DT done/VBN but/CC getting/VBG out/IN the/DT vote/NN
 |
 Hudaks/NNS election/NN campaign/NN ready/JJ to/TO hit/VBD the/DT road/NN
 |
@@ -1272,9 +1272,9 @@ Off-duty/JJ York/NNP police/NN officer/NN killed/VBN in/IN crash/NN
 |
 Live/NNP at/IN noon/NN :/: Star/NNP writers/NNS discuss/VB the/DT Ontario/NNP election/NN
 |
-'Zombies/NNS '/POS hurt/VBN on/IN Toronto/NNP movie/NN set/VBN
+'/POS Zombies/NNS '/POS hurt/VBN on/IN Toronto/NNP movie/NN set/VBN
 |
-Belak's/NNS death/NN being/VBG treated/VBN as/IN suicide/NN ,/, police/NN source/NN confirms/VBZ
+Belak/NN '/POS s/PRP death/NN being/VBG treated/VBN as/IN suicide/NN ,/, police/NN source/NN confirms/VBZ
 |
 Compliments/NNS smoked/VBD ham/NN recalled/VBD in/IN GTA/NN
 |
@@ -1302,7 +1302,7 @@ Why/WRB do/VBP we/FPRP always/RB choose/VB the/DT thing/VBG in/IN the/DT middle/
 |
 Leafs/NNS place/NN Reimer/NN on/IN injured/VBN reserve/NN
 |
-Burgers/NNS with/IN a/DT side/NN of/IN politics/NNS at/IN 'Ford/NN Fest/NN '/POS
+Burgers/NNS with/IN a/DT side/NN of/IN politics/NNS at/IN '/POS Ford/NNP Fest/NN '/POS
 |
 Exercise/NN ?/.
 No/DT sweat/NN ./.
@@ -1618,7 +1618,7 @@ ScarboroughAgincourt/NN remains/VBZ in/IN the/DT red/JJ after/IN two/CD decades/
 Man/NN charged/VBN in/IN connection/NN with/IN four/CD murders/NNS in/IN Toronto/NNP
 |
 A/DT smile/NN or/CC a/DT snarl/NN ?/.
-Kids/NNP can't/MD tell/VB
+Kids/NNP ca/MD n't/RB tell/VB
 |
 Captured/VBN giant/NN crocodile/NN not/RB eating/VBG ,/, checked/VBN for/IN stress/NNS
 |
@@ -1695,7 +1695,7 @@ Hwy/NN ./.
 |
 Holy/RB Smoke/NNP :/: Turn/VB your/SPRP loved/VBD ones/NNS ashes/NNS into/IN bullets/NNS
 |
-INTERACTIVE/JJ :/: Who's/NNS on/IN top/JJ in/IN your/SPRP riding/VBG ?/.
+INTERACTIVE/JJ :/: Who/WP '/POS s/PRP on/IN top/JJ in/IN your/SPRP riding/VBG ?/.
 |
 Man/NN doused/VBD with/IN gas/NNS ,/, set/VBN alight/JJ ,/, trial/JJ told/VBD
 |
@@ -1770,7 +1770,7 @@ Controversial/JJ win/VB a/DT baby/NN contest/NN becomes/VBZ political/JJ
 |
 Cash/NNP for/IN family/RB planning/VBG group/NN approved/VBD
 |
-Downed/VBD pole/NN causing/VBG 'traffic/NN nightmare/NN '/POS on/IN Queen/NNP St/NNP ./. W/NNP ./.
+Downed/VBD pole/NN causing/VBG '/POS traffic/NN nightmare/NN '/POS on/IN Queen/NNP St/NNP ./. W/NNP ./.
 |
 Frustrated/JJ by/IN felines/NNS ?/.
 Call/VB the/DT cat/NN whisperer/NN :/:
@@ -1812,7 +1812,7 @@ Powerful/JJ 7.2/CD earthquake/NN kills/VBZ 85/NN people/NNS in/IN eastern/JJ Tur
 |
 British/JJ mom/NN distraught/JJ after/IN turning/VBG in/IN daughter/NN over/IN riots/NNS
 |
-'Theres/NNS no/DT closure/NN ,'/NN say/VBP families/NNS of/IN Canadian/JJ victims/NNS over/IN prisoner/NN release/NN
+'/POS Theres/NNS no/DT closure/NN ,'/NN say/VBP families/NNS of/IN Canadian/JJ victims/NNS over/IN prisoner/NN release/NN
 |
 Used/VBN hypodermic/JJ needles/NNS stolen/VBN from/IN Botox/NN clinic/NN
 |
@@ -1886,7 +1886,7 @@ Talks/NNS resume/VB this/DT weekend/NN in/IN college/NN strike/NN
 |
 Merkel/NNP :/: Europe/NNP needs/VBZ ability/NN to/TO restructure/VB countries/NNS ;/: steps/NNS that/IN can/MD be/VB controlled/VBN
 |
-Canada-U.S/CD ./. price/NN gap/NN 'irritating/VBG ,'/NN Flaherty/NNP says/VBZ
+Canada-U.S/CD ./. price/NN gap/NN '/POS irritating/JJ ,'/NN Flaherty/NNP says/VBZ
 |
 Full/JJ steam/NN ahead/RB at/IN cancelled/VBN Mississauga/NN gas/NNS plant/NN
 |
@@ -1900,7 +1900,7 @@ Price/NNP strikes/NNS out/IN 14/NN as/IN Rays/NNS crush/NN Blue/NNP Jays/NNPS 12
 |
 Ontario/NNP college/NN support/NN workers/NNS reach/VB tentative/JJ deal/JJ
 |
-Today/NN you'll/NN pay/VB more/JJR for/IN your/SPRP caramel/NN macchiato/NN
+Today/NN you/SPRP '/POS ll/NN pay/VB more/JJR for/IN your/SPRP caramel/NN macchiato/NN
 |
 Greece/NNP will/MD get/VB bailout/NN loans/NNS ,/, avoid/VB default/NN :/: Finance/NNP minister/NN
 |
@@ -1927,7 +1927,7 @@ Why/WRB Chinas/NNS richest/JJS man/NN is/VBZ joining/VBG the/DT communists/NNS
 |
 Jet/NNP carrying/VBG KHL/NN hockey/NN team/NN crashes/NNS ,/, killing/VBG 43/NN ,/, including/VBG Canadian/JJ coach/NN
 |
-Weather360/NN Powerful/JJ typhoon/NN hits/NNS China/NNP :/: Nanmadol's/NNS arrival/JJ in/IN parts/NNS of/IN China/NNP on/IN Thursday/NNP has/VBZ caused/VBN two/CD .../:
+Weather360/NN Powerful/JJ typhoon/NN hits/NNS China/NNP :/: Nanmadol/NN '/POS s/PRP arrival/JJ in/IN parts/NNS of/IN China/NNP on/IN Thursday/NNP has/VBZ caused/VBN two/CD .../:
 |
 Minnesotas/NNS Jim/NNP Thome/NN hits/NNS 600th/NN home/NN run/VB one/CD inning/VBG after/IN No/DT ./. 599/NN
 |
@@ -1939,7 +1939,7 @@ Colle/NN holding/VBG his/TPRP own/JJ against/IN star/NN Tory/NNP candidate/NN ,/
 |
 More/RBR violence/NN in/IN British/JJ capital/JJ after/IN riots/NNS
 |
-From/IN 'sexting/VBG '/POS to/TO truancy/NN :/: A/DT world/NN of/IN woes/NNS for/IN school/NN principals/NNS
+From/IN '/POS sexting/VBG '/POS to/TO truancy/NN :/: A/DT world/NN of/IN woes/NNS for/IN school/NN principals/NNS
 |
 World/NNP Series/NNP Game/NN 6/NN postponed/VBN due/JJ to/TO rain/NN
 |
@@ -1951,7 +1951,7 @@ Man/NN shot/NN near/IN Keele/NN and/CC Eglinton/NN
 |
 Water/NNP polo/NN player/NN suspended/VBN for/IN role/NN in/IN Stanley/NNP Cup/NNP riot/NN
 |
-Cleared/VBN of/IN murder/NN in/IN her/TPRP boyfriend's/NNS death/NN ,/, Melissa/NNP Lewis/NNP speaks/VBZ out/IN :/: 'I/PRP always/RB had/VBD faith/NN '/POS
+Cleared/VBN of/IN murder/NN in/IN her/TPRP boyfriend/NN '/POS s/PRP death/NN ,/, Melissa/NNP Lewis/NNP speaks/VBZ out/IN :/: '/POS I/FPRP always/RB had/VBD faith/NN '/POS
 |
 VIDEO/NN :/: Was/VBD executed/VBN inmate/NN innocent/JJ ?/.
 Court/NNP says/VBZ no/DT but/CC supporters/NNS say/VBP yes/UH
@@ -1968,7 +1968,7 @@ Chinese/JJ toddler/NN run/VB over/IN by/IN van/NNP ,/, and/CC left/VBN on/IN roa
 |
 Jays/NNPS rally/RB for/IN 5-4/NN victory/NN over/IN Red/VBN Sox/NNP
 |
-Britains/NNS prime/JJ minister/NN vows/VBZ 'fightback/NN '/POS as/IN Birmingham/NNP seethes/VBZ
+Britains/NNS prime/JJ minister/NN vows/VBZ '/POS fightback/NN '/POS as/IN Birmingham/NNP seethes/VBZ
 |
 Harper/NNP and/CC Obama/NN to/TO meet/VB in/IN early/RB fall/NN on/IN border/NN deal/JJ
 |
@@ -1980,7 +1980,7 @@ United/VBN Airways/NNPS plane/NN skids/NNS off/IN Ottawa/NNP runway/NN
 |
 How/WRB long/JJ can/MD home/NN prices/NNS keep/VB rising/VBG ?/.
 |
-Anthony/NNP to/TO pay/VB almost/RB $/$ 100K/NN for/IN cost/NN of/IN investigating/VBG Caylees/NNS death/NN
+Anthony/NNP to/TO pay/VB almost/RB $/$ 100/NN K/SLANG for/IN cost/NN of/IN investigating/VBG Caylees/NNS death/NN
 |
 Cox/NNP :/: Serenas/NNS diva/NN act/NN mars/VBZ U.S/CD ./.
 Open/NNP final/JJ
@@ -1998,7 +1998,7 @@ Ontario/NNP pressing/VBG ahead/RB on/IN affordable/JJ housing/VBG
 |
 Ontario/NNP leaders/NNS debate/NN turns/VBZ nasty/JJ midway/RB
 |
-Authorities/NNS used/VBN email/NN to/TO track/NN down/RB Australian/JJ 'collar/NN bomb/NN '/POS suspect/VBP
+Authorities/NNS used/VBN email/NN to/TO track/NN down/RB Australian/JJ '/POS collar/NN bomb/NN '/POS suspect/VBP
 |
 Riot/NN prompts/VBZ Vancouver/NNP to/TO consider/VB adding/VBG more/JJR CCTV/NN cameras/NNS
 |

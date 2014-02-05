@@ -113,8 +113,7 @@ def tokenize(twt):
         sentence = sentence.strip().split()
         cleansentence = []
         for word in sentence:
-            #word = re.split('(\s?[.!?",/\'@#$%&:;])', word) #This doesn't account for cases like U.S. where I wan't it to stay together and paid $10,000 and other stuff
-            word = re.split('([^\w]+?)(?=\s+|$)|(?<=\$)(\S+|$)|(["])|(?<=\")(\w+)', word)
+            word = re.split('([^\w]+?)(?=\s+|$)|(?<=\$)(\S+\d|$)|(["])|(?<=\")(\w+)|(n\'t)|(\')', word) #need to account for 5,000... and 
             clean_word = []
             for el in range(len(word)):
                 if word[el] is None:
@@ -124,18 +123,14 @@ def tokenize(twt):
             #Possible Implementations, 1) if there is punctuation inside the word like . or comma then don't split! Else split
             #that won't account for U.S. therefore the last period splits if next word is upper and doesn't if next word is lower?
             cleansentence.append(clean_word)
-        
+        #TODO: double check edge cases
         cleansentence = flatten(cleansentence)
-        print cleansentence
         sentence = to_tag(cleansentence)
         
         tweets.append(sentence)
         
     tweets = "\n".join(tweets)
     return tweets
-
-    #TODO: still need to deal with U.S. and other's like this
-    #TODO: also need to deal with ... and !!! and etc...
 
 '''
 Tagger Post Processing
@@ -176,11 +171,12 @@ If given more arguments, don't care about them
 '''
 # file_to_read = sys.argv[1]
 # file_to_write = sys.argv[2]
+files = ["tweet_test"]
 files = ["aplusk", "BarackObama", "bbcnews", "britneyspears", "CBCNews", "cnn", "justinbieber", 
          "katyperry", "KimKardashian", "ladygaga", "neiltyson", "nytimes", "Reuters", "rihanna", "sciencemuseum", 
          "shakira", "StephenAtHome", "taylorswift13", "TheOnion", "torontostarnews", "tweet_test"]
 
-#files = ["tweet_test"]
+
 '''
 Setup all dictionaries needed
 '''
