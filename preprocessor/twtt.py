@@ -169,12 +169,12 @@ Argument Processing
 To take the 2 arguments required
 If given more arguments, don't care about them
 '''
-# file_to_read = sys.argv[1]
-# file_to_write = sys.argv[2]
-files = ["tweet_test"]
-files = ["aplusk", "BarackObama", "bbcnews", "britneyspears", "CBCNews", "cnn", "justinbieber", 
-         "katyperry", "KimKardashian", "ladygaga", "neiltyson", "nytimes", "Reuters", "rihanna", "sciencemuseum", 
-         "shakira", "StephenAtHome", "taylorswift13", "TheOnion", "torontostarnews", "tweet_test"]
+file_to_read = sys.argv[1]
+file_to_write = sys.argv[2]
+# files = ["tweet_test"]
+# files = ["aplusk", "BarackObama", "bbcnews", "britneyspears", "CBCNews", "cnn", "justinbieber", 
+        #  "katyperry", "KimKardashian", "ladygaga", "neiltyson", "nytimes", "Reuters", "rihanna", "sciencemuseum", 
+        #  "shakira", "StephenAtHome", "taylorswift13", "TheOnion", "torontostarnews", "tweet_test"]
 
 
 '''
