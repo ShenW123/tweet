@@ -2,12 +2,24 @@
 Created on 2014-02-02
 
 @author: Shen Wang
+
+Functions as to get the attributes of the file tweet requested and returns a list in the order of attributes
 '''
 import re
 
+'''
+get number of occurrences of a tag given a string twt
+    Input: a string tag and a string twt
+    Output: integer number of occurrences of tag in twt
+'''
 def get_number_occurances(tag, twt):
     return len(re.findall('(\/%s |\/%s$|\/%s\n)', twt))
 
+'''
+gets the average length of a list
+    Input: a list of any type
+    Output: float average length of the entire list
+'''
 def averageLen(lst):
     lengths = []
     for i in lst:
